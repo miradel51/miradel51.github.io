@@ -1,0 +1,373 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+body {
+  /*background-image: url("../img/gray_jean.png");*/
+  padding-top:0px;
+  margin: 0 !important;
+  /*font: 18px Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; */
+  /*font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size:14px;
+  font-weight:300;
+  line-height:1.428571429;
+  color:#333;*/
+  /*font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";*/
+  font: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#444;
+  font-weight:300;
+  line-height:1.428571429;
+  background-color: #424949 ;
+  background: transparent;
+}
+
+hr.vertical
+{
+   width: 1px;
+   height: 100%; /* or height in PX */
+} 
+
+div.vertical-line{
+  width: 1px; /* Line width */
+  height: 100%; /* Override in-line if you want specific height. */
+  float: left; /* Causes the line to float to left of content. 
+    You can instead use position:absolute or display:inline-block
+    if this fits better with your design  */
+}
+h1, h2, h3, h4, h5, h6{
+  color:"black";/*#222;*/
+  margin:0 0 10px;
+}
+
+p, ul, ol, pre, dl {/*table,*/
+margin:0 0 10px;
+ font-size:16.5px;
+}
+
+
+
+h1, h2, h3 {
+  line-height:1.1;
+}
+
+h1 {
+  font-size:28px;
+}
+
+h2 {
+  color:"black";/*#222;*/
+  /*color:#393939;*/
+}
+
+h3, h4, h5, h6 {
+  color:"black";/*#222;*/
+  /*color:#494949;*/
+}
+
+a {
+  color:"black";
+  font-weight:500;
+  text-decoration:none;
+}
+
+a:hover {
+  color:#39c;
+}
+a.mypar {text-align: right}
+a small {
+  font-size:11px;
+  color:#777;
+  margin-top:-0.6em;
+  display:block;
+}
+
+.wrapper {
+  width:900px;
+  padding-top:30px;
+  padding-left:0px;
+  padding-right:100px;
+  margin:0 150px;
+  /*margin-right: 250px;
+  margin:0  250px 0 250px;*/
+  float:center;
+  align:center;
+}
+
+.nav_bar {
+  width:1250px;
+  height:30px;
+  padding-top:5px;
+  padding-left:0px;
+  padding-right:0px;
+  margin:0 0px;
+  /*margin-right: 250px;
+  margin:0  250px 0 250px;*/
+  float:center;
+  align:center;
+  background-color: #ff9933;
+}
+
+.courseproject {
+  width:850px;
+  padding-top:100px;
+  padding-left:0px;
+  margin:0 auto;
+  align:center;
+}
+.circular {
+  width: 300px;
+  height: 300px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url(http://link-to-your/image.jpg) no-repeat;
+  }
+
+.circular img {
+  opacity: 0;
+  filter: alpha(opacity=0);
+  }
+
+blockquote {
+  border-left:1px solid #e5e5e5;
+  margin:0;
+  padding:0 0 0 20px;
+  font-style:italic;
+}
+
+code, pre {
+  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
+  color:#333;
+  font-size:12px;
+}
+
+pre {
+  padding:8px 15px;
+  background: #f8f8f8;  
+  border-radius:5px;
+  border:1px solid #e5e5e5;
+  overflow-x: auto;
+}
+
+table {
+  width:100%;
+  align:center;
+  /*border-collapse:collapse;*/
+}
+
+th, td {
+  text-align:left;
+  padding:5px 10px;
+  /*border-bottom:1px solid #e5e5e5;*/
+}
+
+dt {
+  color:#444;
+  font-weight:600;
+}
+
+th {
+  color:#444;
+}
+
+img {
+  max-width:100%;
+}
+
+/*topheader {
+  width:900px;
+  float:top;
+  position:center;
+  background: transparent; 
+}*/
+header {
+  width:270px;
+  float:right;
+  position:absolute;
+  padding-top:80px;
+  background:transparent;
+}
+
+header ul {
+  list-style:none;
+  /*background:url("../img/gray_jean.png");*/
+  height:30px;
+  width:270px;
+  padding:0;
+  background: transparent;
+  /*
+  background: #eee;
+  background: -moz-linear-gradient(top, #f8f8f8 0%, #dddddd 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
+  background: -webkit-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
+  background: -o-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
+  background: -ms-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
+  background: linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
+  
+  border-radius:5px;
+  border:1px solid #d2d2d2;
+  box-shadow:inset #fff 0 1px 0, inset rgba(0,0,0,0.03) 0 -1px 0;*/
+}
+body li {
+   margin:0 0 8px;
+   line-height: 120%;
+}
+header li {
+  width:100px; /*89px*/
+  margin:0 0 5px;
+  background: transparent;
+   /*background:url("../img/gray_jean.png");*/
+  /*float:left;
+  border-right:1px solid #d2d2d2;*/
+  height:20px;
+}
+
+header ul a {
+  background: transparent;
+  line-height:1;
+  font-size:16px;
+   /*background:url("../img/gray_jean.png");*/
+  color:"black";/*#39c;*/
+  /*display:block;
+  text-align:center;*/
+  padding-top:3px;
+  padding-bottom:3px;
+  height:40px;
+}
+
+strong {
+  color:#444;/*#000;*/
+  font-weight:550;/*550*/
+}
+
+header ul li + li {
+  width:88px;
+  background: transparent;
+   /*background:url("../img/gray_jean.png");*/
+  /*border-left:1px solid #fff;*/
+}
+
+header ul li + li + li {
+  border-right:none;
+  background: transparent;
+   /*background:url("../img/gray_jean.png");*/
+  width:89px;
+}
+
+header ul a strong {
+  font-size:14px;
+  background: transparent;
+   /*background:url("../img/gray_jean.png");*/
+  /*display:block;*/
+  color:#39c;
+}
+
+section {
+  padding-top:60px;
+  padding-left:40%; /*260px*/
+  padding-right:5%;
+  width:75%;
+  float:left;
+  padding-bottom:100px;
+}
+
+small {
+  font-size:16px;
+}
+
+hr {
+  border:0;
+  background:#e5e5e5;
+  height:1px;
+  margin:0 0 20px;
+}
+
+navs {
+  font: left;
+  width:100%;
+  height:45px;
+  float:top;
+  position:absolute;
+  padding-top:0px;
+  /*padding-left: 30px;*/
+  /*margin: 0 !important;*/
+  /*margin: 0 100px;
+  /*bottom:30px;*/
+  background-color: #ff9933;
+  /*background: transparent; */
+  white-space:nowrap;
+}
+navs a{
+  font-size:25px;
+  color:white;
+}
+
+@media print, screen and (max-width: 960px) {
+  
+  div.wrapper {
+    width:auto;
+    margin:0;
+  }
+  
+  header, section, navs {
+     /*background:url("../img/gray_jean.png");*/
+    float:none;
+    position:static;
+    width:auto;
+  }
+  
+  header {
+    padding-right:200px;
+  }
+  
+  section {
+    border:1px solid #e5e5e5;
+    border-width:1px 0;
+    padding:10px 0;
+    margin:0 0 20px;
+  }
+  
+  header a small {
+    display:inline;
+  }
+  
+  header ul {
+    position:absolute;
+    right:50px;
+    top:52px;
+  }
+}
+
+@media print, screen and (max-width: 720px) {
+  body {
+    word-wrap:break-word;
+  }
+  
+  header {
+    padding:0;
+  }
+  
+  header ul, header p.view {
+    position:static;
+  }
+  
+  pre, code {
+    word-wrap:normal;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
+  body {
+    padding:10px;
+  }
+  
+  header ul {
+    display:none;
+  }
+}
+
+@media print {
+  body {
+    padding:0.4in;
+    font-size:12pt;
+    color:#444;
+  }
+}
