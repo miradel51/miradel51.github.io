@@ -27,6 +27,6 @@ News
 ------
 
 <div style="width: 250px; margin: auto;">
-		<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=Y1UFl2nSBtyprQg6cZvmxQXBD9KWFC8yva_6uF5dm34&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+		<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=Y1UFl2nSBtyprQg6cZvmxQXBD9KWFC8yva_6uF5dm34&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
 	
 </div>
