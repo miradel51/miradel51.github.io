@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lijun Wu"
+title                    : "Mieradilijiang"
 title_separator          : "-"
-name                     : &name "Lijun Wu"
+name                     : &name "Mieradilijiang Maimaiti"
 description              : &description "personal description"
 url                      : https://miradel51.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "apeterswu/apeterswu.github.io"  #"academicpages/academicpages.github.io"
+repository               : "miradel51/miradel51.github.io"  #"academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lijun Wu"
+  name             : "Mieradilijiang Maimaiti"
   avatar           : "lijun_wu_circle.png"
-  bio              : "Ph.D., Artifical Intelligence"
+  bio              : "PPh.D., in Department of CS at THU."
   location         : Beijing, China
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=RD5kSG0AAAAJ"
-  email            : "apeterswu@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=NaN6LowAAAAJ&hl=en"
+  email            : "miradel_51@hotmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,22 +96,22 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "apeterswu"
+  github           : "miradel51"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "lijun-wu-59340478/"
-  orcid            : 
+  linkedin         : "miradeljan-muhammad-a1037a3b/"
+  orcid            : "0000-0002-4231-6519"
   pinterest        :
   soundcloud       : 
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "http://stackoverflow.com/users/8031568/miradeljan?tab=profile"
   steam            :
   tumblr           : 
   twitter          : 
   vine             :
-  weibo            :
+  weibo            : 
   xing             :
   youtube          :
   wikipedia        :
