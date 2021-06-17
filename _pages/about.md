@@ -8,25 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-<img src="https://apeterswu.github.io/images/msra.png" alt="msra"  width="200">
-
 About me
 ------
-Lijun Wu is currently a researcher of [Machine Learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) in [Microsoft Research Asia (MSRA)](https://www.msra.cn/). He got the Ph.D. degree from [Sun Yat-sen University (SYSU)](http://www.sysu.edu.cn/2012/en/index.htm), [School of Data and Computer Science](http://sdcs.sysu.edu.cn/) in 2020, was a member of [joint Ph.D. program](https://www.msra.cn/zh-cn/connections/academic-programs/joint-phd) between SYSU and MSRA, advised by [Dr. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/) and [Prof. Jianhuang Lai](http://sdcs.sysu.edu.cn/content/2498). He received [MSRA Ph.D. Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) in 2018. Prior to that, he obtained the Bachelor degree in the same department in 2015. 
 
-His researches focus on Deep Learning, Natural Language Processing, Multimodality Learning, Medical Health. Works during the Ph.D. journey are mostly on sequence learning tasks such as neural machine translation. He is also interested in meta learning, reinforcement learning.
+I am a Ph.D. in [Natural Language Processing (NLP) Group](https://nlp.csai.tsinghua.edu.cn/) at [Tsinghua University (THU)](https://www.tsinghua.edu.cn/en/). My mentor is [Prof. MaoSong Sun](https://nlp.csai.tsinghua.edu.cn/staff/sms/) . I am also advised by [Prof. Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/). 
+My research interests are NLP, Machine Translation (MT), Machine Learning (ML), Deep Learning (DL) and Neural Network (NN). I have been exploring some works related to MT under the guidance of [Prof. Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/) since September 2015.  I am working on Neural Machine Translation (NMT) between both Low-Resource Languages (LRLs) and Morphologically Rich Languages (MRLs), and include some minorities languages.  Meanwhile, I have been investigating some tasks about "Domain Adaptation (DA) Problem for NMT"  approximately for more than one year.  Currently, I am focusing on Transfer Learning (TL)  and text generation field. The latest work what I am doing is about data augmentation for LRLs in NMT.
 
-You can also refer to the [Microsoft Page](https://www.microsoft.com/en-us/research/people/lijuwu/).
+In my master, I had also worked on computational morphology,  speech recognition, speech synthesis and morphological analysis in both agglutinated and inflected languages under the guidance of Engineering Academician [Prof. Wushouer Silamu](https://ysg.ckcest.cn/html/details/3943/index.html) . When I was bachelor I also developed some desktop applications, as well as educational softwares and medical applications, several network applications (company websites and official government websites) and some useful APPs for Android and Windows Phone (WP) at [Xinjiang University (XJU)](https://www.xju.edu.cn/) before coming to [THU](https://www.tsinghua.edu.cn/en/). Therefore, I had collected some experiences about software developing for desktop, network and smart mobile devices before began my Ph.D. 
 
-Feel free and welcome to contact for intern positions and possible collobaration!
+Moreover, I am keen on addressing some NLP problems by taking advantages of ML and DL approaches.  Presently, I spend more and more time on NLP tasks mainly on some interesting and meaningful problems for NMT.
 
-<strong>Keep Learning!</strong>
+<strong>Nothing is impossible!</strong>
 
 News
 ------
-05/09/2021  [One paper](/publication/2021_icml_temp_cor) about seqeunce learning is accepted by ICML-2021. <br>
-03/11/2021  Our paper "[UniDrop](/publication/2021_naacl_unidrop)" is accepted by NAACL-2021. <br>
-01/14/2021  Our paper "[IOT](/publication/2021_iclr_iot)" is accepted by ICLR-2021. <br>
+05/24/2021  [Finally I also did it!](https://www.linkedin.com/feed/update/urn:li:activity:6803196850481463296/) I have also accomplished my Phd Defense!. <br>
 
 ------
 
