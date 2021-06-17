@@ -9,15 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](https://apeterswu.github.io/files/lijunwu_cv.pdf)
-
 Education
 ======
-* B.S, Sun Yat-Sen University, 08/2011-07/2015
-  * School of Information Science and Technology
-* Ph.D, Sun Yat-Sen University, 08/2015-06/2020
-  * School of Data and Computer Science
-  * Joint Ph.D. Program between SYSU and MSRA
+* B.S, Xinjiang University, 08/2007-07/2012
+  * Computer Science and Technology 
+  * School of Information Science and Engineering
+  * [Xinjiang Multi-Lingual Information Technology Key Laboratory](http://202.201.242.181:8000/translator/index.html)
+* M.S, Xinjiang University, 08/2012-07/2015
+  * Computer Software Engineering 
+  * School of Information Science and Engineering
+  * [Xinjiang Multi-Lingual Information Technology Key Laboratory](http://202.201.242.181:8000/translator/index.html)
+* Ph.D, Tsinghua University, 08/2015-06/2021
+  * Computer Science and Technology
+  * Department of Computer Science and Technology
+  * [THUNLP Group](https://nlp.csai.tsinghua.edu.cn/)
 
 Honors
 ======
