@@ -27,5 +27,5 @@ News
 ------
 
 <div style="width: 250px; margin: auto;">
-		<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Y1UFl2nSBtyprQg6cZvmxQXBD9KWFC8yva_6uF5dm34"></script>
+		<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Y1UFl2nSBtyprQg6cZvmxQXBD9KWFC8yva_6uF5dm34&cl=ffffff&w=a"></script>
 </div>
