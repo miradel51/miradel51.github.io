@@ -55,18 +55,32 @@ Meanwhile, it has strong flexibility, and it is an extendable system that can be
 * Social Practice Intern, Information Team, [Xinjiang Tourism Investment Management Co. Ltd](http://www.xinhuanet.com/travel/2019-09/06/c_1124969030.htm), 06/2016-08/2016
   * Base: Urumqi, Xinjiang, China
   * Mentor: Nan Zhu
-  * Project: Smart Tourism
-  * Contribution: In this project, I had presented a technical report for providing the multi-lingual service. Besides, I also designed the main architectures of spoken translation by using of ASR and TTS.
+  * Project: THU College Summer Social Practice Activities
+  * Contribution: In this project, I had presented a technical report for providing the multi-lingual service. Besides, I also designed the main architectures of spoken translation by combining ASR and TTS for the project of "Smart Tourism".
 * NLP Researcher (Apprenticeship), [THUNLP Group](https://nlp.csai.tsinghua.edu.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/csen/), 09/2015 - Present
   * Base: Beijing, China
   * Mentor: [Prof. MaoSong Sun](https://nlp.csai.tsinghua.edu.cn/staff/sms/), [Prof. Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/)
   * Project: Cross-lingual Information Retrieval system and Low-Resource Languages NMT system
   * Contribution: I had developed a cross-lingual information retrieval system between minority languages (Uyghur, Tibetan, Mongolian) and Chinese. I have also developed NMT online demo for LRLs ([demo](http://101.6.5.207:5152/)). 
+* Visited Scholar, [Machine Intelligence and Translation Lab](http://mitlab.hit.edu.cn/main.htm), [HIT](http://www.hit.edu.cn/), 09/2014-10/2014
+  * Base: Harbin, Heilongjiang, China
+  * Mentor: [Dr. Conghui Zhu](http://mitlab.hit.edu.cn/2018/0608/c9183a210166/page.htm)
+  * Project: Uyghur-Chinese Statistical Machine Translation (SMT)
+  * Task: Learn to related techniques about SMT, such as learning open source system MOSES, learn how to train, how to tuning the model, how to optimise and how to deploy the trained model on the web server. Meanwhile, I have been taught the CRF model by [Dr. Conghui Zhu](http://mitlab.hit.edu.cn/2018/0608/c9183a210166/page.htm). Besides, I also improved my Linux skills in their Lab. 
+* Software Engineer, Information Team, Xinjiang Tiznap Information Technology Co. Ltd, 04/2013-11/2013
+  * Base: Urumqi, Xinjiang, China
+  * Project: Uyghur Search Engine
+  * Contribution: I had taken part the backend developing of Uyghur Information Retrieval System, and chollected some experiences about IR system.
 * NLP Researcher (Apprenticeship), [Xinjiang Multi-Lingual Information Technology Key Laboratory](http://202.201.242.181:8000/translator/index.html), 09/2012-11/2015
   * Base: Urumqi, Xinjiang, China
   * Mentor: [Prof. Wushouer Silamu](https://ysg.ckcest.cn/html/details/3943/index.html)
   * Project: Uyghur ASR, TTS, Spoken Translation systems
   * Contribution: I had accomplished the Uyghur multi-script TTS model collaborate with my teammates. Meanwhile, we also proposed the Uyghur Voice Controlling ASR model. The last year in my master we had developed Uyghur-Chinese bi-directional spoken translation system by combing our single separately trained models (Uyghur ASR, TTS, and MT).
+* Social Practice Intern, Information Team, Government office, 07/2010-08/2010
+  * Base: Kashgar, Xinjiang, China
+  * Mentor: Hayrulla
+  * Project: XJU College Summer Social Practice Activities
+  * Contribution: In this project, we had taught local farmers commonly used tech and current preferential policies for farmers.
 * Software Engineer (Apprenticeship), [Xinjiang Multi-Lingual Information Technology Key Laboratory](http://202.201.242.181:8000/translator/index.html), 11/2009-06/2012
   * Base: Urumqi, Xinjiang, China
   * Mentor: [Prof. Wushouer Silamu](https://ysg.ckcest.cn/html/details/3943/index.html)
