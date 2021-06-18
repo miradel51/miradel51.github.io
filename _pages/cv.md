@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* Chinese [PDF](https://miradel51.github.io/files/me_cv_ch.pdf)
+* Chinese [PDF](https://miradel51.github.io/files/me_cv_ch_new.pdf)
 * English
 
 Education
