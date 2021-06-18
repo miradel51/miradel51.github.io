@@ -33,8 +33,6 @@ Education
 
 Experience
 ======
-* Research Intern, Machine Learing Group, MSRA, 01/2019-06/2020
-  * Mentor: [Dr. Tao Qin](http://research.microsoft.com/en-us/people/taoqin/)
 * Research Intern, Machine Learing Group, MSRA, 06/2016-10/2018
   * Mentor: [Dr. Tao Qin](http://research.microsoft.com/en-us/people/taoqin/), [Dr. Fei Tian](https://ustctf.github.io/)
 * Research Intern, Artificial Intelligence Group Group, MSRA, 07/2014-07/2015
