@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 * Chinese [PDF](https://miradel51.github.io/files/me_cv_ch_new.pdf)
-* English
+* English version is coming soon.
 
 Education
 ======
@@ -44,15 +44,34 @@ Besides, the proposed approach is fused into the dialogue system of internationa
   * Project: Multi-Lingual E-commerce Platform
   * Contribution: I had directed our team to develop the multilingual E-commerce platform whose frontend and backend were written by ours rather than using other's frameworks. 
 Meanwhile, it has strong flexibility, and it is an extendable system that can be changed to online teaching or online training system effortlessly.
+* Technical Advisor, MT Team, [NewTranx Technology](http://www.newtranx.com/), 12/2018-05/2019
+  * Base: Shenzhen, Guangdong, China
+  * Project: NMT for Morphologically Rich Languages ([Arabic-Chinese](https://fanyi.newtranx.com/?lng=cn#/onTrans))
+  * Contribution: I had provided some technical advice for training the NMT model for morphologically rich languages (Arabic, Turkish, and Urdu) between Chinese. We used well-known NMT architecture (Transformer) with a commonly used Neural Network toolkit (Tensorflow). Besides, I have provided some processing tools for Arabic, Turkish, and Urdu.
+* Technical Advisor, MT Team, [SinoVoice](https://www.sinovoice.com/), 11/2017-11/2018
+  * Base: Beijing, China
+  * Project: NMT for Low-Resource Languages ([Uyghur-Chinese](https://translate.aicloud.com/))
+  * Contribution: I had adviced the MT team to implement the Uyghur-Chinese bi-directional NMT system efficiently and quickly. Besides, I had also provided both pre/post-processing codes for Uyghur.
+* Social Practice Intern, Information Team, [Xinjiang Tourism Investment Management Co. Ltd](http://www.xinhuanet.com/travel/2019-09/06/c_1124969030.htm), 06/2016-08/2016
+  * Base: Urumqi, Xinjiang, China
+  * Mentor: Nan Zhu
+  * Project: Smart Tourism
+  * Contribution: In this project, I had presented a technical report for providing the multi-lingual service. Besides, I also designed the main architectures of spoken translation by using of ASR and TTS.
 * NLP Researcher (Apprenticeship), [THUNLP Group](https://nlp.csai.tsinghua.edu.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/csen/), 09/2015 - Present
   * Base: Beijing, China
+  * Mentor: [Prof. MaoSong Sun](https://nlp.csai.tsinghua.edu.cn/staff/sms/), [Prof. Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/)
   * Project: Cross-lingual Information Retrieval system and Low-Resource Languages NMT system
-  * Contribution: I have developed a cross-lingual information retrieval system between minority languages (Uyghur, Tibetan, Mongolian) and Chinese. I have also developed NMT online demo for LRLs ([demo](http://101.6.5.207:5152/)). 
+  * Contribution: I had developed a cross-lingual information retrieval system between minority languages (Uyghur, Tibetan, Mongolian) and Chinese. I have also developed NMT online demo for LRLs ([demo](http://101.6.5.207:5152/)). 
 * NLP Researcher (Apprenticeship), [Xinjiang Multi-Lingual Information Technology Key Laboratory](http://202.201.242.181:8000/translator/index.html), 09/2012-11/2015
   * Base: Urumqi, Xinjiang, China
+  * Mentor: [Prof. Wushouer Silamu](https://ysg.ckcest.cn/html/details/3943/index.html)
   * Project: Uyghur ASR, TTS, Spoken Translation systems
   * Contribution: I had accomplished the Uyghur multi-script TTS model collaborate with my teammates. Meanwhile, we also proposed the Uyghur Voice Controlling ASR model. The last year in my master we had developed Uyghur-Chinese bi-directional spoken translation system by combing our single separately trained models (Uyghur ASR, TTS, and MT).
-
+* Software Engineer (Apprenticeship), [Xinjiang Multi-Lingual Information Technology Key Laboratory](http://202.201.242.181:8000/translator/index.html), 11/2009-06/2012
+  * Base: Urumqi, Xinjiang, China
+  * Mentor: [Prof. Wushouer Silamu](https://ysg.ckcest.cn/html/details/3943/index.html)
+  * Project: Operation System (Localization), Software Development
+  * Contribution: I had taken part in the Win7 Operation System localization task. Besides, I had developed desktop applications (Education System) and Network applications (Multilingual website, Government website, and Companies website). Meanwhile, the last year in my undergraduate I had designed Android APPs for learning Chinese. 
 
   
 
