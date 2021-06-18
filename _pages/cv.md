@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-[Chinese CV](https://apeterswu.github.io/files/me_cv_ch.pdf)
-English CV
+* Chinese [PDF](https://apeterswu.github.io/files/me_cv_ch.pdf)
+* English
 
 Education
 ======
