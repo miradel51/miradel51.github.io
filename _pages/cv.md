@@ -51,12 +51,12 @@ Meanwhile, it has strong flexibility, and it is an extendable system that can be
 * Technical Advisor, MT Team, [SinoVoice](https://www.sinovoice.com/), 11/2017-11/2018
   * Base: Beijing, China
   * Project: NMT for Low-Resource Languages ([Uyghur-Chinese](https://translate.aicloud.com/))
-  * Contribution: I had adviced the MT team to implement the Uyghur-Chinese bi-directional NMT system efficiently and quickly. Besides, I had also provided both pre/post-processing codes for Uyghur.
+  * Contribution: I had advised the MT team to implement the Uyghur-Chinese bi-directional NMT system efficiently and quickly. Besides, I had also provided both pre/post-processing codes for Uyghur.
 * Social Practice Intern, Information Team, [Xinjiang Tourism Investment Management Co. Ltd](http://www.xinhuanet.com/travel/2019-09/06/c_1124969030.htm), 06/2016-08/2016
   * Base: Urumqi, Xinjiang, China
   * Mentor: Nan Zhu
   * Project: THU College Summer Social Practice Activities
-  * Contribution: In this project, I had presented a technical report for providing the multi-lingual service. Besides, I also designed the main architectures of spoken translation by combining ASR and TTS for the project of "Smart Tourism".
+  * Contribution: In this project, I had presented a technical report for providing the multi-lingual service. Besides, I also designed the main architectures of spoken translation by combining ASR and TTS for the project "Smart Tourism."
 * NLP Researcher (Apprenticeship), [THUNLP Group](https://nlp.csai.tsinghua.edu.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/csen/), 09/2015 - Present
   * Base: Beijing, China
   * Mentor: [Prof. MaoSong Sun](https://nlp.csai.tsinghua.edu.cn/staff/sms/), [Prof. Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/)
@@ -66,21 +66,21 @@ Meanwhile, it has strong flexibility, and it is an extendable system that can be
   * Base: Harbin, Heilongjiang, China
   * Mentor: [Dr. Conghui Zhu](http://mitlab.hit.edu.cn/2018/0608/c9183a210166/page.htm)
   * Project: Uyghur-Chinese Statistical Machine Translation (SMT)
-  * Task: Learn to related techniques about SMT, such as learning open source system MOSES, learn how to train, how to tuning the model, how to optimise and how to deploy the trained model on the web server. Meanwhile, I have been taught the CRF model by [Dr. Conghui Zhu](http://mitlab.hit.edu.cn/2018/0608/c9183a210166/page.htm). Besides, I also improved my Linux skills in their Lab. 
+  * Task: Learn related techniques about SMT, such as learning open-source system MOSES, learn how to train, how to tune the model, how to optimize, and how to deploy the trained model on the webserver. Meanwhile, I have been taught the CRF model by [Dr. Conghui Zhu](http://mitlab.hit.edu.cn/2018/0608/c9183a210166/page.htm). Besides, I also improved my Linux skills in their Lab. 
 * Software Engineer, Information Team, Xinjiang Tiznap Information Technology Co. Ltd, 04/2013-11/2013
   * Base: Urumqi, Xinjiang, China
   * Project: Uyghur Search Engine
-  * Contribution: I had taken part the backend developing of Uyghur Information Retrieval System, and chollected some experiences about IR system.
+  * Contribution: I had taken part in the backend development of the Uyghur Information Retrieval System and collected some experiences about the IR system.
 * NLP Researcher (Apprenticeship), [Xinjiang Multi-Lingual Information Technology Key Laboratory](http://202.201.242.181:8000/translator/index.html), 09/2012-11/2015
   * Base: Urumqi, Xinjiang, China
   * Mentor: [Prof. Wushouer Silamu](https://ysg.ckcest.cn/html/details/3943/index.html)
   * Project: Uyghur ASR, TTS, Spoken Translation systems
-  * Contribution: I had accomplished the Uyghur multi-script TTS model collaborate with my teammates. Meanwhile, we also proposed the Uyghur Voice Controlling ASR model. The last year in my master we had developed Uyghur-Chinese bi-directional spoken translation system by combing our single separately trained models (Uyghur ASR, TTS, and MT).
+  * Contribution: I had accomplished the Uyghur multi-script TTS model collaborate with my teammates. Meanwhile, we also proposed the Uyghur Voice Controlling ASR model. The last year in my master, we had developed Uyghur-Chinese bi-directional spoken translation system by combing our single separately trained models (Uyghur ASR, TTS, and MT).
 * Social Practice Intern, Information Team, Government office, 07/2010-08/2010
   * Base: Kashgar, Xinjiang, China
   * Mentor: Hayrulla
   * Project: XJU College Summer Social Practice Activities
-  * Contribution: In this project, we had taught local farmers commonly used tech and current preferential policies for farmers.
+  * Contribution: In this project, we had taught local farmers commonly used techniques and current preferential policies for farmers.
 * Software Engineer (Apprenticeship), [Xinjiang Multi-Lingual Information Technology Key Laboratory](http://202.201.242.181:8000/translator/index.html), 11/2009-06/2012
   * Base: Urumqi, Xinjiang, China
   * Mentor: [Prof. Wushouer Silamu](https://ysg.ckcest.cn/html/details/3943/index.html)
@@ -91,23 +91,23 @@ Meanwhile, it has strong flexibility, and it is an extendable system that can be
 
 Honors
 ======
-* Outstanding Graduate Awards of SYSU, 2020
-* Outstanding Reviewer of EMNLP, 2019
-* [1st Place of WMT 2019 in 5 translation directions: En->De, De->En, De->Fr, Fr->De and Ru->En](http://matrix.statmt.org/?metric%5Bid%5D=5&mode=bestn&test_set%5Bid%5D=27), 2019
-* [Microsoft Research Asia Ph.D. Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows), 2018
-* Graduate Student National Scholarship, 2018
-* Stars of Tomorrow Internship Award of Microsoft Research Asia, 2018
-* Outstanding Undergraduate Awards of SYSU, 2015
-* [1st Place of Global IBM/IEEE Smarter Planet Challenge](http://www.sysu.edu.cn/2012/en/news/new05/14334.htm), 2013
-* Undergraduate Student National Scholarship, 2012, 2013
-* First Class Scholarship of SYSU, 2012, 2013, 2014
+* Outstanding student cadre of XJU, 2007-2008
+* National Encouragement Scholarship, 2008-2009
+* Excellent league member of XJU, 2008-2009
+* National Encouragement Scholarship, 2009-2010
+* Advanced Individual in Social Practice Intern of XJU, 10/2010
+* Second prize in the program design competition of XJU, 06/2011
+* National Scholarship (Undergraduate), 2010-2011
+* Outstanding Student, 2010-2011
+* Outstanding Graduates (Undergraduate), 06/2012
+* Second-class scholarship for postgraduate, 09/2012, 09/2013, 09/2014
+* National Scholarship (Postgraduate), 12/2014
+* Third-class Social Practice Scholarship for Postgraduates of THU, 12/2016
 
-
-Activities
+Academic Service
 ======
-* SPC/AC: IJCAI-21, ACL-21
-* Conference reviewers: ICLR, ICML, NeurIPS, AAAI, IJCAI, ACL, CVPR, EMNLP, NAACL, COLING, EACL, AACL
-* Journal reviewers: TPAMI, Neurocomputing, Computer Speech and Language, IJIS, TALLIP, IEEE Access
+* Conference reviewers: ACL2016, AAAI2018, COLING2018, NAACL2019
+* Journal reviewers: Inter National Journal of Intelligent System 2021
 
 Talks
 ======
