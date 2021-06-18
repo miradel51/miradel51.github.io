@@ -14,18 +14,32 @@ redirect_from:
 
 Education
 ======
-* B.S, Xinjiang University, 08/2007-07/2012
+* Preparatory, [XJU](https://www.xju.edu.cn/), 09/2007-07/2008
+  *  Chinese Learning (Intensive Program)
+  *  [School of Chinese Language and Literature](http://rwxy.xju.edu.cn/)
+* B.S, [XJU](https://www.xju.edu.cn/), 09/2008-07/2012
   * Computer Science and Technology 
-  * School of Information Science and Engineering
+  * [School of Information Science and Engineering](http://it.xju.edu.cn/)
   * [Xinjiang Multi-Lingual Information Technology Key Laboratory](http://202.201.242.181:8000/translator/index.html)
-* M.S, Xinjiang University, 08/2012-07/2015
+* M.S, [XJU](https://www.xju.edu.cn/), 09/2012-06/2015
   * Computer Software Engineering 
-  * School of Information Science and Engineering
+  * [School of Information Science and Engineering](http://it.xju.edu.cn/)
   * [Xinjiang Multi-Lingual Information Technology Key Laboratory](http://202.201.242.181:8000/translator/index.html)
-* Ph.D, Tsinghua University, 08/2015-06/2021
+* Ph.D, [THU](https://www.tsinghua.edu.cn/en/), 09/2015-06/2021
   * Computer Science and Technology
-  * Department of Computer Science and Technology
+  * [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/csen/)
   * [THUNLP Group](https://nlp.csai.tsinghua.edu.cn/)
+
+
+Experience
+======
+* Research Intern, Machine Learing Group, MSRA, 01/2019-06/2020
+  * Mentor: [Dr. Tao Qin](http://research.microsoft.com/en-us/people/taoqin/)
+* Research Intern, Machine Learing Group, MSRA, 06/2016-10/2018
+  * Mentor: [Dr. Tao Qin](http://research.microsoft.com/en-us/people/taoqin/), [Dr. Fei Tian](https://ustctf.github.io/)
+* Research Intern, Artificial Intelligence Group Group, MSRA, 07/2014-07/2015
+  * Mentor: [Dr. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/)
+  
 
 Honors
 ======
@@ -40,15 +54,7 @@ Honors
 * Undergraduate Student National Scholarship, 2012, 2013
 * First Class Scholarship of SYSU, 2012, 2013, 2014
 
-Experience
-======
-* Research Intern, Machine Learing Group, MSRA, 01/2019-06/2020
-  * Mentor: [Dr. Tao Qin](http://research.microsoft.com/en-us/people/taoqin/)
-* Research Intern, Machine Learing Group, MSRA, 06/2016-10/2018
-  * Mentor: [Dr. Tao Qin](http://research.microsoft.com/en-us/people/taoqin/), [Dr. Fei Tian](https://ustctf.github.io/)
-* Research Intern, Artificial Intelligence Group Group, MSRA, 07/2014-07/2015
-  * Mentor: [Dr. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/)
-  
+
 Activities
 ======
 * SPC/AC: IJCAI-21, ACL-21
