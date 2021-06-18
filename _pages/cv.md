@@ -33,7 +33,7 @@ Education
 
 Experience
 ======
-* Research Intern, [Multilingual Group](https://damo.alibaba.com/labs/language-technology), [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/), 07/2020-01/2021
+* Research Intern, [Multilingual Group](https://damo.alibaba.com/labs/language-technology), [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/), 07/2020-10/2020
   * Base: Hangzhou, Zhejiang, China
   * Mentor: Haiqing Chen, Ji Zhang
   * Project: Urdu-Roman Transliteration
@@ -44,7 +44,11 @@ Besides, the proposed approach is fused into the dialogue system of internationa
   * Project: E-commerce platform
   * Contribution: I had directed our team to develop the multilingual E-commerce platform whose frontend and backend were written by ours rather than using other's frameworks. 
 Meanwhile, it has strong flexibility, and it is an extendable system that can be changed to online teaching or online training system effortlessly.
-* NLP Researcher, 
+* NLP Researcher (Apprenticeship), [Xinjiang Multi-Lingual Information Technology Key Laboratory](http://202.201.242.181:8000/translator/index.html), 09/2012-11/2015
+  * Base: Urumqi, Xinjiang, China
+  * Project: Uyghur ASR, TTS, Spoken Translation systems
+  * Contribution: I had accomplished the Uyghur multi-script TTS model collaborate with my teammates. Meanwhile, we also proposed the Uyghur Voice Controlling ASR model. The last year in my master we had developed Uyghur-Chinese bi-directional spoken translation system by combing our single separately trained models (Uyghur ASR, TTS, and MT).
+* NLP Researcher (Apprenticeship),
 
   
 
