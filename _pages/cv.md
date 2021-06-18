@@ -41,14 +41,18 @@ Experience
 Besides, the proposed approach is fused into the dialogue system of international E-commerce platform [DARAZ](https://www.daraz.pk/) and [LAZADA](https://www.lazada.com/en/).  
 * CTO, Information Team, [Beijing Silk Road Heli Investment Management Group Co.,Ltd](https://www.helibazar.com/index.html), 07/2019-11/2019
   * Base: Beijing, China
-  * Project: E-commerce platform
+  * Project: Multi-Lingual E-commerce Platform
   * Contribution: I had directed our team to develop the multilingual E-commerce platform whose frontend and backend were written by ours rather than using other's frameworks. 
 Meanwhile, it has strong flexibility, and it is an extendable system that can be changed to online teaching or online training system effortlessly.
+* NLP Researcher (Apprenticeship), [THUNLP Group](https://nlp.csai.tsinghua.edu.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/csen/), 09/2015 - Present
+  * Base: Beijing, China
+  * Project: Cross-lingual Information Retrieval system and Low-Resource Languages NMT system
+  * Contribution: I have developed a cross-lingual information retrieval system between minority languages (Uyghur, Tibetan, Mongolian) and Chinese. I have also developed NMT online demo for LRLs ([demo](http://101.6.5.207:5152/)). 
 * NLP Researcher (Apprenticeship), [Xinjiang Multi-Lingual Information Technology Key Laboratory](http://202.201.242.181:8000/translator/index.html), 09/2012-11/2015
   * Base: Urumqi, Xinjiang, China
   * Project: Uyghur ASR, TTS, Spoken Translation systems
   * Contribution: I had accomplished the Uyghur multi-script TTS model collaborate with my teammates. Meanwhile, we also proposed the Uyghur Voice Controlling ASR model. The last year in my master we had developed Uyghur-Chinese bi-directional spoken translation system by combing our single separately trained models (Uyghur ASR, TTS, and MT).
-* NLP Researcher (Apprenticeship),
+
 
   
 
