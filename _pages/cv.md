@@ -33,10 +33,17 @@ Education
 
 Experience
 ======
-* Research Intern, Machine Learing Group, MSRA, 06/2016-10/2018
-  * Mentor: [Dr. Tao Qin](http://research.microsoft.com/en-us/people/taoqin/), [Dr. Fei Tian](https://ustctf.github.io/)
-* Research Intern, Artificial Intelligence Group Group, MSRA, 07/2014-07/2015
-  * Mentor: [Dr. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/)
+* Research Intern, [Multilingual Group](https://damo.alibaba.com/labs/language-technology), [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/), 07/2020-01/2021
+  * Base: Hangzhou, Zhejiang, China
+  * Mentor: Haiqing Chen, Ji Zhang
+  * Project: Urdu-Roman Transliteration
+  * Contribution: I have presented a hybrid model that can address the main challenges (many-to-one mapping and inconsistent mapping) in this task.
+Besides, the proposed approach was fused into an international E-commerce platform [DARAZ](https://www.daraz.pk/) and [LAZADA](https://www.lazada.com/en/) dialogue systems.  
+* CTO, Information Team, [Beijing Silk Road Heli Investment Management Group Co.,Ltd](https://www.helibazar.com/index.html), 07/2019-11/2019
+  * Base: Beijing, China
+  * Project: E-commerce platform
+  * Contribution: I had directed our team to develop the multilingual E-commerce platform whose frontend and backend were written by ours rather than using other's frameworks. Meanwhile, it has strong flexibility that fittable to any other platform and one of the extendable systems which can be changed to online teaching or online training system effortlessly.
+
   
 
 Honors
