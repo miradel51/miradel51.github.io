@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[Chinese CV](https://apeterswu.github.io/files/me_cv_ch.pdf)
+English CV
+
 Education
 ======
 * B.S, Xinjiang University, 08/2007-07/2012
