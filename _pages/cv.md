@@ -44,6 +44,7 @@ Besides, the proposed approach is fused into the dialogue system of internationa
   * Project: E-commerce platform
   * Contribution: I had directed our team to develop the multilingual E-commerce platform whose frontend and backend were written by ours rather than using other's frameworks. 
 Meanwhile, it has strong flexibility, and it is an extendable system that can be changed to online teaching or online training system effortlessly.
+* NLP Researcher, 
 
   
 
