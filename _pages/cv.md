@@ -112,10 +112,8 @@ Academic Service
 Talks
 ======
 * [Domain Adaptation for Machine Translation](https://miradel51.github.io/files/report_da4mt_xju_v1.0.pdf), XJU, Urumqi, Xinjiang, China, 10/26/2017
-* Unsupervised Domain Adaptation for Low-ResourceNeuralMachineTranslation, PKU, Beijing, China, 09/14/2018
 * [Discussion on Bilingual Cognition in International Exchange Activities](https://miradel51.github.io/files/icis2018_v1.0.pdf), ICIS2018, Beijing, China, 11/01/2018
-* Improving the Low-Resource Neural Machine Translation between Morphologically Rich Languages, NewTranx Technology, Shenzhen, Guangdong, China, 07/15/2019
-* Data Augmentation for Low-Resource Neural MachineTranslation Using Different Sampling, Minzu University of China, Beijing, China, 11/12/2019
+* [Low-Resource Neural Machine Translation](https://miradel51.github.io/files/minda_report_20191112.pdf), Minzu University of China, Beijing, China, 11/12/2019
 
 <!-- Publications
 ======
