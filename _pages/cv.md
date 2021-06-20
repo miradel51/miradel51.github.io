@@ -113,7 +113,7 @@ Talks
 ======
 * Introduction of Low-Resource Neural Machine Trans-lation, XJU, Urumqi, Xinjiang, China, 06/15/2017
 * Unsupervised Domain Adaptation for Low-ResourceNeuralMachineTranslation, PKU, Beijing, China, 09/14/2018
-* Discussion on Bilingual Cognition in International Exchange Activities, ICIS2018, Beijing, China, 11/01/2018
+* [Discussion on Bilingual Cognition in International Exchange Activities](https://miradel51.github.io/files/icis2018_v1.0.pdf), ICIS2018, Beijing, China, 11/01/2018
 * Improving the Low-Resource Neural Machine Translation between Morphologically Rich Languages, NewTranx Technology, Shenzhen, Guangdong, China, 07/15/2019
 * Data Augmentation for Low-Resource Neural MachineTranslation Using Different Sampling, Minzu University of China, Beijing, China, 11/12/2019
 
