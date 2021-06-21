@@ -3,7 +3,7 @@ title: "Discussion on Bilingual Cognition in International Exchange Activities"
 collection: publications
 permalink: /publication/2018_icis_inter_exchange
 excerpt: ''
-date: 2018-11-29
+date: 2018-11-02
 author: <b>Mieradilijiang Maimaiti</b>, Xiaohui Zou*
 conference: In International Conference on Cognitive Systems and Signal Processing <b>(ICCSSP-2018)</b> (*=corresponding author)
 venue: ''
