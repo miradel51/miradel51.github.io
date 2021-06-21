@@ -19,6 +19,13 @@ citation: '<br>
 
 ---
 <h2><strong>Abstract</strong></h2>
-This article aims to explore the features, mechanisms, and applications of bilingual cognition in international communication activities. Our main idea is: First, clarify the mother tongue of each international exchange activities (IEAs) and prepare some prerequisites which are related to the discussion. Then, make full use of the information and intelligent network tools to bring out the subjective initiative of both parties, while conducting the corresponding research on daily terms and professional terms, and generate the two series of bilingual phrase table. Finally, use the machine translation (MT) and translation memory tools to help them make the necessary preparations or exercises. Meanwhile, we propose the novel and efficient mixed transfer learning (MTL) approach. As a result, when the two parties communicate with each other, as well as via online or off-line communicate, the kind of tacit agreement would have been created between them. If so, it will have been leveraged among them repeatedly rather than just one time and will have targeted multiple times. Its significance lies in: This process and habit of human-computer interaction will better reveal the characteristics of bilingual cognition based on this article. Experiments on low-resource datasets show that our approach is effective, significantly outperform the state-of-the-art methods and yield improvements of up to 4.13 BLEU points.
+With the purpose of implementing Uyghur command words recognition，we elaborately studied the development and
+implementation process of Uyghur command words recognition system on Android platform，introduced the development difficulties，core
+technologies and typical functions of the system． The system was developed mainly using Android SDK，eclipse integrated development
+environment and API interfaces，and realised the functions of correct display and processing of multiple texts of Uyghur，Chinese and English
+through automatic styles selection rule． Aiming at different speaking styles of the majority of users，we rebuilt Uyghur voice and grammar
+files，and solved the problem of different dialects around the Ｒegion． Moreover we gained the testing results of right recognition rate of
+90． 56% and the successful implementation rate of 85% in the experiment made in usual Lab condition，this showed that in the research of
+Uyghur non-specific command words recognition，the structure and construction of grammar files had different effects on system．
 
 \[[PDF](https://miradel51.github.io/files/cas_2016_uy_voice.pdf) Chinese Paper\]  
