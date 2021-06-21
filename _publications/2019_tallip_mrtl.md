@@ -8,10 +8,19 @@ author: <b>Mieradilijiang Maimaiti</b>, Yang Liu, Huanbo Luan, and Maosong Sun
 conference: In ACM Transactions on Asian and Low-Resource Language Information Processing <b>(ACM TALLIP, 2019)</b> 
 venue: ''
 paperurl: 'https://dl.acm.org/doi/10.1145/3314945'
-citation: ''
+citation: '<br>
+@article{Maimaiti2019MultiRoundTL,<br>
+  title={Multi-Round Transfer Learning for Low-Resource NMT Using Multiple High-Resource Languages},<br>
+  author={M. Maimaiti and Y. Liu and Huanbo Luan and M. Sun},<br>
+  journal={ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)},<br>
+  year={2019},<br>
+  volume={18},<br>
+  pages={1 - 26},<br>
+}'
+
 
 ---
 <h2><strong>Abstract</strong></h2>
-Data augmentation is an approach for several text generation tasks. Generally, in the machine translation paradigm, mainly in low-resource language scenarios, many data augmentation methods have been proposed. The most used approaches for generating pseudo data mainly lay in word omission, random sampling, or replacing some words in the text. However, previous methods barely guarantee the quality of augmented data. In this work, we try to build the data by using paraphrase embedding and POS-Tagging. Namely, we generate the fake monolingual corpus by replacing the main four POS-Tagging labels, such as noun, adjective, adverb, and verb based on both the paraphrase table and their similarity. We select the bigger corpus size of the paraphrase table with word-level and obtain the word embedding of each word in the table, then calculate the cosine similarity between these words and tagged words in the original sequence. In addition, we exploit the ranking algorithm to choose highly similar words to reduce semantic errors and leverage the POS-Tagging replacement to mitigate syntactic error to some extent. Experimental results show that our augmentation method consistently outperforms all the previous SOTA methods on the low-resource language pairs in 7 language pairs from 4 corpora by 1.16 ~ 2.39 BLEU points.
+Neural machine translation (NMT) has made remarkable progress in recent years, but the performance of NMT suffers from a data sparsity problem since large-scale parallel corpora are only readily available for high-resource languages (HRLs). In recent days, transfer learning (TL) has been used widely in low-resource languages (LRLs) machine translation, while TL is becoming one of the vital directions for addressing the data sparsity problem in low-resource NMT. As a solution, a transfer learning method in NMT is generally obtained via initializing the low-resource model (child) with the high-resource model (parent). However, leveraging the original TL to low-resource models is neither able to make full use of highly related multiple HRLs nor to receive different parameters from the same parents. In order to exploit multiple HRLs effectively, we present a language-independent and straightforward multi-round transfer learning (MRTL) approach to low-resource NMT. Besides, with the intention of reducing the differences between high-resource and low-resource languages at the character level, we introduce a unified transliteration method for various language families, which are both semantically and syntactically highly analogous with each other. Experiments on low-resource datasets show that our approaches are effective, significantly outperform the state-of-the-art methods, and yield improvements of up to 5.63 BLEU points.
 
 \[[PDF](https://dl.acm.org/doi/10.1145/3314945)\]  
