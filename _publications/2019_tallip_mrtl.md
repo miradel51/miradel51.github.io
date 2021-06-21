@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2019_tallip_mrtl
 excerpt: ''
 date: 2019-05-21
-author: <b>Mieradilijiang Maimaiti</b>, Yang Liu, Huanbo Luan, and Maosong Sun
-conference: In ACM Transactions on Asian and Low-Resource Language Information Processing <b>(ACM TALLIP, 2019)</b> 
+author: <b>Mieradilijiang Maimaiti</b>, Yang Liu*, Huanbo Luan, and Maosong Sun
+conference: In ACM Transactions on Asian and Low-Resource Language Information Processing <b>(ACM TALLIP, 2019)</b> (*=corresponding author)
 venue: ''
 paperurl: 'https://dl.acm.org/doi/10.1145/3314945'
 citation: '<br>
