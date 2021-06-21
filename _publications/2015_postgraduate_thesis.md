@@ -3,7 +3,7 @@ title: "The Research of Uyghur Stemming based on Morfessor and POS Tagging"
 collection: publications
 permalink: /publication/2015_postgraduate_thesis
 excerpt: ''
-date: 2016-06-15
+date: 2015-05-24
 author: <b>Mieradilijiang Maimaiti</b>
 conference: Postgraduate Thesis <b>(2016)</b> 
 venue: ''
