@@ -5,7 +5,7 @@ permalink: /publication/2015_postgraduate_thesis
 excerpt: ''
 date: 2015-05-24
 author: <b>Mieradilijiang Maimaiti</b>
-conference: Postgraduate Thesis <b>(2016)</b> 
+conference: Postgraduate Thesis <b>(2015)</b> 
 venue: ''
 paperurl: 'https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201601&filename=1015800815.nh&v=OvD3AY3CZ8jsSfn1dT6WURg%25mmd2FPDkzVqibLdYF4ojJ9vzm02uvsY3TtKuOHY2ec9zK'
 citation: '<br>
@@ -47,4 +47,4 @@ automatic segmentation precision achieved 86.80%. Based on research results abov
 the BLEU score was increased from former score 23.42 to current score 25.38 of the 
 Uyghur Chinese bidirectional statistical machine translation based on MOSES.
 
-\[[PDF](https://miradel51.github.io/files/postgradaute_thesis_2015.caj) Chinese Paper\] 
+\[[Postgraduate Thesis](https://miradel51.github.io/files/postgradaute_thesis_2015.caj) Chinese Paper\] 
