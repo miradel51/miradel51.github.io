@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020_symmetry_dialogue
 excerpt: ''
 date: 2020-10-23
-author: <b>Zhe Li</b>*, <b>Mieradilijiang Maimaiti</b>*, Jiabao Sheng, Zunwang Ke, <b>Wushour Slamu</b>, Qinyong Wang, Xiuhong Li
+author: <b>Zhe Li</b>*, <b>Mieradilijiang Maimaiti</b>*, Jiabao Sheng, Zunwang Ke, Wushour Slamu, Qinyong Wang, Xiuhong Li
 conference: In Symmetry-Basel <b>(Symmetry, 2020)</b> (*=equal contribution)
 venue: ''
 paperurl: 'https://pdfs.semanticscholar.org/cd0b/5a2c32e881bed14935025d5f0a34fecbf4cc.pdf?_ga=2.165090492.2098448433.1624278785-661854895.1624278785'
