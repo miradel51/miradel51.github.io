@@ -7,7 +7,7 @@ date: 2020-09-25
 author: <b>Mieradilijiang Maimaiti</b>, Yang Liu*, Huanbo Luan, and Maosong Sun
 conference: In TSINGHUA SCIENCE AND TECHNOLOGY (TST) <b>(TST, 2020)</b> (*=corresponding author)
 venue: ''
-paperurl: ''
+paperurl: 'http://tst.tsinghuajournals.com/EN/10.26599/TST.2020.9010029'
 citation: ''
 
 ---
