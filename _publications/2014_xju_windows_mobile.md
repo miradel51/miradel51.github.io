@@ -11,7 +11,7 @@ paperurl: 'http://www.cnki.net/KCMS/detail/detail.aspx?QueryID=2&CurRec=1&recid=
 citation: '<br>
 @inproceedings{m.maimaiti2016uy_voice,<br>
   title={Design and Development of Product Management Software Based on Windows Mobile Platform},<br>
-  author={M. Maimaiti, Wushour Slamu, Reyiman Tuerxun, and Dilinigar Rexiati,<br>
+  author={M. Maimaiti, Wushour Slamu, Reyiman Tuerxun, and Dilinigar Rexiati},<br>
   booktitle={Journal of Xinjiang University (Natural Science Edition) },<br>
   year={2014},<br>
 }'
