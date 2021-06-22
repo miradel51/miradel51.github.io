@@ -22,4 +22,7 @@ Patent
 
 Preprint
 ======
-* N/A
+* **Mieradilijiang Maimaiti**, Yang Liu*, Zhixing Tan, Jiacheng Zhang, Huanbo Luan, and Maosong Sun. Data Augmentation for Low-Resource NMT Guided by Constrained Sampling. In INTERNATIONAL JOURNAL OF XXX, 2020.
+* **Mieradilijiang Maimaiti**, Yang Liu*, Yuanhang Zheng, Gang Chen, Kaiyuhuang Hunag, Ji Zhang, Huanbo Luan, and Maosong Sun. Segment, Mask, and Predict: Self-supervised Word Segmentation. In Proceedings of the 2021 conference on YYY, 2021.
+* Yuanhang Zheng, Zhixing Tan, Meng Zhang, **Mieradilijiang Maimaiti**, Huanbo Luan, Maosong Sun, and Yang Liu*. Self-Supervised Quality Estimation for Machine Translation. In Proceedings of the 2021 conference on YYY, 2021.
+* Hongyan Xie, **Mieradilijiang Maimaiti**, and Hao Huang *. Leveraging Selective Hierarchical Slot-Contexts for Robust Dialogue State Generation. In Proceedings of the 2021 conference on YYY, 2021.
