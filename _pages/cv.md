@@ -33,6 +33,10 @@ Education
 
 Experience
 ======
+* NLP Senior Algorithm Engineer, [Multilingual Group](https://damo.alibaba.com/labs/language-technology), [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/), 07/2021-Present
+  * Base: Hangzhou, Zhejiang, China
+  * Mentor: Fei Huang, Ji Zhang
+  * Project: Multi-lingual processing
 * Research Intern, [Multilingual Group](https://damo.alibaba.com/labs/language-technology), [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/), 07/2020-10/2020
   * Base: Hangzhou, Zhejiang, China
   * Mentor: Haiqing Chen, Ji Zhang
@@ -57,7 +61,7 @@ Meanwhile, it has strong flexibility, and it is an extendable system that can be
   * Mentor: Nan Zhu
   * Project: THU College Summer Social Practice Activities
   * Contribution: In this project, I had presented a technical report for providing the multi-lingual service. Besides, I also designed the main architectures of spoken translation by combining ASR and TTS for the project "Smart Tourism."
-* NLP Researcher (Apprenticeship), [THUNLP Group](https://nlp.csai.tsinghua.edu.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/csen/), 09/2015 - Present
+* NLP Researcher (Apprenticeship), [THUNLP Group](https://nlp.csai.tsinghua.edu.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/csen/), 09/2015 - 06/2021
   * Base: Beijing, China
   * Mentor: [Prof. MaoSong Sun](https://nlp.csai.tsinghua.edu.cn/staff/sms/), [Prof. Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/)
   * Project: Cross-lingual Information Retrieval system and Low-Resource Languages NMT system
