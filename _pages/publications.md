@@ -17,11 +17,10 @@ author_profile: true
 
 Patent
 ======
-* __米尔阿迪力江·麦麦提__，刘洋，栾焕博，孙茂松， “一种基于无监督领域自适应的神经网络机器翻译方法”，计算机_发明专利_，授权号：CN 107038159 A;中国专利申请号：**2017**10139214.0，__已授权__；
-* 孙茂松, __米尔阿迪力江·麦麦提__，刘洋，栾焕博， “神经网络机器翻译模型的训练方法和装置” ，计算机_发明专利_，授权号：CN 109117483 B;中国专利申请号：**2018**10845896.1，__已授权__；
+* __米尔阿迪力江·麦麦提__，刘洋，栾焕博，孙茂松， “一种基于无监督领域自适应的神经网络机器翻译方法”，计算机__发明专利__，授权号：CN 107038159 A;中国专利申请号：**2017**10139214.0，__已授权__；
+* 孙茂松, __米尔阿迪力江·麦麦提__，刘洋，栾焕博， “神经网络机器翻译模型的训练方法和装置” ，计算机__发明专利__，授权号：CN 109117483 B;中国专利申请号：**2018**10845896.1，__已授权__；
 
 Preprint
 ======
-* **Mieradilijiang Maimaiti**, Yang Liu*, Zhixing Tan, Jiacheng Zhang, Huanbo Luan, and Maosong Sun. Data Augmentation for Low-Resource NMT Guided by Constrained Sampling. In INTERNATIONAL JOURNAL OF XXX, 2020.
 * **Mieradilijiang Maimaiti**, Yang Liu*, Yuanhang Zheng, Gang Chen, Kaiyuhuang Hunag, Ji Zhang, Huanbo Luan, and Maosong Sun. Segment, Mask, and Predict: Self-supervised Word Segmentation. In Proceedings of the 2021 conference on YYY, 2021.
 * Yuanhang Zheng, Zhixing Tan, Meng Zhang, **Mieradilijiang Maimaiti**, Huanbo Luan, Maosong Sun, and Yang Liu*. Self-Supervised Quality Estimation for Machine Translation. In Proceedings of the 2021 conference on YYY, 2021.
