@@ -1,5 +1,5 @@
 ---
-title: "Improving the Data Augmentation for Low-Resource NMT Guided by POS-Tagging and Paraphrase Embedding"
+title: "Data Augmentation for Low-Resource Languages NMT Guided by Constrained Sampling"
 collection: publications
 permalink: /publication/2021_ijis_cons_smpl_da
 excerpt: ''
