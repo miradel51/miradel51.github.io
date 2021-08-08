@@ -24,3 +24,4 @@ Preprint
 ======
 * **Mieradilijiang Maimaiti**, Yang Liu*, Yuanhang Zheng, Gang Chen, Kaiyuhuang Hunag, Ji Zhang, Huanbo Luan, and Maosong Sun. Segment, Mask, and Predict: Self-supervised Word Segmentation. In Proceedings of the 2021 conference on YYY, 2021.
 * Yuanhang Zheng, Zhixing Tan, Meng Zhang, **Mieradilijiang Maimaiti**, Huanbo Luan, Maosong Sun, and Yang Liu*. Self-Supervised Quality Estimation for Machine Translation. In Proceedings of the 2021 conference on YYY, 2021.
+* Yang Liu, __Mieradilijiang Maimaiti__, Huanbo Luan and Maosong Sun, "The System and Method for Low-Resource Neural Machine Translation Based on Data Augmentation", __Computer Patent for Invention__; China Patent Application No: **2021**10xxxxxxx, __Under Review__；
