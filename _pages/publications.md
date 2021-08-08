@@ -17,8 +17,8 @@ author_profile: true
 
 Patent
 ======
-* __米尔阿迪力江·麦麦提__，刘洋，栾焕博，孙茂松， “一种基于无监督领域自适应的神经网络机器翻译方法”，__计算机发明专利__，授权号：CN 107038159 A;中国专利申请号：**2017**10139214.0，__已授权__；
-* 孙茂松, __米尔阿迪力江·麦麦提__，刘洋，栾焕博， “神经网络机器翻译模型的训练方法和装置” ，__计算机发明专利__，授权号：CN 109117483 B;中国专利申请号：**2018**10845896.1，__已授权__；
+* __Mieradilijiang Maimaiti__，Yang Liu，Huanbo Luan，Maosong Sun， "Unsupervised Domain Adaptation for Neural Machine Translation"，__Computer Patent for Invention__，Authorization number: CN 107038159 A; China Patent Application No: **2017**10139214.0，__Authorized__；
+* Maosong Sun, __Mieradilijiang Maimaiti__，Yang Liu，Huanbo Luan， "The Training Method for Neural Machine Translation"，__Computer Patent for Invention__，Authorization number: CN 109117483 B; China Patent Application No：**2018**10845896.1，__Authorized__；
 
 Preprint
 ======
