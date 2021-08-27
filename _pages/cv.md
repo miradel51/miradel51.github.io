@@ -35,7 +35,7 @@ Experience
 ======
 * NLP Senior Algorithm Engineer, [Multilingual Group](https://damo.alibaba.com/labs/language-technology), [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/), 07/2021-Present
   * Base: Hangzhou, Zhejiang, China
-  * Mentor: Fei Huang, Ji Zhang
+  * Mentor: Rong Jin, Luo Si, Fei Huang, Ji Zhang
   * Project: Multi-lingual processing
 * Research Intern, [Multilingual Group](https://damo.alibaba.com/labs/language-technology), [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/), 07/2020-10/2020
   * Base: Hangzhou, Zhejiang, China
