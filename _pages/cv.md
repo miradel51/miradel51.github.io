@@ -51,7 +51,7 @@ Meanwhile, it has strong flexibility, and it is an extendable system that can be
 * Technical Advisor, MT Team, [NewTranx Technology](http://www.newtranx.com/), 12/2018-05/2019
   * Base: Shenzhen, Guangdong, China
   * Project: NMT for Morphologically Rich Languages ([Arabic-Chinese](https://fanyi.newtranx.com/?lng=cn#/onTrans))
-  * Contribution: I had provided some technical advice for training the NMT model for morphologically rich languages (Arabic, Turkish, and Urdu) between Chinese. We used well-known NMT architecture (Transformer) with a commonly used Neural Network toolkit (Tensorflow). Besides, I have provided some processing tools for Arabic, Turkish, and Urdu.
+  * Contribution: I had provided some technical advices to training the NMT model for morphologically rich languages (Arabic, Turkish, and Urdu) between Chinese. We used well-known NMT architecture (Transformer) with a commonly used Neural Network toolkit (Tensorflow). Besides, I have provided some processing tools for Arabic, Turkish, and Urdu.
 * Technical Advisor, MT Team, [SinoVoice](https://www.sinovoice.com/), 11/2017-11/2018
   * Base: Beijing, China
   * Project: NMT for Low-Resource Languages ([Uyghur-Chinese](https://translate.aicloud.com/))
