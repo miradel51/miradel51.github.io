@@ -36,13 +36,13 @@ Experience
 * NLP Senior Algorithm Engineer, [Multilingual Group](https://damo.alibaba.com/labs/language-technology), [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/), 07/2021-Present
   * Base: Hangzhou, Zhejiang, China
   * Mentor: Rong Jin, Luo Si, Fei Huang, Ji Zhang
-  * Project: Multi-lingual processing
+  * Project: Multi-lingual processing for international E-commerce platforms [DARAZ](https://www.daraz.pk/), [LAZADA](https://www.lazada.com/en/) and [AliExpress](https://www.aliexpress.com/)
 * Research Intern, [Multilingual Group](https://damo.alibaba.com/labs/language-technology), [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/), 07/2020-10/2020
   * Base: Hangzhou, Zhejiang, China
   * Mentor: Haiqing Chen, Ji Zhang
   * Project: Urdu-Roman Transliteration
   * Contribution: I have presented a hybrid model that can address the main challenges (many-to-one mapping and inconsistent mapping) in this task.
-Besides, the proposed approach is fused into the dialogue system of international E-commerce platform [DARAZ](https://www.daraz.pk/) and [LAZADA](https://www.lazada.com/en/).  
+Besides, the proposed approach is fused into the dialogue system of international E-commerce platforms [DARAZ](https://www.daraz.pk/) and [LAZADA](https://www.lazada.com/en/).  
 * CTO, Information Team, [Beijing Silk Road Heli Investment Management Group Co.,Ltd](https://www.helibazar.com/index.html), 07/2019-11/2019
   * Base: Beijing, China
   * Project: Multi-Lingual E-commerce Platform
