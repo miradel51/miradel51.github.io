@@ -43,7 +43,7 @@ Experience
   * Project: Urdu-Roman Transliteration
   * Contribution: I have presented a hybrid model that can address the main challenges (many-to-one mapping and inconsistent mapping) in this task.
 Besides, the proposed approach is fused into the dialogue system of international E-commerce platforms [DARAZ](https://www.daraz.pk/) and [LAZADA](https://www.lazada.com/en/).  
-* CTO, Information Team, [Beijing Silk Road Heli Investment Management Group Co.,Ltd](https://www.helibazar.com/index.html), 07/2019-11/2019
+* CTO, Information Services Department, [Beijing Silk Road Heli Investment Management Group Co.,Ltd](https://www.helibazar.com/index.html), 07/2019-11/2019
   * Base: Beijing, China
   * Project: Multi-Lingual E-commerce Platform
   * Contribution: I had directed our team to develop the multilingual E-commerce platform whose frontend and backend were written by ours rather than using other's frameworks. 
