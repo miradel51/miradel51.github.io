@@ -110,8 +110,8 @@ Honors
 
 Academic Service
 ======
-* Conference reviewers: ACL2016, AAAI2018, COLING2018, NAACL2019
-* Journal reviewers: International Journal of Intelligent System 2021
+* Conference reviewer: ACL2016, AAAI2018, COLING2018, NAACL2019
+* Journal reviewer: International Journal of Intelligent System 2021
 
 Talks
 ======
