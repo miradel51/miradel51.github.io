@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 * Chinese [PDF](https://miradel51.github.io/files/homepage_ch.pdf)
-* English version is coming soon.
+
+* English [PDF](https://miradel51.github.io/files/my_cv_en.pdf)
 
 Education
 ======
