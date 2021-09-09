@@ -23,3 +23,4 @@ Patent
 Preprint
 ======
 * Yang Liu, __Mieradilijiang Maimaiti__, Huanbo Luan and Maosong Sun, "The System and Method for Low-Resource Neural Machine Translation Based on Data Augmentation", __Computer Patent for Invention__; China Patent Application No: **2021**10xxxxxxx, __Under Review__；
+* Wenshen Xu, __Mieradilijiang Maimaiti__, Yuanhang Zheng, Xin Tang, and Ji Zhang, "Auto-MLM: Improved Contrastive Learning for Self-supervised Multi-lingual Knowledge Retrieval", International Conference XXXX **2022**，__Under Review__；
