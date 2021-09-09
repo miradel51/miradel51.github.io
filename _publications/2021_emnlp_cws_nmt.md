@@ -25,7 +25,6 @@ vious studies to deal with such problems. In this work, we propose a self-superv
 First, we train a word segmentation model and use it to generate the segmentation results. 
 Then, we use a revised masked language model (MLM) to evaluate the quality of the segmentation results based on the predictions of the MLM. 
 Finally, we leverage the evaluations to aid the training of the segmenter by improved minimum risk training. 
-Experimental results show that our approach outperforms previous methods on 9 different CWS datasets with single criterion training and multiple criteria training and 
-achieves better robustness.
+Experimental results show that our approach outperforms previous methods on 9 different CWS datasets with single criterion training and multiple criteria training and achieves better robustness.
 
 \[PDF\]\[[Code](https://github.com/miradel51/Self_Supervised_CWS)\]    
