@@ -8,7 +8,13 @@ author: Yuanhang Zheng, Zhixing Tan, Meng Zhang, <b>Mieradilijiang Maimaiti</b>,
 conference: In International Conference on Empirical Methods in Natural Language Processing <b>(EMNLP, 2021)</b>
 venue: ''
 paperurl: 'https://2021.emnlp.org/'
-citation: ''
+citation: '<br>
+@article{Zheng:2021:EMNLP,<br>
+  title={Self-Supervised Quality Estimation for Machine Translation},<br>
+  author={Zheng, Yuanhang and Tan, Zhixing and Zhang, Meng and Maimaiti, Mieradilijiang and Luan, Huanbo and Sun, Maosong and Liu, Qun and Liu, Yang},<br>
+  journal={International Conference on Empirical Methods in Natural Language Processing (EMNLP)},<br>
+  year={2021},<br>
+}'
 
 ---
 <h2><strong>Abstract</strong></h2>
