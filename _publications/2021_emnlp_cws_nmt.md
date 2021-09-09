@@ -28,4 +28,4 @@ Finally, we leverage the evaluations to aid the training of the segmenter by imp
 Experimental results show that our approach outperforms previous methods on 9 different CWS datasets with single criterion training and multiple criteria training and 
 achieves better robustness.
 
-\[PDF\]  
+\[PDF\]\[[Code](https://github.com/miradel51/Self_Supervised_CWS)\]    
