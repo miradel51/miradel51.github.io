@@ -27,4 +27,4 @@ Then, we use a revised masked language model (MLM) to evaluate the quality of th
 Finally, we leverage the evaluations to aid the training of the segmenter by improved minimum risk training. 
 Experimental results show that our approach outperforms previous methods on 9 different CWS datasets with single criterion training and multiple criteria training and achieves better robustness.
 
-\[[PDF](https://miradel51.github.io/files/emnlp2021_cws.pdf)\]\[[Code](https://github.com/miradel51/Self_Supervised_CWS)\]    
+\[[PDF](https://miradel51.github.io/files/emnlp2021_cws.pdf)\]\[[Code](https://github.com/miradel51/Self_Supervised_CWS)\]\[[Blog](https://thumtblog.github.io/2021/09/20/cws-mask-predict/)\]
