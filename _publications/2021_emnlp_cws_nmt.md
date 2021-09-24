@@ -5,7 +5,7 @@ permalink: /publication/2021_emnlp_cws_nmt
 excerpt: ''
 date: 2021-08-26
 author: <b>Mieradilijiang Maimaiti</b>, Yang Liu*, Yuanhang Zheng, Gang Chen, Kaiyu Huang, Ji Zhang, Huanbo Luan and Maosong Sun
-conference: In International Conference on Empirical Methods in Natural Language Processing <b>(EMNLP, 2021)</b> (*=corresponding author) (Oral paper)
+conference: In International Conference on Empirical Methods in Natural Language Processing <b>(EMNLP, 2021)</b> (*=corresponding author) (Long paper, Oral)
 venue: ''
 paperurl: 'https://2021.emnlp.org/'
 citation: '<br>
