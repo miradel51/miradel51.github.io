@@ -5,7 +5,7 @@ permalink: /publication/2021_emnlp_qe_nmt
 excerpt: ''
 date: 2021-08-26
 author: Yuanhang Zheng, Zhixing Tan, Meng Zhang, <b>Mieradilijiang Maimaiti</b>, Huanbo Luan, Maosong Sun, Qun Liu and Yang Liu
-conference: In International Conference on Empirical Methods in Natural Language Processing <b>(EMNLP, 2021)</b>
+conference: In International Conference on Empirical Methods in Natural Language Processing <b>(EMNLP, 2021)</b> (Long paper, poster)
 venue: ''
 paperurl: 'https://2021.emnlp.org/'
 citation: '<br>
