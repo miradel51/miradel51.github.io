@@ -5,11 +5,11 @@ permalink: /publication/2021_emnlp_cws_nmt
 excerpt: ''
 date: 2021-08-26
 author: <b>Mieradilijiang Maimaiti</b>, Yang Liu*, Yuanhang Zheng, Gang Chen, Kaiyu Huang, Ji Zhang, Huanbo Luan and Maosong Sun
-conference: In International Conference on Empirical Methods in Natural Language Processing <b>(EMNLP, 2021)</b> (*=corresponding author)
+conference: In International Conference on Empirical Methods in Natural Language Processing <b>(EMNLP, 2021)</b> (*=corresponding author) (Oral paper)
 venue: ''
 paperurl: 'https://2021.emnlp.org/'
 citation: '<br>
-@article{m.maimaiti_cws_EMNLP_2021,,<br>
+@article{m.maimaiti_cws_EMNLP_2021,<br>
   title={Segment, Mask, and Predict: Augmenting Chinese Word Segmentation with Self-Supervision},<br>
   author={Maimaiti, Mieradilijiang and Liu, Yang and Zheng, Yuanhang and Chen, Gang and Huang, Kaiyu and Zhang,Ji and Luan, Huanbo and Sun, Maosong},<br>
   journal={International Conference on Empirical Methods in Natural Language Processing (EMNLP)},<br>
