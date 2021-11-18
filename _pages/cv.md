@@ -121,6 +121,7 @@ Selected Talks
 * [Ph.D. Forum in Department of Computer Science at THU](https://miradel51.github.io/files/PhD_Forum_2019.03.16.pdf), Tsinghua University, Beijing, China, 03/16/2019
 * [Low-Resource Neural Machine Translation](https://miradel51.github.io/files/minda_report_20191112.pdf), Minzu University of China, Beijing, China, 11/12/2019
 * [Ph.D. Experience Sharing Report](https://miradel51.github.io/files/phd_experience_sharing.pdf), Tsinghua University, Beijing, China, 06/08/2021
+* [EMNLP2021 Paper Sharing Report](https://miradel51.github.io/files/emnlp2021_damo3.pdf), Alibaba Damo Academy, Hangzhou, Zhejiang, China, 11/18/2021
 
 <!-- Publications
 ======
