@@ -3,11 +3,11 @@ title: "Segment, Mask, and Predict: Augmenting Chinese Word Segmentation with Se
 collection: publications
 permalink: /publication/2021_emnlp_cws_nmt
 excerpt: ''
-date: 2021-08-26
+date: 2021-11-07
 author: <b>Mieradilijiang Maimaiti</b>, Yang Liu*, Yuanhang Zheng, Gang Chen, Kaiyu Huang, Ji Zhang, Huanbo Luan and Maosong Sun
 conference: In International Conference on Empirical Methods in Natural Language Processing <b>(EMNLP, 2021)</b> (*=corresponding author) (Long paper, oral)
 venue: ''
-paperurl: 'https://2021.emnlp.org/'
+paperurl: 'https://aclanthology.org/2021.emnlp-main.158'
 citation: '<br>
 @article{m.maimaiti_cws_EMNLP_2021,<br>
   title={Segment, Mask, and Predict: Augmenting Chinese Word Segmentation with Self-Supervision},<br>
@@ -27,4 +27,4 @@ Then, we use a revised masked language model (MLM) to evaluate the quality of th
 Finally, we leverage the evaluations to aid the training of the segmenter by improved minimum risk training. 
 Experimental results show that our approach outperforms previous methods on 9 different CWS datasets with single criterion training and multiple criteria training and achieves better robustness.
 
-\[[PDF](https://miradel51.github.io/files/emnlp2021_cws.pdf)\]\[[Code](https://github.com/miradel51/Self_Supervised_CWS)\]\[[Blog](https://thumtblog.github.io/2021/09/20/cws-mask-predict/)\]\[[Poster](https://miradel51.github.io/files/emnlp2021_me_poster.pdf)\]\[[Slides](https://miradel51.github.io/files/emnlp2021_me_slides1.pdf)\]\[[Video](https://miradel51.github.io/files/emnlp2021_me_video.mp4)\]
+\[[PDF](https://aclanthology.org/2021.emnlp-main.158.pdf)\]\[[Code](https://github.com/miradel51/Self_Supervised_CWS)\]\[[Blog](https://thumtblog.github.io/2021/09/20/cws-mask-predict/)\]\[[Poster](https://miradel51.github.io/files/emnlp2021_me_poster.pdf)\]\[[Slides](https://miradel51.github.io/files/emnlp2021_me_slides1.pdf)\]\[[Video](https://miradel51.github.io/files/emnlp2021_me_video.mp4)\]
