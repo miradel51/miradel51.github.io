@@ -112,7 +112,7 @@ Honors
 Academic Service
 ======
 * Conference reviewer: ACL2016, AAAI2018, COLING2018, NAACL2019, PACLIC2021, WCCI2022, IJCNN2022
-* Journal reviewer: International Journal of Intelligent System2021
+* Journal reviewer: International Journal of Intelligent System2021, 2022
 
 Selected Talks
 ======
