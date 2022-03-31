@@ -5,7 +5,7 @@ permalink: /publication/20220331_auto-mlm_arxiv
 excerpt: ''
 date: 2022-03-31
 author: Wenshen Xu*, <b>Mieradilijiang Maimaiti</b>*, Yuanhang Zheng, Xin Tang, and Ji Zhang†
-conference: In Computer Applications and Software <b>(2016)</b> (*=equal contribution, †=corresponding author)
+conference: In Arxiv <b>(2016)</b> (*=equal contribution, †=corresponding author)
 venue: ''
 paperurl: 'https://arxiv.org/pdf/2203.16187.pdf'
 citation: '<br>
