@@ -23,4 +23,3 @@ Patent
 Preprint
 ======
 * Yang Liu, __Mieradilijiang Maimaiti__, Huanbo Luan and Maosong Sun, "The System and Method for Low-Resource Neural Machine Translation Based on Data Augmentation", __Computer Patent for Invention__; China Patent Application No: **2021**10xxxxxxx, __Under Review__；
-* Jianhai Zhang, __Mieradilijiang Maimaiti__, Xing Gao, Yuanhang Zheng, and Ji Zhang, "MGIMN: Multi-Grained Interactive Matching Network for Few-shot Text Classification", International Conference XXXX **2022**，__Under Review__；
