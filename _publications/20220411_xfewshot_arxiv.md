@@ -1,12 +1,12 @@
 ---
 title: "MGIMN: Multi-Grained Interactive Matching Network for Few-shot Text Classification"
 collection: 
-permalink: 
+permalink: /publication/20220411_xfewshot_arxiv
 excerpt: ''
 date: 2022-04-11
 author: Jianhai Zhang*, <b>Mieradilijiang Maimaiti</b>*, Xing Gao, Yuanhang Zheng, and Ji Zhang†
 conference: In NAACL <b>(2022)</b> (*=equal contribution, †=corresponding author)
-venue: ''
+venue: 'https://arxiv.org/pdf/2204.04952.pdf'
 paperurl: ''
 citation: '<br>
 @inproceedings{jianhai22_xfewshot,<br>
@@ -27,4 +27,8 @@ They also ignore the importance to capture the inter-dependency between query an
 To deal with these issues, we propose a meta-learning based method \textbf{MGIMN} which performs instance-wise comparison followed by aggregation to generate class-wise matching vectors instead of prototype learning.
 The key of instance-wise comparison is the interactive matching within the class-specific context and episode-specific context. 
 Extensive experiments demonstrate that the proposed method significantly outperforms the existing state-of-the-art approaches, under both the standard FSL and generalized FSL settings.
+
+\[[PDF](https://arxiv.org/pdf/2204.04952.pdf)\]  
+
+
 
