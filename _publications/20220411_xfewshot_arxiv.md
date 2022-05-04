@@ -4,8 +4,8 @@ collection:
 permalink: /publication/20220411_xfewshot_arxiv
 excerpt: ''
 date: 2022-04-11
-author: Jianhai Zhang*, <b>Mieradilijiang Maimaiti</b>*, Xing Gao, Yuanhang Zheng, and Ji Zhang†
-conference: In NAACL <b>(2022)</b> (*=equal contribution, †=corresponding author)
+author: Jianhai Zhang, <b>Mieradilijiang Maimaiti</b>, Xing Gao, Yuanhang Zheng, and Ji Zhang*
+conference: In NAACL <b>(2022)</b> (*=corresponding author) (Long paper, poster)
 venue: 'https://arxiv.org/pdf/2204.04952.pdf'
 paperurl: ''
 citation: '<br>
