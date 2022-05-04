@@ -24,7 +24,7 @@ News
 ------
 05/24/2021  [Finally I also did it!](https://www.linkedin.com/feed/update/urn:li:activity:6803196850481463296/) I have also accomplished my Phd Defense!. <br>
 08/26/2021  [EMNLP2021](https://www.linkedin.com/feed/update/urn:li:activity:6836672943502835712/) Our two recent research works have been accepted by EMNLP2021.  <br>
-11/08/2021  [Oral Presentation](https://miradel51.github.io/files/emnlp2021_me_video.mp4) We have uploaded the oral presentation video of EMNLP21 paper.
+11/08/2021  [Oral Presentation](https://miradel51.github.io/files/emnlp2021_me_video.mp4) We have uploaded the oral presentation video of EMNLP21 paper. <br>
 04/10/2022  [NAACL2022](https://openreview.net/forum?id=rnfgk3iZrbc&referrer=[Tasks](/tasks)) One paper has been accepted by NAACL2022.  <br>
 
 <div style="width: 250px; margin: auto;">
