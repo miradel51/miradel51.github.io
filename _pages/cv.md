@@ -36,12 +36,12 @@ Experience
 ======
 * NLP Senior Algorithm Engineer, [Multi-lingual Group](https://damo.alibaba.com/labs/language-technology), [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/), 07/2021-Present
   * Base: Hangzhou, Zhejiang, China
-  * Mentor: Luo Si, Fei Huang, Ji Zhang
+  * Directors: Luo Si, Fei Huang, Ji Zhang
   * Project: Multi-lingual processing for international E-commerce platforms [DARAZ](https://www.daraz.pk/), [LAZADA](https://www.lazada.com/en/) and [AliExpress](https://www.aliexpress.com/)
   * Contribution: [DARAZ](https://www.daraz.pk/) algorithm owner of both the FAQ and Agent Intent Classification model. Contributed to the multi-lingual smart customer service system for [AliExpress](https://www.aliexpress.com/). Besides, I have proposed an improved code-mixing strategy and gained higher results in some languages of [LAZADA](https://www.lazada.com/en/)  with an average of 4 points. Moreover, I have presented some approaches for the pre-training part and obtained remarkable better results on the whole DARAZ system with 13 points (off-line testing) and 9 points (online testing) respectively.
 * Research Intern, [Multi-lingual Group](https://damo.alibaba.com/labs/language-technology), [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/), 07/2020-10/2020
   * Base: Hangzhou, Zhejiang, China
-  * Mentor: Haiqing Chen, Ji Zhang
+  * Directors: Haiqing Chen, Ji Zhang
   * Project: Urdu-Roman Transliteration for smart customer service system of international E-commerce platform
   * Contribution: I have presented a hybrid model that can address the main challenges (many-to-one mapping and inconsistent mapping) in this task.
 Besides, the proposed approach is embedded into the dialogue system of international E-commerce platform [DARAZ](https://www.daraz.pk/).
