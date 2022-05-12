@@ -36,12 +36,12 @@ Experience
 ======
 * NLP Senior Algorithm Engineer, [Multi-lingual Group](https://damo.alibaba.com/labs/language-technology), [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/), 07/2021-Present
   * Base: Hangzhou, Zhejiang, China
-  * Directors: Luo Si, Fei Huang, Ji Zhang
+  * Directors: Ji Zhang &rarr; Fei Huang &rarr;  Luo Si
   * Project: Multi-lingual processing for international E-commerce platforms [DARAZ](https://www.daraz.pk/), [LAZADA](https://www.lazada.com/en/) and [AliExpress](https://www.aliexpress.com/)
   * Contribution: [DARAZ](https://www.daraz.pk/) algorithm owner of both the FAQ and Agent Intent Classification model. Contributed to the multi-lingual smart customer service system for [AliExpress](https://www.aliexpress.com/). Besides, I have proposed an improved code-mixing strategy and gained higher results in some languages of [LAZADA](https://www.lazada.com/en/)  with an average of 4 points. Moreover, I have presented some approaches for the pre-training part and obtained remarkable better results on the whole DARAZ system with 13 points (off-line testing) and 9 points (online testing) respectively.
 * Research Intern, [Multi-lingual Group](https://damo.alibaba.com/labs/language-technology), [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/), 07/2020-10/2020
   * Base: Hangzhou, Zhejiang, China
-  * Directors: Haiqing Chen, Ji Zhang
+  * Directors: Ji Zhang &rarr; Haiqing Chen
   * Project: Urdu-Roman Transliteration for smart customer service system of international E-commerce platform
   * Contribution: I have presented a hybrid model that can address the main challenges (many-to-one mapping and inconsistent mapping) in this task.
 Besides, the proposed approach is embedded into the dialogue system of international E-commerce platform [DARAZ](https://www.daraz.pk/).
@@ -60,7 +60,7 @@ Meanwhile, it has strong flexibility, and it is an extendable system that can be
   * Contribution: I had advised the MT team to implement the Uyghur-Chinese bi-directional NMT system efficiently and quickly. Besides, I had also provided both pre/post-processing codes for Uyghur.
 * Social Practice Intern, Information Team, [Xinjiang Tourism Investment Management Co. Ltd](http://www.xinhuanet.com/travel/2019-09/06/c_1124969030.htm), 06/2016-08/2016
   * Base: Urumqi, Xinjiang, China
-  * Mentor: Nan Zhu
+  * Director: Nan Zhu
   * Project: THU College Summer Social Practice Activities
   * Contribution: In this project, I had presented a technical report for providing the multi-lingual service. Besides, I also designed the main architectures of spoken translation by combining ASR and TTS for the project "Smart Tourism".
 * NLP Researcher (Apprenticeship), [THUNLP Group](https://nlp.csai.tsinghua.edu.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/csen/), 09/2015 - 06/2021
