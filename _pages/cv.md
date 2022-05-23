@@ -77,7 +77,7 @@ Meanwhile, it has strong flexibility, and it is an extendable system that can be
   * Base: Urumqi, Xinjiang, China
   * Project: Uyghur Search Engine
   * Contribution: I had taken part in the backend development of the Uyghur Information Retrieval System and collected some experiences about the IR system.
-* NLP Researcher (Apprenticeship), [Xinjiang Multi-Lingual Information Technology Key Laboratory](http://202.201.242.181:8000/translator/index.html), 09/2012-11/2015
+* NLP Researcher (Apprenticeship), [Xinjiang Multi-Lingual Information Technology Key Laboratory](http://202.201.242.181:8000/translator/index.html), 09/2012-06/2015
   * Base: Urumqi, Xinjiang, China
   * Mentor: [Prof. Wushouer Silamu](https://ysg.ckcest.cn/html/details/3943/index.html)
   * Project: Uyghur ASR, TTS, Spoken Translation systems
