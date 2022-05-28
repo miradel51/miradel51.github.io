@@ -94,7 +94,7 @@ Meanwhile, it has strong flexibility, and it is an extendable system that can be
 
 * Social Practice Intern, Information Team, Government office, 07/2010-08/2010
   * Base: Kashgar, Xinjiang, China
-  * Mentor: Hayrulla
+  <!--- * Mentor: Hayrulla -->
   * Project: XJU College Summer Social Practice Activities
   * Contribution: In this project, we had taught local farmers commonly used techniques and current preferential policies for farmers.
 
