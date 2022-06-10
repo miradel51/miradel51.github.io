@@ -28,7 +28,7 @@ To deal with these issues, we propose a meta-learning based method \textbf{MGIMN
 The key of instance-wise comparison is the interactive matching within the class-specific context and episode-specific context. 
 Extensive experiments demonstrate that the proposed method significantly outperforms the existing state-of-the-art approaches, under both the standard FSL and generalized FSL settings.
 
-\[[PDF](https://arxiv.org/pdf/2204.04952.pdf)\]\[[Poster](https://miradel51.github.io/files/naacl2022_poster.pdf)\]\[[Slides](https://miradel51.github.io/files/naacl2022_slides_3.pdf)\]\[[Video](coming soon)\]
+\[[PDF](https://arxiv.org/pdf/2204.04952.pdf)\]\[[Poster](https://miradel51.github.io/files/naacl2022_poster.pdf)\]\[[Slides](https://miradel51.github.io/files/naacl2022_slides_3.pdf)\]\[[Video](https://miradel51.github.io/files/naacl22_video_small.mp4)\]
 
 
 
