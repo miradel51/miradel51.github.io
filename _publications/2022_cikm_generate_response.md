@@ -5,7 +5,7 @@ permalink: /publication/2022_cikm_generate_response
 excerpt: ''
 date: 2022-08-13
 author: Bo Chen*, Jiayi Liu*†, <b>Mieradilijiang Maimaiti</b>, Xing Gao, and Ji Zhang
-conference: In International Conference on Information and Knowledge Management (CIKM) <b>(2022)</b> (*=equal contribution, †=corresponding author)
+conference: In International Conference on Information and Knowledge Management <b>(CIKM,2022)</b> (*=equal contribution, †=corresponding author)
 venue: ''
 paperurl: ''
 citation: '<br>
