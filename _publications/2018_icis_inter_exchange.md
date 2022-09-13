@@ -5,7 +5,7 @@ permalink: /publication/2018_icis_inter_exchange
 excerpt: ''
 date: 2018-11-02
 author: <b>Mieradilijiang Maimaiti</b>, Xiaohui Zou*
-conference: In International Conference on Intelligence Science <b>(ICIS-2018)</b> (*=corresponding author) (Long oral paper)
+conference: In International Conference on Intelligence Science <b>(ICIS, 2018)</b> (*=corresponding author) (Long oral paper)
 venue: ''
 paperurl: 'https://link.springer.com/chapter/10.1007%2F978-3-030-01313-4_17'
 citation: '<br>
