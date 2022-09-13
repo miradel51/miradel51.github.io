@@ -1,7 +1,7 @@
 ---
 title: "Auto-MLM: Improved Contrastive Learning for Self-supervised Multi-lingual Knowledge Retrieval"
 collection: 
-permalink: /publication/20220331_auto-mlm_arxiv
+permalink: /publication/2022_arxiv_auto-mlm
 excerpt: ''
 date: 2022-03-31
 author: Wenshen Xu*, <b>Mieradilijiang Maimaiti</b>*, Yuanhang Zheng, Xin Tang, and Ji Zhang†
