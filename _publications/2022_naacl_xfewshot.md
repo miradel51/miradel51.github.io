@@ -1,7 +1,7 @@
 ---
 title: "MGIMN: Multi-Grained Interactive Matching Network for Few-shot Text Classification"
 collection: 
-permalink: /publication/20220411_xfewshot_arxiv
+permalink: /publication/2022_naacl_xfewshot
 excerpt: ''
 date: 2022-04-11
 author: Jianhai Zhang, <b>Mieradilijiang Maimaiti</b>, Xing Gao, Yuanhang Zheng, and Ji Zhang*
