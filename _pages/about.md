@@ -25,11 +25,17 @@ Moreover, I am keen on addressing some NLP problems by exploiting ML and DL appr
 
 News
 ------
-05/24/2021  [Finally I also did it!](https://www.linkedin.com/feed/update/urn:li:activity:6803196850481463296/) I have also accomplished my Phd Defense!. <br>
-08/26/2021  [EMNLP2021](https://www.linkedin.com/feed/update/urn:li:activity:6836672943502835712/) Our two recent research works have been accepted by EMNLP2021.  <br>
-11/08/2021  [Oral Presentation](https://miradel51.github.io/files/emnlp2021_me_video.mp4) We have uploaded our oral presentation video of EMNLP2021. <br>
-04/10/2022  [NAACL2022](https://openreview.net/forum?id=rnfgk3iZrbc&referrer=[Tasks](/tasks)) One paper has been accepted by NAACL2022.  <br>
+08/13/2022  [CIKM2022]() One paper has been accepted by CIKM2022.  <br>
 06/10/2022  [Poster Presentation](https://miradel51.github.io/files/naacl22_video_small.mp4) We have uploaded our poster presentation video of NAACL2022. <br>
+04/10/2022  [NAACL2022](https://openreview.net/forum?id=rnfgk3iZrbc&referrer=[Tasks](/tasks)) One paper has been accepted by NAACL2022.  <br>
+11/08/2021  [Oral Presentation](https://miradel51.github.io/files/emnlp2021_me_video.mp4) We have uploaded our oral presentation video of EMNLP2021. <br>
+08/26/2021  [EMNLP2021](https://www.linkedin.com/feed/update/urn:li:activity:6836672943502835712/) Our two recent research works have been accepted by EMNLP2021.  <br>
+05/24/2021  [Finally I also did it!](https://www.linkedin.com/feed/update/urn:li:activity:6803196850481463296/) I have also accomplished my Phd Defense!. <br>
+
+
+
+
+
 
 <div style="width: 250px; margin: auto;">
 		<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=Y1UFl2nSBtyprQg6cZvmxQXBD9KWFC8yva_6uF5dm34&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
