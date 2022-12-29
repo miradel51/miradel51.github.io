@@ -34,13 +34,13 @@ Education
 
 Work Experience
 ======
-* NLP Senior Algorithm Engineer, [Multi-lingual Group](https://damo.alibaba.com/labs/language-technology), [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/), 07/2021-Present
+* NLP Senior Algorithm Engineer, [Language Technology Lab](https://damo.alibaba.com/labs/language-technology), [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/), 07/2021-Present
   * Base: Hangzhou, Zhejiang, China
   <!--- * Directors: Ji Zhang &rarr; Fei Huang &rarr;  Luo Si -->
   * Project: Multi-lingual processing for international E-commerce platforms [DARAZ](https://www.daraz.pk/), [LAZADA](https://www.lazada.com/en/) and [AliExpress](https://www.aliexpress.com/)
   * Contribution: [DARAZ](https://www.daraz.pk/) algorithm owner of both the FAQ and Agent Intent Classification model. Contributed to the multi-lingual smart customer service system for [AliExpress](https://www.aliexpress.com/). Besides, I have proposed an improved code-mixing strategy and gained higher results in some languages of [LAZADA](https://www.lazada.com/en/)  with an average of 4 points. Moreover, I have presented some approaches for the pre-training part and obtained remarkable better results on the whole DARAZ system with 13 points (off-line testing) and 9 points (online testing) respectively.
 
-* Research Intern, [Multi-lingual Group](https://damo.alibaba.com/labs/language-technology), [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/), 07/2020-10/2020
+* Research Intern, [Language Technology Lab](https://damo.alibaba.com/labs/language-technology), [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/), 07/2020-10/2020
   * Base: Hangzhou, Zhejiang, China
   <!--- * Directors: Ji Zhang &rarr; Haiqing Chen -->
   * Project: Urdu-Roman Transliteration for smart customer service system of international E-commerce platform
