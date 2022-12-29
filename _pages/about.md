@@ -25,15 +25,14 @@ In addition, he is very interested in solving some NLP problems using ML and DL.
 Research Interests
 ------------------
 Mieradilijiang has a broad research interest in language technology:
-
-* Natural Language Processing
+* __Natural Language Processing__
   * __Machine Translation__
     * __Low-Resource Languages Scenario__
-    * Domain Adaptation
     * __Data Augmentation__
-    * __Transfer Learning__ 
+    * __Transfer Learning__
+    * Domain Adaptation
     * Prior-Knowledge
-  * Morphological Analysis & Word Segmentation
+  * Morphological Analysis & __Word Segmentation__
   * __Semantic Representation__: Sentence Retrieval / Knowledge Retrieval
   * Sentiment Classification: Few-Shot Learning & Zero-Shot Learning
   * Multilingual Processing
@@ -41,7 +40,7 @@ Mieradilijiang has a broad research interest in language technology:
 * Information Retrieval
   * Cross-Language Information Retrieval
 * Machine Learning for NLP
-* __NLP Applications__
+* NLP Applications
 
 
 News
