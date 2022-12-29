@@ -8,20 +8,41 @@ redirect_from:
   - /about.html
 ---
 
-About me
-------
+Biography
+---------
 
-I have received my Ph.D. in [Natural Language Processing (NLP) group](https://nlp.csai.tsinghua.edu.cn/) at [Tsinghua University (THU)](https://www.tsinghua.edu.cn/en/). My mentor is [Prof. MaoSong Sun](https://nlp.csai.tsinghua.edu.cn/staff/sms/) and I am also advised by [Prof. Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/). 
-My research interests are NLP, Machine Translation (MT), Machine Learning (ML), and Deep Learning (DL). I have been exploring some works related to MT since September 2016.  I am working on Neural Machine Translation (NMT) between both Low-Resource Languages (LRLs) and Morphologically Rich Languages (MRLs), and include some minority languages.  
-Furthermore, I had investigated the domain adaptation problem for NMT and also explored the Transfer Learning (TL) and Data Augmentation (DA) for LRLs in NMT. Meanwhile, I am focusing on the morphological analysis in both agglutinated and inflected languages. 
-Currently, I am still investigating some interesting methods for natural language generation (e.g., MT or machine writing) and natural language understanding (e.g., reasoning or semantic retrieval) as well.
+Dr. Maimaiti Mieradilijiang is a Senior Algorithm Engineer for Natural Language Processing (NLP) at the [Language Technology Lab](https://damo.alibaba.com/labs/language-technology) in [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/). Previously, Mieradilijiang received his PhD from [THUNLP Lab](https://nlp.csai.tsinghua.edu.cn/) at [Tsinghua University (THU)](https://www.tsinghua.edu.cn/en/) under the supervision of [Prof. MaoSong Sun](https://nlp.csai.tsinghua.edu.cn/staff/sms/) and he is also co-advised by [Prof. Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/).
+His work lies at NLP, machine translation (MT) and machine learning (ML).
+Mieradilijiang is engaged in some work related to MT since September 2016 . He is working on neural machine translation (NMT) between low-resource languages (LRLs) and morphologically rich languages (MRLs), including some minority languages. He also studied the domain adaptation problem for NMT and explored transfer learning (TL) and data augmentation (DA) for LRLs in NMT. At the same time, he focused on morphological analysis in agglutinated and inflected languages.
 
-In my master, I had also worked on computational morphology, speech recognition, speech synthesis, and morphological analysis under the guidance of Engineering Academician [Prof. Wushouer Silamu](https://ysg.ckcest.cn/html/details/3943/index.html). When I was a bachelor I also developed several desktop applications, such as as educational software, medical applications, several network applications (company websites and official government websites), and some useful APPs for Android and Windows Phone (WP) at [Xinjiang University (XJU)](https://www.xju.edu.cn/) before coming to [THU](https://www.tsinghua.edu.cn/en/). Therefore, I had collected some experiences about software development for the desktop, network, and smart mobile devices before began my Ph.D.
+Before joining the [THUNLP Lab](https://nlp.csai.tsinghua.edu.cn/), he earned his master's and bachelor's degrees in software engineering and computer science from [Xinjiang University (XJU)](https://www.xju.edu.cn/). During his master's degree, he worked on computational morphology, speech recognition, speech synthesis, and morphological analysis under the guidance of academician [Prof. Wushouer Silamu](https://ysg.ckcest.cn/html/details/3943/index.html). During his undergraduate studies, he developed several desktop applications at [XJU](https://www.xju.edu.cn/), such as educational software, medical applications, several network applications (corporate and official government websites), and some useful APPs for Android and Windows Phone (WP) before coming to [THU](https://www.tsinghua.edu.cn/en/). Therefore, Dr. Mieradilijiang gained some experience in software development for desktop, network, and smart mobile devices before starting his PhD.
 
-Moreover, I am keen on addressing some NLP problems by exploiting ML and DL approaches. Presently, I spend most of my time on NLP tasks mainly on some interesting and meaningful problems both for natural language generation and understanding.
+In addition, Dr. Mieradilijiang is very interested in solving some NLP problems by using ML and DL approaches. Currently, he is also still exploring some interesting methods for natural language generation (NLG) (e.g., MT or machine writing) and natural language understanding (NLU) (e.g., reasoning or semantic retrieval).
 
 
 <strong>Nothing is impossible!</strong>
+
+Research Interests
+------------------
+Mieradilijiang has a broad research interest in language technology:
+
+* Natural Language Processing
+  * __Machine Translation__
+    * __Low-Resource Languages Scenario__
+    * Domain Adaptation
+    * __Data Augmentation__
+    * __Transfer Learning__ 
+    * Prior-Knowledge
+  * Morphological Analysis & Word Segmentation
+  * __Semantic Representation__: Sentence Retrieval / Knowledge Retrieval
+  * Sentiment Classification: Few-Shot Learning & Zero-Shot Learning
+  * Multilingual Processing
+* __Pre-trained Models__ (PTMs) & Big Models
+* Information Retrieval
+  * Cross-Language Information Retrieval
+* Machine Learning for NLP
+* __NLP Applications__
+
 
 News
 ------
