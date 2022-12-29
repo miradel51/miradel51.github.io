@@ -29,7 +29,7 @@ Education
 * Ph.D, [THU](https://www.tsinghua.edu.cn/en/), 09/2015-06/2021
   * Computer Science and Technology
   * [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/csen/)
-  * [THUNLP Group](https://nlp.csai.tsinghua.edu.cn/)
+  * [THUNLP National Key Laboratory](https://nlp.csai.tsinghua.edu.cn/)
 
 
 Work Experience
@@ -69,7 +69,7 @@ Meanwhile, it has strong flexibility, and it is an extendable system that can be
   * Project: THU College Summer Social Practice Activities
   * Contribution: In this project, I had presented a technical report for providing the multi-lingual service. Besides, I also designed the main architectures of spoken translation by combining ASR and TTS for the project "Smart Tourism".
 
-* NLP Researcher (Apprenticeship), [THUNLP Group](https://nlp.csai.tsinghua.edu.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/csen/), 09/2015 - 06/2021
+* NLP Researcher (Apprenticeship), [THUNLP Lab](https://nlp.csai.tsinghua.edu.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/csen/), 09/2015 - 06/2021
   * Base: Beijing, China
   * Mentor: [Prof. MaoSong Sun](https://nlp.csai.tsinghua.edu.cn/staff/sms/), [Prof. Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/)
   * Project: Cross-lingual Information Retrieval system and Low-Resource Languages NMT system
