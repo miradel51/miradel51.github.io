@@ -38,71 +38,69 @@ Work Experience
   * Base: Hangzhou, Zhejiang, China
   <!--- * Directors: Ji Zhang &rarr; Fei Huang &rarr;  Luo Si -->
   * Project: Multi-lingual processing for international E-commerce platforms [DARAZ](https://www.daraz.pk/), [LAZADA](https://www.lazada.com/en/) and [AliExpress](https://www.aliexpress.com/)
-  * Contribution: [DARAZ](https://www.daraz.pk/) algorithm owner of both the FAQ and Agent Intent Classification model. Contributed to the multi-lingual smart customer service system for [AliExpress](https://www.aliexpress.com/). Besides, I have proposed an improved code-mixing strategy and gained higher results in some languages of [LAZADA](https://www.lazada.com/en/)  with an average of 4 points. Moreover, I have presented some approaches for the pre-training part and obtained remarkable better results on the whole DARAZ system with 13 points (off-line testing) and 9 points (online testing) respectively.
+  * Contribution: owner of the [DARAZ](https://www.daraz.pk/) algorithm, both the FAQ and the Agent Intent Classification models. I contributed to the multilingual intelligent customer service system for [AliExpress](https://www.aliexpress.com/). I also proposed an improved code-mixing strategy and achieved better results in some languages of [LAZADA](https://www.lazada.com/en/) with an average score of 4 points. I also presented some approaches for the pre-training part and achieved remarkably better results for the whole DARAZ system with 13 points (offline tests) and 9 points (online tests).
 
 * Research Intern, [Language Technology Lab](https://damo.alibaba.com/labs/language-technology), [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/), 07/2020-10/2020
   * Base: Hangzhou, Zhejiang, China
   <!--- * Directors: Ji Zhang &rarr; Haiqing Chen -->
   * Project: Urdu-Roman Transliteration for smart customer service system of international E-commerce platform
-  * Contribution: I have presented a hybrid model that can address the main challenges (many-to-one mapping and inconsistent mapping) in this task.
-Besides, the proposed approach is embedded into the dialogue system of international E-commerce platform [DARAZ](https://www.daraz.pk/).
-
+  * Contribution: Contribution: I presented a hybrid model that can solve the main challenges (many-to-one mapping and inconsistent mapping) in this task. Moreover, the proposed approach is embedded in the dialog system of the international e-commerce platform [DARAZ](https://www.daraz.pk/).
+  
 * CTO, Information Services Department, [Beijing Silk Road Heli Investment Management Group Co.,Ltd](https://www.helibazar.com/index.html), 07/2019-12/2019
   * Base: Beijing, China
   * Project: Multi-Lingual E-commerce Platform
-  * Contribution: I had directed our team to develop the multilingual E-commerce platform whose frontend and backend were written by ours rather than using other's frameworks. 
-Meanwhile, it has strong flexibility, and it is an extendable system that can be changed to online teaching or online training system effortlessly.
+  * Contribution: I had instructed our team to develop a multilingual e-commerce platform with front-end and back-end written by us instead of using other frameworks. The system is very flexible and extensible and can be effortlessly converted into an online teaching system or an online training system.
 
 * Technical Advisor, MT Team, [NewTranx Technology](http://www.newtranx.com/), 12/2018-05/2019
   * Base: Shenzhen, Guangdong, China
   * Project: NMT for Morphologically Rich Languages ([Arabic-Chinese](https://fanyi.newtranx.com/?lng=cn#/onTrans))
-  * Contribution: I had provided some technical advices to training the NMT model for morphologically rich languages (Arabic, Turkish, and Urdu) between Chinese. We used well-known NMT architecture (Transformer) with a commonly used Neural Network toolkit (Tensorflow). Besides, I have provided some processing tools for Arabic, Turkish, and Urdu.
+  * Contribution: I had given some technical advice on training the NMT model for morphologically rich languages (Arabic, Turkish, and Urdu) between Chinese. We used a well-known NMT architecture (Transformer) with a commonly used neural network toolkit (Tensorflow). I also provided some processing tools for Arabic, Turkish and Urdu.
 
 * Technical Advisor, MT Team, [SinoVoice](https://www.sinovoice.com/), 11/2017-11/2018
   * Base: Beijing, China
   * Project: NMT for Low-Resource Languages ([Uyghur-Chinese](https://translate.aicloud.com/))
-  * Contribution: I had advised the MT team to implement the Uyghur-Chinese bi-directional NMT system efficiently and quickly. Besides, I had also provided both pre/post-processing codes for Uyghur.
+  * Contribution: I had advised the team of MT to implement the bidirectional Uyghur-Chinese NMT system efficiently and quickly. I had also provided both pre-processing and post-processing codes for Uyghur.
 
 * Social Practice Intern, Information Team, [Xinjiang Tourism Investment Management Co. Ltd](http://www.xinhuanet.com/travel/2019-09/06/c_1124969030.htm), 06/2016-08/2016
   * Base: Urumqi, Xinjiang, China
   <!--- * Director: Nan Zhu -->
   * Project: THU College Summer Social Practice Activities
-  * Contribution: In this project, I had presented a technical report for providing the multi-lingual service. Besides, I also designed the main architectures of spoken translation by combining ASR and TTS for the project "Smart Tourism".
+  * Contribution: In this project, I had submitted a technical report for the provision of the multilingual service. I also designed the main architectures for spoken translation by combining ASR, TTS and NMT for the Smart Tourism project.
 
 * NLP Researcher (Apprenticeship), [THUNLP Lab](https://nlp.csai.tsinghua.edu.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/csen/), 09/2015 - 06/2021
   * Base: Beijing, China
   * Mentor: [Prof. MaoSong Sun](https://nlp.csai.tsinghua.edu.cn/staff/sms/), [Prof. Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/)
   * Project: Cross-lingual Information Retrieval system and Low-Resource Languages NMT system
-  * Contribution: I had developed a cross-lingual information retrieval system between minority languages (Uyghur, Tibetan, Mongolian) and Chinese. I have also developed NMT online demo for LRLs ([demo](http://101.6.5.207:5152/)). 
+  * Contribution: I have developed a cross-lingual information retrieval system between minority languages (Uyghur, Tibetan, Mongolian) and Chinese. I have also developed an NMT online demo for LRLs ([demo](http://101.6.5.207:5152/)). 
 
 * Visited Scholar, [Machine Intelligence and Translation Lab](http://mitlab.hit.edu.cn/main.htm), [HIT](http://www.hit.edu.cn/), 09/2014-10/2014
   * Base: Harbin, Heilongjiang, China
   * Mentor: [Dr. Conghui Zhu](http://mitlab.hit.edu.cn/2018/0608/c9183a210166/page.htm)
   * Project: Uyghur-Chinese Statistical Machine Translation (SMT)
-  * Task: Learn related techniques about SMT, such as learning open-source system MOSES, learn how to train, how to tune the model, how to optimize, and how to deploy the trained model on the webserver. Meanwhile, I have been taught the CRF model by [Dr. Conghui Zhu](http://mitlab.hit.edu.cn/2018/0608/c9183a210166/page.htm). Besides, I also improved my Linux skills in their Lab. 
+  * Task: Learn related techniques about SMT, such as learning open source systems MOSES, learn how to train, how to tune the model, how to optimize, and how to deploy the trained model on the web server. In the meantime, I learned the CRF model from [Dr. Conghui Zhu](http://mitlab.hit.edu.cn/2018/0608/c9183a210166/page.htm). Besides, I also improved my Linux knowledge in their lab.
 
 * Software Engineer, Information Team, Xinjiang Tiznap Information Technology Co. Ltd, 04/2013-11/2013
   * Base: Urumqi, Xinjiang, China
   * Project: Uyghur Search Engine
-  * Contribution: I had taken part in the backend development of the Uyghur Information Retrieval System and collected some experiences about the IR system.
+  * Contribution: I had participated in the backend development of the Uyghur Information Retrieval System and gained some experience about the IR system.
 
 * NLP Researcher (Apprenticeship), [Xinjiang Multi-Lingual Information Technology Key Laboratory](http://202.201.242.181:8000/translator/index.html), 09/2012-06/2015
   * Base: Urumqi, Xinjiang, China
   * Mentor: [Prof. Wushouer Silamu](https://ysg.ckcest.cn/html/details/3943/index.html)
   * Project: Uyghur ASR, TTS, Spoken Translation systems
-  * Contribution: I had accomplished the Uyghur multi-script TTS model collaborate with my teammates. Meanwhile, we also proposed the Uyghur Voice Controlling ASR model. The last year in my master, we had developed Uyghur-Chinese bi-directional spoken translation system by combing our single separately trained models (Uyghur ASR, TTS, and MT).
+  * Contribution: I had completed the Uyghur multi-script TTS model in collaboration with my teammates. In the meantime, we also proposed the Uyghur speech-driven ASR model. In the last year of my master's degree, we had developed a bidirectional system for Uyghur-Chinese spoken translation by combining our individual models trained separately (Uyghur ASR, TTS and MT).
 
 * Social Practice Intern, Information Team, Government office, 07/2010-08/2010
   * Base: Kashgar, Xinjiang, China
   <!--- * Mentor: Hayrulla -->
   * Project: XJU College Summer Social Practice Activities
-  * Contribution: In this project, we had taught local farmers commonly used techniques and current preferential policies for farmers.
+  * Contribution: In this project, we taught local farmers commonly used techniques and current preferential policies for farmers.
 
 * Software Engineer (Apprenticeship), [Xinjiang Multi-Lingual Information Technology Key Laboratory](http://202.201.242.181:8000/translator/index.html), 11/2009-06/2012
   * Base: Urumqi, Xinjiang, China
   * Mentor: [Prof. Wushouer Silamu](https://ysg.ckcest.cn/html/details/3943/index.html)
   * Project: Operation System (Localization), Software Development
-  * Contribution: I had taken part in the Win7 Operation System localization task. Besides, I had developed desktop applications (Education System) and Network applications (Multilingual website, Government website, and Companies website). Meanwhile, the last year in my undergraduate I had designed Android APPs for learning Chinese. 
+  * Contribution: I had taken part in the Win7 Operation System localization task. Besides, I had developed desktop applications (Education Systems) and Network applications (Government and Company multilingual Websites). Meanwhile, in the last year of my undergraduate, I designed Android APPs for learning Chinese.
 
   
 
