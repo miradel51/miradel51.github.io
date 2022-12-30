@@ -12,7 +12,7 @@ Biography
 ---------
 
 Dr. Maimaiti Mieradilijiang is a Senior Algorithm Engineer for Natural Language Processing (NLP) at the [Language Technology Lab](https://damo.alibaba.com/labs/language-technology) in [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/). 
-Previously, Mieradilijiang received his Ph.D. from the [Department of Computer Science](https://www.cs.tsinghua.edu.cn/csen/) at [Tsinghua University (THU)](https://www.tsinghua.edu.cn/en/) under the supervision of [Prof. MaoSong Sun](https://nlp.csai.tsinghua.edu.cn/staff/sms/) and is also co-advised by [Prof. Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/) in the [THUNLP Lab](https://nlp.csai.tsinghua.edu.cn/).
+Previously, Mieradilijiang received his Ph.D. from the [Department of Computer Science](https://www.cs.tsinghua.edu.cn/csen/) at [Tsinghua University (THU)](https://www.tsinghua.edu.cn/en/) under the supervision of [Prof. Maosong Sun](https://nlp.csai.tsinghua.edu.cn/staff/sms/) and is also co-advised by [Prof. Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/) in the [THUNLP Lab](https://nlp.csai.tsinghua.edu.cn/).
 His work is in NLP, machine translation (MT), and machine learning (ML).
 Mieradilijiang is engaged in some work related to MT since September 2016. He is working on neural machine translation (NMT) between low-resource languages (LRLs) and morphologically rich languages (MRLs), including some minority languages. He also studied the domain adaptation problem for NMT and explored transfer learning (TL) and data augmentation (DA) for LRLs in NMT. At the same time, he focused on morphological analysis in agglutinated and inflected languages.
 
