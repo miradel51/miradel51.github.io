@@ -121,7 +121,7 @@ Honors
 
 Academic Service
 ======
-* Conference reviewer: ACL2016, AAAI2018, COLING2018, NAACL2019, PACLIC2021, IJCNN2022, NLPAI2022, ADMIT2022, AMLIT2023, ACDP2023, IEEE CEC2023
+* Conference reviewer: ACL2016, AAAI2018, COLING2018, NAACL2019, PACLIC2021, IJCNN2022, NLPAI2022, ADMIT2022-2023, AMLIT2023, ACDP2023, IEEE CEC2023
 * Journal reviewer: International Journal of Intelligent System (IJIS) 2021-2022, ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP) 2022
 
 <!-- Selected Talks
