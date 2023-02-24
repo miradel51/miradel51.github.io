@@ -40,4 +40,4 @@ outperforms the state-of-the-art methods and online tests prove
 that our deployed system significantly enhances the efficiency of
 the stores’ dealing with negative reviews.
 
-\[[PDF](https://github.com/miradel51/miradel51.github.io/blob/main/files/cikm2022_paper.pdf)\]  
+\[[PDF](https://arxiv.org/abs/2209.09497)\]  
