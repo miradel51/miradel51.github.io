@@ -118,10 +118,11 @@ Honors
 * Second-class scholarship for postgraduate, 09/2012, 09/2013, 09/2014
 * National Scholarship (Postgraduate), 12/2014
 * Third-class Social Practice Scholarship for Postgraduates of THU, 12/2016
+* Second Prize of Science and Technology of Chinese Institute of Electronics, 01/2022
 
 Academic Service
 ======
-* Conference reviewer & Technical Program Committee (TPC): ACL2016, AAAI2018, COLING2018, NAACL2019, PACLIC2021, IJCNN2022, NLPAI2022, ADMIT2022-2023, AMLIT2023, ACDP2023, IEEE CEC2023, CVIPPR2023, AIMLR2023, CSSE2023, AISS2023
+* Conference reviewer & Technical Program Committee (TPC): ACL2016, ACL2023, AAAI2018, COLING2018, NAACL2019, PACLIC2021, IJCNN2022, NLPAI2022, ADMIT2022-2023, AMLIT2023, ACDP2023, IEEE CEC2023, CVIPPR2023, AIMLR2023, CSSE2023, AISS2023
 * Journal reviewer: International Journal of Intelligent System (IJIS) 2021-2022, ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP) 2022
 
 <!-- Selected Talks
