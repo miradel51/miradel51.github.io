@@ -5,7 +5,7 @@ permalink: /publication/2020_tst_tl_share
 excerpt: ''
 date: 2020-09-25
 author: <b>Mieradilijiang Maimaiti</b>, Yang Liu*, Huanbo Luan, and Maosong Sun
-conference: In TSINGHUA SCIENCE AND TECHNOLOGY (TST) <b>(TST, 2020)</b> (*=corresponding author)
+conference: In TSINGHUA SCIENCE AND TECHNOLOGY <b>(TST, 2020)</b> (*=corresponding author)
 venue: ''
 paperurl: 'https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=5971803'
 citation: '<br>
