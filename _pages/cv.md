@@ -34,16 +34,20 @@ Education
 
 Work Experience
 ======
-* NLP Senior Algorithm Engineer, [Language Technology Lab](https://damo.alibaba.com/labs/language-technology), [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/), 07/2021-Present
+* Research Assistant, [Laboratory of Multilingual Information Technology](http://www.xjipc.cas.cn/XJMITL/), [Xinjiang Technical Institute of Physics and Chemistry, Chinese Academy of Sciences](http://english.xjipc.cas.cn/), 04/2023-Present
+  * Base: Urumqi, Xinjiang, China
+  <!--- * Directors: Ji Zhang &rarr; Fei Huang &rarr;  Luo Si -->
+  * Project: New Frontiers of Natural Language Text Generation in Low-Resource Scenario
+* NLP Senior Algorithm Engineer, [Language Technology Lab](https://damo.alibaba.com/labs/language-technology), [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/), 07/2021-03/2023
   * Base: Hangzhou, Zhejiang, China
   <!--- * Directors: Ji Zhang &rarr; Fei Huang &rarr;  Luo Si -->
-  * Project: Multi-lingual processing for international E-commerce platforms [DARAZ](https://www.daraz.pk/), [LAZADA](https://www.lazada.com/en/) and [AliExpress](https://www.aliexpress.com/)
+  * Project: Multi-lingual Processing for International E-commerce Platforms [DARAZ](https://www.daraz.pk/), [LAZADA](https://www.lazada.com/en/) and [AliExpress](https://www.aliexpress.com/)
   * Contribution: owner of the [DARAZ](https://www.daraz.pk/) algorithm, both the FAQ and the Agent Intent Classification models. I contributed to the multilingual intelligent customer service system for [AliExpress](https://www.aliexpress.com/). I also proposed an improved code-mixing strategy and achieved better results in some languages of [LAZADA](https://www.lazada.com/en/) with an average score of 4 points. I also presented some approaches for the pre-training part and achieved remarkably better results for the whole DARAZ system with 13 points (offline tests) and 9 points (online tests).
 
 * Research Intern, [Language Technology Lab](https://damo.alibaba.com/labs/language-technology), [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/), 07/2020-10/2020
   * Base: Hangzhou, Zhejiang, China
   <!--- * Directors: Ji Zhang &rarr; Haiqing Chen -->
-  * Project: Urdu-Roman Transliteration for smart customer service system of international E-commerce platform
+  * Project: Urdu-Roman Transliteration for Smart Customer Service System of International E-commerce Platform
   * Contribution: Contribution: I presented a hybrid model that can solve the main challenges (many-to-one mapping and inconsistent mapping) in this task. Moreover, the proposed approach is embedded in the dialog system of the international e-commerce platform [DARAZ](https://www.daraz.pk/).
   
 * CTO, Information Services Department, [Beijing Silk Road Heli Investment Management Group Co.,Ltd](https://www.helibazar.com/index.html), 07/2019-12/2019
