@@ -37,7 +37,7 @@ Work Experience
 * Research Assistant, [Laboratory of Multilingual Information Technology](http://www.xjipc.cas.cn/XJMITL/), [Xinjiang Technical Institute of Physics and Chemistry, Chinese Academy of Sciences](http://english.xjipc.cas.cn/), 04/2023-Present
   * Base: Urumqi, Xinjiang, China
   <!--- * Directors: Ji Zhang &rarr; Fei Huang &rarr;  Luo Si -->
-  * Project: New Frontiers of Natural Language Text Generation in Low-Resource Scenario
+  * Project: New Frontiers of Natural Language Generation in Low-Resource Scenario
 * NLP Senior Algorithm Engineer, [Language Technology Lab](https://damo.alibaba.com/labs/language-technology), [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/), 07/2021-03/2023
   * Base: Hangzhou, Zhejiang, China
   <!--- * Directors: Ji Zhang &rarr; Fei Huang &rarr;  Luo Si -->
