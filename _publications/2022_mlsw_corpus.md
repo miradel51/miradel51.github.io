@@ -1,5 +1,5 @@
 ---
-title: "Minority languages Word Segmentation Technology Evaluation dataset MLWS2021"
+title: "Minority Languages Word Segmentation Technology Evaluation Dataset MLWS2021"
 collection: publications
 permalink: /publication/2022_mlsw_corpus
 excerpt: ''
@@ -10,7 +10,7 @@ venue: ''
 paperurl: 'https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XdNxXPOeM_FCmgerDbK38lPHB-zVs6pog6C_-NNhCe9t&uniplatform=NZKPT'
 citation: '<br>
 @inproceedingsXiaobing2022mlws,<br>
-  title={Minority languages Word Segmentation Technology Evaluation dataset MLWS2021},<br>
+  title={Minority Languages Word Segmentation Technology Evaluation Dataset MLWS2021},<br>
   author={Xiaobing Zhao, Lu Gao, Dingguo Gao, Wugedele Bao, Mieradilijiang Maimaiti, Yang Liu ,Zhijie Cai, and Yuan Sun},<br>
   booktitle={China Scientific Data},<br>
   year={2022},<br>
