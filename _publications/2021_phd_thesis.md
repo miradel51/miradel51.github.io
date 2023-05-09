@@ -5,7 +5,7 @@ permalink: /publication/2021_phd_thesis
 excerpt: ''
 date: 2021-05-01
 author: <b>Mieradilijiang Maimaiti</b>
-conference: Phd Thesis <b>(2015)</b> 
+conference: Phd Thesis <b>(2021)</b> 
 venue: ''
 paperurl: 'https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C447WN1SO36whLpCgh0R0Z-i16_wNaYct1rCckkTLVqOrb5k-zqjznpcQN32DXhcsleZZocA6nBZtPtZZvGyDgV4&uniplatform=NZKPT'
 citation: '<br>
