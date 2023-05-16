@@ -11,7 +11,8 @@ redirect_from:
 
 * Chinese [PDF](https://miradel51.github.io/files/my_cv_ch.pdf)
 
-* English [PDF](https://miradel51.github.io/files/my_cv_en.pdf)
+* English [PDF]()
+<!-- * English [PDF](https://miradel51.github.io/files/my_cv_en.pdf)-->
 
 Education
 ======
