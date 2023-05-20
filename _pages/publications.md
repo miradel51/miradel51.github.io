@@ -23,3 +23,9 @@ Patent
 Preprint
 ======
 * Yang Liu, __Mieradilijiang Maimaiti__, Huanbo Luan and Maosong Sun, "The System and Method for Low-Resource Neural Machine Translation Based on Data Augmentation", __Computer Patent for Invention__; China Patent Application No: **2021**108572155, __Under Review__；
+
+Academic Service
+======
+* Conference reviewer: ACL2016, ACL2023, AAAI2018, COLING2018, NAACL2019, PACLIC2021, IJCNN2022, NLPAI2022, CVIPPR2023
+* Technical Program Committee (TPC): ADMIT2022-2023, AMLIT2023, ACDP2023, AIMLR2023, CSSE2023, AISS2023, MLAMDA2023, AACIP2023
+* Journal reviewer: International Journal of Intelligent System (IJIS) 2021-2022, ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP) 2022
