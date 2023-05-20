@@ -111,7 +111,7 @@ author:
   tumblr           : 
   twitter          : 
   vine             :
-  weibo            : "https://weibo.com/u/1886870501"
+  weibo            : "u/1886870501"
   xing             :
   youtube          :
   wikipedia        :
@@ -181,6 +181,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  honors:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -205,6 +208,15 @@ defaults:
   - scope:
       path: ""
       type: talks
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _honors
+  - scope:
+      path: ""
+      type: honors
     values:
       layout: single
       author_profile: true
