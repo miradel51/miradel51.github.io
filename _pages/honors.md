@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Honors
+<!-- Honors -->
 ======
 * Outstanding student cadre of XJU, 2007-2008
 * National Encouragement Scholarship, 2008-2009
