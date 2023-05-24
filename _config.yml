@@ -210,7 +210,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-   # _honors
+   # honors
   - scope:
       path: ""
       type: honors
