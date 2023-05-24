@@ -5,6 +5,8 @@ permalink: /honors/
 author_profile: true
 ---
 
+{% include base_path %}
+
 Honors
 ======
 * Outstanding student cadre of XJU, 2007-2008
