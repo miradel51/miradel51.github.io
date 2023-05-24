@@ -181,9 +181,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  honors:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -208,6 +205,15 @@ defaults:
   - scope:
       path: ""
       type: talks
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # honors
+  - scope:
+      path: ""
+      type: honors
     values:
       layout: single
       author_profile: true
