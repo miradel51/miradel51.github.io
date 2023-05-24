@@ -181,6 +181,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  honors:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
