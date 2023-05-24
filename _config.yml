@@ -210,15 +210,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-   # honors
-  - scope:
-      path: ""
-      type: honors
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
 
 
 # Sass/SCSS
