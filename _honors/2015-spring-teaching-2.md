@@ -2,7 +2,7 @@
 title: "Honors"
 collection: honors
 type: "Undergraduate course"
-permalink: /
+permalink: /honors/2015-spring-teaching-2
 venue: "University 1, Department"
 date: 2015-01-01
 location: "City, Country"
