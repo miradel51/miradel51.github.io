@@ -1,9 +1,9 @@
 ---
-title: "Ph.D. dissertation slides"
+title: "Research on Neural Machine Translation Methods under Low-Resource Conditions"
 collection: talks
 type: "Talk"
 permalink: /talks/2021-05-24-phd_thesis_slides
-venue: "Department of Computer Science, Tsinghua University"
+venue: "Ph.D. Thesis dissertation slides. Department of Computer Science, Tsinghua University"
 date: 2021-05-24
 location: "Beijing, China"
 ---
