@@ -1,18 +1,24 @@
+<!--
 ---
 layout: archive
 title: "Honors"
 permalink: /honors/
 author_profile: true
 ---
+-->
 
+<!--
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
+-->
+
 <!-- Honors -->
 <!-- ====== -->
+
 * Outstanding student cadre of XJU, 2007-2008
 * National Encouragement Scholarship, 2008-2009
 * Excellent league member of XJU, 2008-2009
