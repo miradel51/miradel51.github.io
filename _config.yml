@@ -204,7 +204,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # talks
+  # _talks
   - scope:
       path: ""
       type: talks
