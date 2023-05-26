@@ -216,7 +216,7 @@ defaults:
   # _honors
   - scope:
       path: ""
-      type: honor
+      type: honors
     values:
       layout: single
       author_profile: true
