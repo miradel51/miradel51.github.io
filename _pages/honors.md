@@ -15,7 +15,7 @@ author_profile: true
 
 <!-- Honors -->
 <!-- ====== -->
-
+<!--
 * Outstanding student cadre of XJU, 2007-2008
 * National Encouragement Scholarship, 2008-2009
 * Excellent league member of XJU, 2008-2009
@@ -29,3 +29,4 @@ author_profile: true
 * National Scholarship (Postgraduate), 12/2014
 * Third-class Social Practice Scholarship for Postgraduates of THU, 12/2016
 * Second Prize of Science and Technology of Chinese Institute of Electronics, 01/2022
+-->
