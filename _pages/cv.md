@@ -109,7 +109,7 @@ Work Experience
 
   
 
-<!-- Honors
+Honors
 ======
 * Outstanding student cadre of XJU, 2007-2008
 * National Encouragement Scholarship, 2008-2009
@@ -123,7 +123,7 @@ Work Experience
 * Second-class scholarship for postgraduate, 09/2012, 09/2013, 09/2014
 * National Scholarship (Postgraduate), 12/2014
 * Third-class Social Practice Scholarship for Postgraduates of THU, 12/2016
-* Second Prize of Science and Technology of Chinese Institute of Electronics, 01/2022 -->
+* Second Prize of Science and Technology of Chinese Institute of Electronics, 01/2022
 
 <!-- Academic Service
 ======
