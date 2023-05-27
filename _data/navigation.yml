@@ -9,8 +9,8 @@ main:
   - title: "CV & Others"
     url: /cv/
     
-  - title: "Honors"
-    url: /honors/
+#  - title: "Honors"
+#   url: /honors/
   
     
 #  - title: "Teaching"
