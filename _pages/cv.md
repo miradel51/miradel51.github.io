@@ -125,6 +125,15 @@ Honors
 * Third-class Social Practice Scholarship for Postgraduates of THU, 12/2016
 * Second Prize of Science and Technology of Chinese Institute of Electronics, 01/2022
 
+Students
+=======
+* Research Intern
+  * Hongbin Na, Master, 06/2023-Present, The University of New South Wales (UNSW) in Sydney, Australia
+  * Bifei Hao, Master, 06/2023-Present, Northwestern University in Evanston, United States
+* Co-advised
+  * Wentao Xiao, Master, 06/2023-Present, Xinjiang University in Urumqi, Xinjiang, China
+
+
 <!-- Academic Service
 ======
 * Conference reviewer & Technical Program Committee (TPC): ACL2016, ACL2023, AAAI2018, COLING2018, NAACL2019, PACLIC2021, IJCNN2022, NLPAI2022, ADMIT2022-2023, AMLIT2023, ACDP2023, IEEE CEC2023, CVIPPR2023, AIMLR2023, CSSE2023, AISS2023，AACIP2023, MLAMDA2023
