@@ -128,7 +128,7 @@ Honors
 Students
 =======
 * Research Intern
-  * Hongbin Na, Master, 06/2023-Present, The University of New South Wales (UNSW) in Sydney, Australia
+  * Hongbin Na, Master, 06/2023-08/2023, The University of New South Wales (UNSW) in Sydney, Australia
   <!-- * Bifei Hao, Master, 06/2023-Present, Northwestern University in Evanston, United States -->
 * Co-advised
   * Wentao Xiao, Master, 06/2023-Present, Xinjiang University in Urumqi, Xinjiang, China
