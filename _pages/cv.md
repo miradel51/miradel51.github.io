@@ -132,7 +132,7 @@ Students
   <!-- * Bifei Hao, Master, 06/2023-Present, Northwestern University, Evanston, United States -->
 * Co-advised
   * Wentao Xiao, Master, 06/2023-Present, Xinjiang University, Urumqi, Xinjiang, China
-  * Dauren, Master, 08/2023-Present, University of Chinese Academy of Sciences, Beijing, China
+  * Dawulie Jinensibieke, Master, 08/2023-Present, University of Chinese Academy of Sciences, Beijing, China
   * Yifei Li, Master, 08/2023-Present, Xinjiang Agricultural University, Urumqi, Xinjiang, China
 
 
