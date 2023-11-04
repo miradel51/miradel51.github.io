@@ -40,4 +40,4 @@ outperforms the state-of-the-art methods and online tests prove
 that our deployed system significantly enhances the efficiency of
 the stores’ dealing with negative reviews.
 
-\[[PDF](https://arxiv.org/abs/2209.09497)\]  
+\[[PDF](https://dl.acm.org/doi/10.1145/3511808.3557122)\]  
