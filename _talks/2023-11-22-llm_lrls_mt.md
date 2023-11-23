@@ -2,7 +2,7 @@
 title: "Discussion on Advances in Low-Resource Machine Translation Research in the Era of Large Models"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-11-22-llm_lrls_nmt
+permalink: /talks/2023-11-22-llm_lrls_mt
 venue: "School of Network Security and Information Technology, Yili Normal University"
 date: 2023-11-22
 location: "Yili, Xinjiang, China"
