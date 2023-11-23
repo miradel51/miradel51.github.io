@@ -10,4 +10,4 @@ location: "Yili, Xinjiang, China"
 
 <!-- This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown! -->
 
-\[[Slides](https://miradel51.github.io/files/cll2023_experience sharing report.pdf)\] 
+\[[Slides](https://miradel51.github.io/files/Xinjiang_Ili_normal_university_v3.pdf)\] 
