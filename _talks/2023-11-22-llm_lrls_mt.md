@@ -1,5 +1,5 @@
 ---
-title: "Discussion on Advances in Low-Resource Machine Translation Research in the Era of Large Models"
+title: "Discussion on Advances in Low-Resource Machine Translation Research in the Era of Large Language Models"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-11-22-llm_lrls_mt
