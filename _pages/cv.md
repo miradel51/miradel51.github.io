@@ -131,8 +131,8 @@ Students
   * Hongbin Na, Master, 06/2023-08/2023, The University of New South Wales (UNSW), Sydney, Australia
   <!-- * Bifei Hao, Master, 06/2023-Present, Northwestern University, Evanston, United States -->
 * Co-advised
+  * Dawulie Jinensibieke, Master, 08/2023-12/2023, University of Chinese Academy of Sciences, Beijing, China
   * Wentao Xiao, Master, 06/2023-Present, Xinjiang University, Urumqi, Xinjiang, China
-  * Dawulie Jinensibieke, Master, 08/2023-Present, University of Chinese Academy of Sciences, Beijing, China
   * Yifei Li, Master, 08/2023-Present, Xinjiang Agricultural University, Urumqi, Xinjiang, China
 
 
