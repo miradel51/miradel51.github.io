@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Human-like Translation Strategy: Integrating Drift-Diffusion Model with Large Language Models for Machine Translation"
 collection: 
-permalink: /publication/2024_arxiv_thinker_ddm.md
+permalink: /publication/2024_arxiv_thinker_ddm
 excerpt: ''
 date: 2024-02-16
 author: Hongbin Na, Zimu Wang, <b>Mieradilijiang Maimaiti</b>†, Tong Chen, Wei Wang, Tao Shen, and Ling Chen
