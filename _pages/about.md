@@ -49,13 +49,13 @@ Mieradilijiang has a broad research interest in language technology:
 
 News
 ------
+02/16/2024  [Arxiv2024](https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_we-have-introduced-a-novel-but-straightforward-activity-7168825423408132096-X5gu?utm_source=share&utm_medium=member_desktop) We have introduced a new method for LLM-based MT. <br>
 08/13/2022  [CIKM2022]() One paper has been accepted by CIKM2022.  <br>
 06/10/2022  [Poster Presentation](https://miradel51.github.io/files/naacl22_video_small.mp4) We have uploaded our poster presentation for NAACL2022. <br>
 04/10/2022  [NAACL2022](https://openreview.net/forum?id=rnfgk3iZrbc&referrer=[Tasks](/tasks)) One paper has been accepted by NAACL2022.  <br>
 11/08/2021  [Oral Presentation](https://miradel51.github.io/files/emnlp2021_me_video.mp4) We have uploaded our oral presentation for EMNLP2021. <br>
 08/26/2021  [EMNLP2021](https://www.linkedin.com/feed/update/urn:li:activity:6836672943502835712/) Our two research works have been accepted by EMNLP2021.  <br>
 05/24/2021  [Finally I also did it!](https://www.linkedin.com/feed/update/urn:li:activity:6803196850481463296/) I have also accomplished my Phd Defense!. <br>
-
 
 
 
