@@ -49,6 +49,7 @@ Mieradilijiang has a broad research interest in language technology:
 
 News
 ------
+03/03/2024  [Arxiv2024](https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_we-have-attempted-to-incorporate-code-switching-activity-7171065732649218048-aHO1?utm_source=share&utm_medium=member_desktop) We have optimized cross-lingual PTM for SR. <br>
 02/16/2024  [Arxiv2024](https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_we-have-introduced-a-novel-but-straightforward-activity-7168825423408132096-X5gu?utm_source=share&utm_medium=member_desktop) We have introduced a new method for LLM-based MT. <br>
 08/13/2022  [CIKM2022]() One paper has been accepted by CIKM2022.  <br>
 06/10/2022  [Poster Presentation](https://miradel51.github.io/files/naacl22_video_small.mp4) We have uploaded our poster presentation for NAACL2022. <br>
