@@ -3,7 +3,7 @@ title: "Improving Cross-lingual Representation for Semantic Retrieval with Code-
 collection: 
 permalink: /publication/2024_arxiv_SR_code-switch
 excerpt: ''
-date: 2024-02-16
+date: 2024-03-03
 author: <b>Mieradilijiang Maimaiti</b>*, Yuanhang Zheng*, Ji Zhang†, Fei Huang, Yue Zhang, Wenpei Luo, and Kaiyu Huang
 conference: In Arxiv <b>(2024)</b> (*=equal contribution, †=corresponding author)
 venue: ''
