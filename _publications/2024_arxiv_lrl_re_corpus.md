@@ -3,7 +3,7 @@ title: "How Good are LLMs at Relation Extraction under Low-Resource Scenario? Co
 collection: 
 permalink: /publication/2024_arxiv_lrl_re_corpus
 excerpt: ''
-date: 2024-02-16
+date: 2024-06-17
 author: Dawulie Jinensibieke*, <b>Mieradilijiang Maimaiti</b>†, Wentao Xiao*, Yuanhang Zheng, and Xiaobo Wang†
 conference: In Arxiv <b>(2024)</b> (*=equal contribution, †=corresponding author)
 venue: ''
