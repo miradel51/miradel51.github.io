@@ -40,7 +40,7 @@ Mieradilijiang has a broad research interest in language technology:
   * __Semantic Representation__: Sentence Retrieval / Knowledge Retrieval
   * Sentiment Classification: Few-Shot Learning & Zero-Shot Learning
   * Multilingual Processing
-* __Pre-trained Models__ (PTMs) & Big Models
+* __Pre-trained Models__ (PTMs) & LLMs
 * Information Retrieval
   * Cross-Language Information Retrieval
 * Machine Learning for NLP
