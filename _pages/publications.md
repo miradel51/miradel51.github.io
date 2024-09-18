@@ -19,10 +19,10 @@ Patent
 ======
 * __Mieradilijiang Maimaiti__, Yang Liu, Huanbo Luan and Maosong Sun, "Unsupervised Domain Adaptation for Neural Machine Translation", __Computer Patent for Invention__, China Patent Application No: **2017**10139214.0, Authorization number: CN 107038159 B, China Patent number: ZL 2017 1 0139214.0; __Authorized__；
 * Maosong Sun, __Mieradilijiang Maimaiti__, Yang Liu and Huanbo Luan, "The Training Method for Neural Machine Translation", __Computer Patent for Invention__,  China Patent Application No：**2018**10845896.1, Authorization number: CN 109117483 B, China Patent number: ZL 2018 1 0845896.1; __Authorized__；
+* Yang Liu, __Mieradilijiang Maimaiti__, Huanbo Luan and Maosong Sun, "The System and Method for Low-Resource Neural Machine Translation Based on Data Augmentation", __Computer Patent for Invention__; China Patent Application No: **2021**10857215.5, Authorization number: CN 113673259 B, China Patent number: ZL 2021 1 0857215.5; __Authorized__；
 
 Preprint
 ======
-* Yang Liu, __Mieradilijiang Maimaiti__, Huanbo Luan and Maosong Sun, "The System and Method for Low-Resource Neural Machine Translation Based on Data Augmentation", __Computer Patent for Invention__; China Patent Application No: **2021**10857215.5, __Under Review__；
 * __Mieradilijiang Maimaiti__,Wentao Xiao, Xi Zhou, Yupeng Ma and Yating Yang, "The Method for Semantic Understanding based on Cross-Lingual Representation Learning", __Computer Patent for Invention__; China Patent Application No: **2024**10332204.9, __Under Review__；
 * __Mieradilijiang Maimaiti__,Xiaobo Wang and Dawulie Jinensibieke, "A Method for Relation Extraction Corpus Construction under Low-Resource Scenarios using Multi-lingual Machine Translation", __Computer Patent for Invention__; China Patent Application No: **2024**11148768.3, __Under Review__；
 
