@@ -46,9 +46,9 @@ Mieradilijiang has a broad research interest in language technology:
 * Machine Learning for NLP
 * NLP Applications
 
-
 News
 ------
+09/19/2024 [EMNLP2024](https://www.researchgate.net/publication/384156771_Visual_Pivoting_Unsupervised_Multimodal_Machine_Translation_in_Low-Resource_Distant_Language_Pairs) One paper has been accepted by EMNLP2024 findings. <br>
 07/28/2024 [PRCV2024](https://www.researchgate.net/publication/382625405_Low-resource_Machine_Translation_with_Different_Granularity_Image_Features) One paper has been accepted by PRCV2024. <br>
 06/25/2024  [Arxiv2024](https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_we-have-tried-to-construct-a-multilingual-activity-7211344229963325440-H1dO?utm_source=share&utm_medium=member_desktop) We have constructed a multi-lingual RE corpus for LLMs. <br>
 05/15/2024  [FM104.6](https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_thank-you-for-the-interview-opportunity-activity-7197222210950864899-4UWV?utm_source=share&utm_medium=member_desktop) I have received an invitation from the broadcasting and TV station of Urumqi. [Full Version](https://lcache.qtfm.cn/cache/20240515/1923/1923_20240515_170000_180000_24_0.aac), [WeChat QR Code](https://miradel51.github.io/files/20240515.qr_code.png), Videos ([Prevue](https://miradel51.github.io/20240515.prevue.mp4) & [Final](https://miradel51.github.io/20240515.post.mp4)) in Uyghur, and [Social Practice](https://miradel51.github.io/20240515.social_practice.mp4) & [Suggestions 4 college students](https://miradel51.github.io/20240515.suggestions_4_college_stu.mp4) (in Chinese). <br>
