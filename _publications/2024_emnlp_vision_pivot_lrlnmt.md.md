@@ -5,7 +5,7 @@ permalink: /publication/2024_emnlp_vision_pivot_lrlnmt
 excerpt: ''
 date: 2024-09-20
 author: Turghun Tayir, Lin Li*, Xiaohui Tao, <b>Mieradilijiang Maimaiti</b>, Ming Li, and Jianquan Liu
-conference: In International Conference on Empirical Methods in Natural Language Processing <b>(EMNLP, 2024)</b> (*=corresponding author) (Long paper, Findings) 
+conference: In International Conference on Empirical Methods in Natural Language Processing <b>(EMNLP, 2024)</b> (*=corresponding author) (Findings) 
 venue: ''
 paperurl: 'https://www.researchgate.net/publication/382625405_Low-Resource_Machine_Translation_with_Different_Granularity_Image_Features'
 citation: '<br>
