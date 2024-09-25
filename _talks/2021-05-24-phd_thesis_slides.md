@@ -10,4 +10,4 @@ location: "Beijing, China"
 
 <!-- This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown! -->
 
-\[[Slides](https://miradel51.github.io/files/phd_dissertation_v15.pdf)\] 
+\[[Slides](https://miradel51.github.io/files/phd_dissertation_v15.pdf)\] \[[Record](https://www.linkedin.com/feed/update/urn:li:activity:6803196850481463296/)\] \[[demo_video](https://miradel51.github.io/files/phd_dissertation_demo_smaller_version.mp4)\]
