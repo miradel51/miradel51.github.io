@@ -22,11 +22,11 @@ Education
 * B.S, [XJU](https://www.xju.edu.cn/), 09/2008-07/2012
   * Computer Science and Technology 
   * [School of Information Science and Engineering](http://it.xju.edu.cn/)
-  * [Xinjiang Multi-Lingual Information Technology Key Laboratory](http://202.201.242.181:8000/translator/index.html)
+  * [Xinjiang Multilingual Information Technology Key Laboratory](http://202.201.242.181:8000/translator/index.html)
 * M.S, [XJU](https://www.xju.edu.cn/), 09/2012-06/2015
   * Computer Software Engineering 
   * [School of Information Science and Engineering](http://it.xju.edu.cn/)
-  * [Xinjiang Multi-Lingual Information Technology Key Laboratory](http://202.201.242.181:8000/translator/index.html)
+  * [Xinjiang Multilingual Information Technology Key Laboratory](http://202.201.242.181:8000/translator/index.html)
 * Ph.D, [THU](https://www.tsinghua.edu.cn/en/), 09/2015-06/2021
   * Computer Science and Technology
   * [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/csen/)
@@ -42,7 +42,7 @@ Work Experience
 * NLP Senior Algorithm Engineer, [Language Technology Lab](https://damo.alibaba.com/labs/language-technology), [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/), 07/2021-03/2023
   * Base: Hangzhou, Zhejiang, China
   <!--- * Directors: Ji Zhang &rarr; Fei Huang &rarr;  Luo Si -->
-  * Project: Multi-lingual Processing for International E-commerce Platforms [DARAZ](https://www.daraz.pk/), [LAZADA](https://www.lazada.com/en/) and [AliExpress](https://www.aliexpress.com/)
+  * Project: Multilingual Processing for International E-commerce Platforms [DARAZ](https://www.daraz.pk/), [LAZADA](https://www.lazada.com/en/) and [AliExpress](https://www.aliexpress.com/)
   * Contribution: owner of the [DARAZ](https://www.daraz.pk/) algorithm, both the FAQ and the Agent Intent Classification models. I contributed to the multilingual intelligent customer service system for [AliExpress](https://www.aliexpress.com/). I also proposed an improved code-mixing strategy and achieved better results in some languages of [LAZADA](https://www.lazada.com/en/) with an average score of 4 points. I also presented some approaches for the pre-training part and achieved remarkably better results for the whole DARAZ system with 13 points (offline tests) and 9 points (online tests).
 
 * Research Intern, [Language Technology Lab](https://damo.alibaba.com/labs/language-technology), [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/), 07/2020-10/2020
@@ -53,7 +53,7 @@ Work Experience
   
 * CTO, Information Services Department, [Beijing Silk Road Heli Investment Management Group Co.,Ltd](https://www.helibazar.com/index.html), 07/2019-12/2019
   * Base: Beijing, China
-  * Project: Multi-Lingual E-commerce Platform
+  * Project: Multilingual E-commerce Platform
   * Contribution: I had instructed our team to develop a multilingual e-commerce platform with front-end and back-end written by us instead of using other frameworks. The system is very flexible and extensible and can be effortlessly converted into an online teaching system or an online training system.
 
 * Technical Advisor, MT Team, [NewTranx Technology](http://www.newtranx.com/), 12/2018-05/2019
