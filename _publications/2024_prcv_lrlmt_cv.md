@@ -27,7 +27,7 @@ In this paper, we exploit a pre-training language model and a UMMT model with di
 The experimental results on the CLP dataset Multi30k and the DLP dataset Multi30K-Zh-Uy show that the proposed approach has significantly improved over the state-of-the-art methods. 
 The code is available at https://github.com/Turghuns/UMMT-DGIF.
 
-\[[PDF](https://www.researchgate.net/publication/382625405_Low-Resource_Machine_Translation_with_Different_Granularity_Image_Features)\]\[[Code](https://github.com/Turghuns/UMMT-DGIF)\]
+\[[PDF](https://link.springer.com/chapter/10.1007/978-981-97-8620-6_18)\]\[[Code](https://github.com/Turghuns/UMMT-DGIF)\]
 
 
 
