@@ -48,6 +48,7 @@ Mieradilijiang has a broad research interest in language technology:
 
 News
 ------
+10/23/2024  [LLM+Tool Learning](https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_thank-you-for-having-me-the-primary-difference-activity-7254709222435704833-f1IW?utm_source=share&utm_medium=member_desktop) I was invited to give an academic talk at Xinjiang Changji University on Tool Learning for LLM. <br>
 09/19/2024 [EMNLP2024](https://www.researchgate.net/publication/384156771_Visual_Pivoting_Unsupervised_Multimodal_Machine_Translation_in_Low-Resource_Distant_Language_Pairs) One paper has been accepted by EMNLP2024 findings. <br>
 08/16/2024 [Youth Science Foundation](https://www.nsfc.gov.cn/english/site_1/index.html) The 'Youth Science Foundation' __project__ has been approved by NSFC. <br>
 07/28/2024 [PRCV2024](https://www.researchgate.net/publication/382625405_Low-resource_Machine_Translation_with_Different_Granularity_Image_Features) One paper has been accepted by PRCV2024. <br>
@@ -55,6 +56,7 @@ News
 05/15/2024  [FM104.6](https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_thank-you-for-the-interview-opportunity-activity-7197222210950864899-4UWV?utm_source=share&utm_medium=member_desktop) I have received an invitation from the broadcasting and TV station of Urumqi. [Full Version](https://lcache.qtfm.cn/cache/20240515/1923/1923_20240515_170000_180000_24_0.aac), [WeChat QR Code](https://miradel51.github.io/files/20240515.qr_code.png), Videos ([Prevue](https://miradel51.github.io/20240515.prevue.mp4) & [Final](https://miradel51.github.io/20240515.post.mp4)) in Uyghur, and [Social Practice](https://miradel51.github.io/20240515.social_practice.mp4) & [Suggestions 4 college students](https://miradel51.github.io/20240515.suggestions_4_college_stu.mp4) (in Chinese). <br>
 03/03/2024  [Arxiv2024](https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_we-have-attempted-to-incorporate-code-switching-activity-7171065732649218048-aHO1?utm_source=share&utm_medium=member_desktop) We have optimized cross-lingual PTM for SR. <br>
 02/16/2024  [Arxiv2024](https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_we-have-introduced-a-novel-but-straightforward-activity-7168825423408132096-X5gu?utm_source=share&utm_medium=member_desktop) We have introduced a new method for LLM-based MT. <br>
+11/22/2023  [LLM+MT](https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_thank-you-for-having-me-the-primary-difference-activity-7254709222435704833-f1IW?utm_source=share&utm_medium=member_desktop) I was invited to give an academic talk at Xinjiang Yili Normal University on LLM-based MT with LRLs. <br>
 11/05/2023  [RA Funding](https://english.cas.cn/) The 'Special Research Assistant Funding' __project__ has been approved by CAS.  <br> 
 08/15/2023  [TC Project](https://rst.xinjiang.gov.cn/) The 'Tianchi Talent' __project__ has been approved for funding by the Department of HRSS, Xinjiang.  <br>
 08/13/2022  [CIKM2022](https://dl.acm.org/doi/10.1145/3511808.3557122) One paper has been accepted by CIKM2022.  <br>
