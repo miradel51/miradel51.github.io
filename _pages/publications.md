@@ -33,4 +33,4 @@ Academic Service
 * Conference reviewer & PC member: ACL2016, ACL2023-2024, EACL2024, NAACL2019, NAACL2024, EMNLP2024, AAAI2018, COLING2018, COLING2025, ACM MM2024, IJCNN2022, NLP2024, PACLIC2021, NLPAI2022, MLIP2022-2023, DMS2023, IEEE CAI2024, Fuzzy2024
 * Technical Program Committee (TPC): AISS2023-2024, AICCC2023, CMCM2024, IEEE MLNLP2024
 * Sponsor Chair: CCMT2024
-* Journal reviewer: International Journal of Intelligent System (IJIS) 2021-2022, ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP) 2022
+* Journal reviewer: International Journal of Intelligent System (IJIS) 2021-2022, ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP) 2022, International Journal of Computer Science Review 2024
