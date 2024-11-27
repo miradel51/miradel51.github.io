@@ -133,7 +133,7 @@ Students
 * Co-advised
   * Dawulie Jinensibieke, Master, 08/2023-12/2023, University of Chinese Academy of Sciences, Beijing, China
   * Wentao Xiao, Master, 06/2023-06/2024, Xinjiang University, Urumqi, Xinjiang, China
-  * Yifei Li, Master, 08/2023-08/2024, Xinjiang Agricultural University, Urumqi, Xinjiang, China
+  <!-- * Yifei Li, Master, 08/2023-08/2024, Xinjiang Agricultural University, Urumqi, Xinjiang, China -->
 
 
 <!-- Academic Service
