@@ -25,6 +25,7 @@ Preprint
 ======
 * __Mieradilijiang Maimaiti__,Wentao Xiao, Xi Zhou, Yupeng Ma and Yating Yang, "The Method for Semantic Understanding based on Cross-Lingual Representation Learning", __Computer Patent for Invention__; China Patent Application No: **2024**10332204.9, __Under Review__；
 * __Mieradilijiang Maimaiti__,Xiaobo Wang and Dawulie Jinensibieke, "A Method for Relation Extraction Corpus Construction under Low-Resource Scenarios using Multi-lingual Machine Translation", __Computer Patent for Invention__; China Patent Application No: **2024**11148768.3, __Under Review__；
+* __Mieradilijiang Maimaiti__, Yifei Li, Yating Yang, Xi Zhou, "A Method for Machine Translation on Low-Resource Languages using Active Learning", __Computer Patent for Invention__; China Patent Application No: **2024**11782239.9, __Under Review__；
 
 Academic Service
 ======
