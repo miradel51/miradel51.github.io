@@ -3,17 +3,17 @@ title: "How to Understand: Three Types of Bilingual Information Processing?"
 collection: publications
 permalink: /publication/2018_iccssp_three_lan
 excerpt: ''
-date: 2018-11-29
+date: 2019-04-27
 author: <b>Mieradilijiang Maimaiti</b>, Shunpeng Zou*, Xiaoqun Wang, Xiaohui Zou
 conference: In International Conference on Cognitive Systems and Signal Processing <b>(ICCSSP, 2018)</b> (*=equal contribution) (Long oral paper)
 venue: ''
 paperurl: 'https://link.springer.com/chapter/10.1007%2F978-981-13-7986-4_1'
 citation: '<br>
-@inproceedings{Maimaiti2018HowTU,<br>
+@inproceedings{Maimaiti2019HowTU,<br>
   title={How to Understand: Three Types of Bilingual Information Processing?},<br>
   author={M. Maimaiti and Shunpeng Zou and Xiaoqun Wang and Xiaohui Zou},<br>
   booktitle={ICCSIP},<br>
-  year={2018},<br>
+  year={2019},<br>
 }'
 
 
