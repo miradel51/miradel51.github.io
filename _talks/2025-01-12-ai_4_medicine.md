@@ -1,5 +1,5 @@
 ---
-title: "Exploring the Necessity of Tool Learning in the Era of Large Models"
+title: "The Power of AI for General Applications in Medicine"
 collection: talks
 type: "Presentation"
 permalink: /talks/2025-01-12-ai_4_medicine
