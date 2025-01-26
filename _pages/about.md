@@ -48,6 +48,7 @@ Mieradilijiang has a broad research interest in language technology:
 
 News
 ------
+01/12/2025  [AI for Medicine](https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_i-was-invited-to-give-an-academic-presentation-activity-7289130863366152192-ifvd?utm_source=share&utm_medium=member_desktop) I was invited to give an academic presentation at the Kashgar Regional Medical Association’s Urology Conference. <br> 
 10/23/2024  [LLM+Tool Learning](https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_thank-you-for-having-me-the-primary-difference-activity-7254709222435704833-f1IW?utm_source=share&utm_medium=member_desktop) I was invited to give an academic talk at Xinjiang Changji University on Tool Learning for LLM. <br>
 09/19/2024 [EMNLP2024](https://www.researchgate.net/publication/384156771_Visual_Pivoting_Unsupervised_Multimodal_Machine_Translation_in_Low-Resource_Distant_Language_Pairs) One paper has been accepted by EMNLP2024 findings. <br>
 08/16/2024 [Youth Science Foundation](https://www.nsfc.gov.cn/english/site_1/index.html) The 'Youth Science Foundation' __project__ has been approved by NSFC. <br>
