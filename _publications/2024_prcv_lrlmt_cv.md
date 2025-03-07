@@ -5,7 +5,7 @@ permalink: /publication/2024_prcv_lrlmt_cv
 excerpt: ''
 date: 2024-07-28
 author: Turghun Tayir, Lin Li*, <b>Mieradilijiang Maimaiti</b>, and Yusnur Muhtar
-conference: In Chinese Conference on Pattern Recognition and Computer Vision <b>(PRCV, 2024)</b> (*=corresponding author) (Long paper) 
+conference: In Chinese Conference on Pattern Recognition and Computer Vision <b>(PRCV, 2024)</b> (*=corresponding author) (Long paper, poster)
 venue: ''
 paperurl: 'https://www.researchgate.net/publication/382625405_Low-Resource_Machine_Translation_with_Different_Granularity_Image_Features'
 citation: '<br>
