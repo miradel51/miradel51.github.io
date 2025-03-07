@@ -27,4 +27,4 @@ Finally, we introduce informative multi-granularity image features to facilitate
 Experimental results show that the proposed method significantly outperforms several baselines for UMMT on close language pairs (CLPs) and DLPs. 
 Our dataset Multi30k-Distant will be available online for free access.
 
-\[[PDF](https://www.researchgate.net/publication/384156771_Visual_Pivoting_Unsupervised_Multimodal_Machine_Translation_in_Low-Resource_Distant_Language_Pairs)\] \[[Code](https://github.com/WUT-IDEA/VP-UMMT)\] \[[Poster](https://miradel51.github.io/files/emnlp24_findings_poster.jpg)\] \[[Slides](https://miradel51.github.io/files/emnlp24_findings_slides.pdf)\] \[[Video](https://miradel51.github.io/files/emnlp24_findings_video_final.mp4)\] 
+\[[PDF](https://aclanthology.org/2024.findings-emnlp.320/)\] \[[Code](https://github.com/WUT-IDEA/VP-UMMT)\] \[[Poster](https://miradel51.github.io/files/emnlp24_findings_poster.jpg)\] \[[Slides](https://miradel51.github.io/files/emnlp24_findings_slides.pdf)\] \[[Video](https://miradel51.github.io/files/emnlp24_findings_video_final.mp4)\] 
