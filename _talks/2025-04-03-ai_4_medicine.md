@@ -3,7 +3,7 @@ title: "The Power of AI for General Applications in Medicine"
 collection: talks
 type: "Talk"
 permalink: /talks/2025-04-03-ai_4_medicine
-venue: "School of Engineering, westlake University"
+venue: "School of Engineering, Westlake University"
 date: 2025-04-03
 location: "Hangzhou, Zhejiang, China"
 ---
