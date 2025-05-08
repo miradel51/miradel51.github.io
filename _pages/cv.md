@@ -135,7 +135,7 @@ Students
   * Wentao Xiao, Master, 06/2023-06/2024, Xinjiang University, Urumqi, Xinjiang, China
   * Yifei Li, Master, 08/2023-08/2024, Xinjiang Agricultural University, Urumqi, Xinjiang, China
   * Shaokun Liu, Master,05/2025-06/2026, Xinjiang University, Urumqi, Xinjiang, China
-  * Sen Zhang, 05/2025-06/2026, Xinjiang University, Urumqi, Xinjiang, China
+  * Sen Zhang, Master, 05/2025-06/2026, Xinjiang University, Urumqi, Xinjiang, China
 
 
 <!-- Academic Service
