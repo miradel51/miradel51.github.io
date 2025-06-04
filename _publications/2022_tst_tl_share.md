@@ -1,11 +1,11 @@
 ---
 title: "Enriching the Transfer Learning with Pre-trained Lexicon Embedding for Low-Resource Neural Machine Translation"
 collection: publications
-permalink: /publication/2020_tst_tl_share
+permalink: /publication/2022_tst_tl_share
 excerpt: ''
-date: 2020-09-25
+date: 2022-02-25
 author: <b>Mieradilijiang Maimaiti</b>, Yang Liu*, Huanbo Luan, and Maosong Sun
-conference: In TSINGHUA SCIENCE AND TECHNOLOGY <b>(TST, 2020)</b> (*=corresponding author)
+conference: In TSINGHUA SCIENCE AND TECHNOLOGY <b>(TST, 2022)</b> (*=corresponding author)
 venue: ''
 paperurl: 'https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=5971803'
 citation: '<br>
@@ -13,7 +13,7 @@ citation: '<br>
   title={Enriching the Transfer Learning with Pre-Trained Lexicon Embedding for Low-Resource Neural Machine Translation},<br>
   author={M. Maimaiti and Y. Liu and Huanbo Luan and M. Sun},<br>
   journal={Tsinghua Science \& Technology (TST)},<br>
-  year={2020},<br>
+  year={2022},<br>
   volume={27},<br>
   issue={1},<br>
   pages={150 - 163},<br>
