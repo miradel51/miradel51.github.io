@@ -48,24 +48,25 @@ Mieradilijiang has a broad research interest in language technology:
 
 News
 ------
-04/03/2025  [AI for Medicine](https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_i-was-invited-to-give-an-academic-presentation-activity-7289130863366152192-ifvd?utm_source=share&utm_medium=member_desktop) I was invited to give an academic talk at Westlake University on the power of AI for Medicine.<br> 
+06/03/2025  [KBS2025](https://authors.elsevier.com/tracking/article/details.do?aid=113919&jid=KNOSYS&surname=Maimaiti) One paper has been accepted by Knowledge-Based Systems (KBS) 2025. <br>
+04/03/2025  [AI for Medicine](https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_i-was-invited-to-give-an-academic-presentation-activity-7289130863366152192-ifvd?utm_source=share&utm_medium=member_desktop) I was invited to give an academic talk at Westlake University on the power of AI for Medicine. <br> 
 10/23/2024  [LLM+Tool Learning](https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_thank-you-for-having-me-the-primary-difference-activity-7254709222435704833-f1IW?utm_source=share&utm_medium=member_desktop) I was invited to give an academic talk at Xinjiang Changji University on Tool Learning for LLM. <br>
-09/19/2024 [EMNLP2024](https://www.researchgate.net/publication/384156771_Visual_Pivoting_Unsupervised_Multimodal_Machine_Translation_in_Low-Resource_Distant_Language_Pairs) One paper has been accepted by EMNLP2024 findings. <br>
-08/16/2024 [Youth Science Foundation](https://www.nsfc.gov.cn/english/site_1/index.html) The 'Youth Science Foundation' __project__ has been approved by NSFC. <br>
-07/28/2024 [PRCV2024](https://www.researchgate.net/publication/382625405_Low-resource_Machine_Translation_with_Different_Granularity_Image_Features) One paper has been accepted by PRCV2024. <br>
+09/19/2024  [EMNLP2024](https://www.researchgate.net/publication/384156771_Visual_Pivoting_Unsupervised_Multimodal_Machine_Translation_in_Low-Resource_Distant_Language_Pairs) One paper has been accepted by EMNLP2024 findings. <br>
+08/16/2024  [Youth Science Foundation](https://www.nsfc.gov.cn/english/site_1/index.html) The 'Youth Science Foundation' __project__ has been approved by NSFC. <br>
+07/28/2024  [PRCV2024](https://www.researchgate.net/publication/382625405_Low-resource_Machine_Translation_with_Different_Granularity_Image_Features) One paper has been accepted by PRCV2024. <br>
 06/25/2024  [Arxiv2024](https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_we-have-tried-to-construct-a-multilingual-activity-7211344229963325440-H1dO?utm_source=share&utm_medium=member_desktop) We have constructed a multi-lingual RE corpus for LLMs. <br>
 05/15/2024  [FM104.6](https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_thank-you-for-the-interview-opportunity-activity-7197222210950864899-4UWV?utm_source=share&utm_medium=member_desktop) I have received an invitation from the broadcasting and TV station of Urumqi. [Full Version](https://lcache.qtfm.cn/cache/20240515/1923/1923_20240515_170000_180000_24_0.aac), [WeChat QR Code](https://miradel51.github.io/files/20240515.qr_code.png), Videos ([Prevue](https://miradel51.github.io/20240515.prevue.mp4) & [Final](https://miradel51.github.io/20240515.post.mp4)) in Uyghur, and [Social Practice](https://miradel51.github.io/20240515.social_practice.mp4) & [Suggestions 4 college students](https://miradel51.github.io/20240515.suggestions_4_college_stu.mp4) (in Chinese). <br>
 03/03/2024  [Arxiv2024](https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_we-have-attempted-to-incorporate-code-switching-activity-7171065732649218048-aHO1?utm_source=share&utm_medium=member_desktop) We have optimized cross-lingual PTM for SR. <br>
 02/16/2024  [Arxiv2024](https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_we-have-introduced-a-novel-but-straightforward-activity-7168825423408132096-X5gu?utm_source=share&utm_medium=member_desktop) We have introduced a new method for LLM-based MT. <br>
 11/22/2023  [LLM+MT](https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_thank-you-for-having-me-the-primary-difference-activity-7254709222435704833-f1IW?utm_source=share&utm_medium=member_desktop) I was invited to give an academic talk at Xinjiang Yili Normal University on LLM-based MT with LRLs. <br>
 11/05/2023  [RA Funding](https://english.cas.cn/) The 'Special Research Assistant Funding' __project__ has been approved by CAS.  <br> 
-08/15/2023  [TC Project](https://rst.xinjiang.gov.cn/) The 'Tianchi Talent' __project__ has been approved for funding by the Department of HRSS, Xinjiang.  <br>
+08/15/2023  [TC Project](https://rst.xinjiang.gov.cn/) The 'Tianchi Talent' __project__ has been approved for funding by the Department of HRSS, Xinjiang. <br>
 08/13/2022  [CIKM2022](https://dl.acm.org/doi/10.1145/3511808.3557122) One paper has been accepted by CIKM2022.  <br>
 06/10/2022  [Poster Presentation](https://miradel51.github.io/files/naacl22_video_small.mp4) We have uploaded our poster presentation for NAACL2022. <br>
-04/10/2022  [NAACL2022](https://openreview.net/forum?id=rnfgk3iZrbc&referrer=[Tasks](/tasks)) One paper has been accepted by NAACL2022.  <br>
+04/10/2022  [NAACL2022](https://openreview.net/forum?id=rnfgk3iZrbc&referrer=[Tasks](/tasks)) One paper has been accepted by NAACL2022. <br>
 11/08/2021  [Oral Presentation](https://miradel51.github.io/files/emnlp2021_me_video.mp4) We have uploaded our oral presentation for EMNLP2021. <br>
-08/26/2021  [EMNLP2021](https://www.linkedin.com/feed/update/urn:li:activity:6836672943502835712/) Our two research works have been accepted by EMNLP2021.  <br>
-05/24/2021  [Finally I also did it!](https://www.linkedin.com/feed/update/urn:li:activity:6803196850481463296/) I have also accomplished my Phd Defense!. <be>
+08/26/2021  [EMNLP2021](https://www.linkedin.com/feed/update/urn:li:activity:6836672943502835712/) Our two research works have been accepted by EMNLP2021. <br>
+05/24/2021  [Finally I also did it!](https://www.linkedin.com/feed/update/urn:li:activity:6803196850481463296/) I have also accomplished my Phd Defense!. <br>
 
 
 
