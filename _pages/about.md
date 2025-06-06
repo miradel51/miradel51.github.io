@@ -48,7 +48,7 @@ Mieradilijiang has a broad research interest in language technology:
 
 News
 ------
-06/03/2025  [KBS2025](https://authors.elsevier.com/tracking/article/details.do?aid=113919&jid=KNOSYS&surname=Maimaiti) One paper has been accepted by Knowledge-Based Systems (KBS) 2025. <br>
+06/03/2025  [KBS2025](https://authors.elsevier.com/tracking/article/details.do?aid=113919&jid=KNOSYS&surname=Maimaiti) One paper has been accepted by KBS2025. <br>
 04/03/2025  [AI for Medicine](https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_i-was-invited-to-give-an-academic-presentation-activity-7289130863366152192-ifvd?utm_source=share&utm_medium=member_desktop) I was invited to give an academic talk at Westlake University on the power of AI for Medicine. <br> 
 10/23/2024  [LLM+Tool Learning](https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_thank-you-for-having-me-the-primary-difference-activity-7254709222435704833-f1IW?utm_source=share&utm_medium=member_desktop) I was invited to give an academic talk at Xinjiang Changji University on Tool Learning for LLM. <br>
 09/19/2024  [EMNLP2024](https://www.researchgate.net/publication/384156771_Visual_Pivoting_Unsupervised_Multimodal_Machine_Translation_in_Low-Resource_Distant_Language_Pairs) One paper has been accepted by EMNLP2024 findings. <br>
