@@ -14,7 +14,7 @@ redirect_from:
 <!-- * English [PDF]()-->
 * English [PDF](https://miradel51.github.io/files/my_cv_en.pdf)
 
-Education
+🏫 Education
 ======
 * Preparatory, [XJU](https://www.xju.edu.cn/), 09/2007-07/2008
   *  Chinese Learning (Intensive Program)
@@ -33,7 +33,7 @@ Education
   * [THUNLP National Key Laboratory](https://nlp.csai.tsinghua.edu.cn/)
 
 
-Work Experience
+💼 Work Experience
 ======
 * Assistant Professor (Tenure-Track), [School of Computer Science](http://it.xju.edu.cn/), [Xinjiang University (XJU)](https://english.xju.edu.cn/), 04/2025-Present
   * Base: Urumqi, Xinjiang, China
@@ -111,7 +111,7 @@ Work Experience
 
   
 
-Honors
+🏅Honors
 ======
 * Outstanding student cadre of XJU, 2007-2008
 * National Encouragement Scholarship, 2008-2009
@@ -127,7 +127,7 @@ Honors
 * Third-class Social Practice Scholarship for Postgraduates of THU, 12/2016
 * Second Prize of Science and Technology of Chinese Institute of Electronics, 01/2022
 
-Students
+🎓Students
 =======
 * Research Intern
   * Hongbin Na, Master, 06/2023-08/2023, The University of New South Wales (UNSW), Sydney, Australia
