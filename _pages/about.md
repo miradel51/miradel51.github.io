@@ -75,8 +75,8 @@ News
 <script type='text/javascript' id='clustrmaps' src='https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=Y1UFl2nSBtyprQg6cZvmxQXBD9KWFC8yva_6uF5dm34&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
 -->
 
-## News
 
+## 🗞️ Latest News
 <!-- 最近5条 -->
 <ul>
   <li>06/03/2025  <a href="https://authors.elsevier.com/tracking/article/details.do?aid=113919&jid=KNOSYS&surname=Maimaiti">KBS2025</a> One paper has been accepted by KBS2025.</li>
@@ -86,7 +86,10 @@ News
   <li>08/16/2024  <a href="https://www.nsfc.gov.cn/english/site_1/index.html">Youth Science Foundation</a> The 'Youth Science Foundation' <strong>project</strong> has been approved by NSFC.</li>
 </ul>
 
+<!-- 其余历史消息折叠 -->
 <!-- 折叠区（点击展开） -->
+## 📰 Previous News
+
 <details>
 <summary style="cursor: pointer; color: #2d78ad;">More</summary>
 
