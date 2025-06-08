@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Biography
+🧑‍🎓 Biography
 ---------
 
 Dr. Mieradilijiang Maimaiti is currently an Assistant Professor (Tenure-Track) at the [School of Computer Science](http://it.xju.edu.cn/), [Xinjiang University (XJU)](https://english.xju.edu.cn/). <!-- Research Assistant of the [Laboratory of Multilingual Information Technology](http://www.xjipc.cas.cn/XJMITL/) in [Xinjiang Technical Institute of Physics and Chemistry, Chinese Academy of Sciences](http://english.xjipc.cas.cn/). -->
@@ -27,7 +27,7 @@ Furthermore, he possesses a keen interest in leveraging ML to address various NL
 
 <strong>Nothing is impossible!</strong>
 
-Research Interests
+🔎 Research Interests
 ------------------
 Mieradilijiang has a broad research interest in language technology:
 * __Natural Language Processing__
@@ -113,5 +113,6 @@ News
 </details>
 
 <!-- 访客地图 JS 插件 -->
+<h3 style="color: #2d78ad; font-weight: normal;">🌍 Visitor Distribution</h3>
 <script type='text/javascript' id='clustrmaps' src='https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=Y1UFl2nSBtyprQg6cZvmxQXBD9KWFC8yva_6uF5dm34&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
 
