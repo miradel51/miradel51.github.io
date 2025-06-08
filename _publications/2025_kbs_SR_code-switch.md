@@ -1,19 +1,19 @@
 ---
 title: "Improving Cross-lingual Representation for Semantic Retrieval with Code-switching"
 collection: 
-permalink: /publication/2024_arxiv_SR_code-switch
+permalink: /publication/2025_kbs_SR_code-switch
 excerpt: ''
-date: 2024-03-03
-author: <b>Mieradilijiang Maimaiti</b>*, Yuanhang Zheng*, Ji Zhang†, Fei Huang, Yue Zhang, Wenpei Luo, and Kaiyu Huang
-conference: In Arxiv <b>(2024)</b> (*=equal contribution, †=corresponding author)
+date: 2025-06-03
+author: <b>Mieradilijiang Maimaiti</b>*†, Yuanhang Zheng*, Ji Zhang, Yue Zhang, Wenpei Luo and Kaiyu Huang
+conference: In Knowledge-Based Systems <b>(KBS, 2025)</b>  (*=equal contribution, †=corresponding author)
 venue: ''
 paperurl: 'https://arxiv.org/pdf/2403.01364.pdf'
 citation: '<br>
 @inproceedings{maimaiti2024_SR_codeswitch,<br>
   title={Improving Cross-lingual Representation for Semantic Retrieval with Code-switching},<br>
-  author={Mieradilijiang Maimaiti, Yuanhang Zheng, Ji Zhang, Fei Huang, Yue Zhang, Wenpei Luo, Kaiyu Huang},<br>
-  booktitle={Arxiv},<br>
-  year={2024},<br>
+  author={Mieradilijiang Maimaiti, Yuanhang Zheng, Ji Zhang, Yue Zhang, Wenpei Luo and Kaiyu Huang},<br>
+  journal={Knowledge-Based Systems (KBS)},<br>
+  year={2025},<br>
 }'
 
 
