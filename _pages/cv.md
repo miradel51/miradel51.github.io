@@ -35,10 +35,12 @@ Education
 
 Work Experience
 ======
-* Research Assistant, [Laboratory of Multilingual Information Technology](http://www.xjipc.cas.cn/XJMITL/), [Xinjiang Technical Institute of Physics and Chemistry, Chinese Academy of Sciences](http://english.xjipc.cas.cn/), 04/2023-Present
+* Assistant Professor (Tenure-Track), [School of Computer Science](http://it.xju.edu.cn/), [Xinjiang University (XJU)](https://english.xju.edu.cn/), 04/2025-Present
   * Base: Urumqi, Xinjiang, China
-  <!--- * Directors: Ji Zhang &rarr; Fei Huang &rarr;  Luo Si -->
-  * Project: New Frontiers of Natural Language Generation in Low-Resource Scenario
+  * Project: Towards Multimodal Large Language Model Translation for Low-Resource Languages along the Belt and Road Initiative
+* Research Assistant, [Xinjiang Technical Institute of Physics and Chemistry, Chinese Academy of Sciences](http://english.xjipc.cas.cn/), 04/2023-04/2025
+  * Base: Urumqi, Xinjiang, China
+  * Project: Exploring Machine Translation Technologies Using Large Language Models for Low-Resource Cross-Lingual Applications。
 * NLP Senior Algorithm Engineer, [Language Technology Lab](https://damo.alibaba.com/labs/language-technology), [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/), 07/2021-03/2023
   * Base: Hangzhou, Zhejiang, China
   <!--- * Directors: Ji Zhang &rarr; Fei Huang &rarr;  Luo Si -->
@@ -89,7 +91,7 @@ Work Experience
   * Project: Uyghur Search Engine
   * Contribution: I had participated in the backend development of the Uyghur Information Retrieval System and gained some experience about the IR system.
 
-* NLP Researcher (Apprenticeship), [Xinjiang Multi-Lingual Information Technology Key Laboratory](http://202.201.242.181:8000/translator/index.html), 09/2012-06/2015
+* NLP Senior Engineer (Apprenticeship), [Xinjiang Multi-Lingual Information Technology Key Laboratory](https://it.xju.edu.cn/xygk/jgsz/zdsys/dyzxxjszdsys/sysjj.htm), 09/2012-06/2015
   * Base: Urumqi, Xinjiang, China
   * Mentor: [Prof. Wushouer Silamu](https://ysg.ckcest.cn/html/details/3943/index.html)
   * Project: Uyghur ASR, TTS, Spoken Translation systems
@@ -101,7 +103,7 @@ Work Experience
   * Project: XJU College Summer Social Practice Activities
   * Contribution: In this project, we taught local farmers commonly used techniques and current preferential policies for farmers.
 
-* Software Engineer (Apprenticeship), [Xinjiang Multi-Lingual Information Technology Key Laboratory](http://202.201.242.181:8000/translator/index.html), 11/2009-06/2012
+* Software Engineer (Apprenticeship), [Xinjiang Multi-Lingual Information Technology Key Laboratory](https://it.xju.edu.cn/xygk/jgsz/zdsys/dyzxxjszdsys/sysjj.htm), 11/2009-06/2012
   * Base: Urumqi, Xinjiang, China
   * Mentor: [Prof. Wushouer Silamu](https://ysg.ckcest.cn/html/details/3943/index.html)
   * Project: Operation System (Localization), Software Development
