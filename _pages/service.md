@@ -1,5 +1,5 @@
 ---
-title: "Academic Service"
+title: "🧑‍⚖️ Academic Service"
 permalink: /service/
 layout: single
 author_profile: true
