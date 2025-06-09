@@ -32,7 +32,7 @@ redirect_from:
   * [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/csen/)
   * [THUNLP National Key Laboratory](https://nlp.csai.tsinghua.edu.cn/)
 
-
+<!--
 💼 Work Experience
 ======
 * Assistant Professor (Tenure-Track), [School of Computer Science](http://it.xju.edu.cn/), [Xinjiang University (XJU)](https://english.xju.edu.cn/), 04/2025-Present
@@ -43,13 +43,11 @@ redirect_from:
   * Project: Exploring Machine Translation Technologies Using Large Language Models for Low-Resource Cross-Lingual Applications。
 * NLP Senior Algorithm Engineer, [Language Technology Lab](https://damo.alibaba.com/labs/language-technology), [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/), 07/2021-03/2023
   * Base: Hangzhou, Zhejiang, China
-  <!--- * Directors: Ji Zhang &rarr; Fei Huang &rarr;  Luo Si -->
   * Project: Multilingual Processing for International E-commerce Platforms [DARAZ](https://www.daraz.pk/), [LAZADA](https://www.lazada.com/en/) and [AliExpress](https://www.aliexpress.com/)
   * Contribution: owner of the [DARAZ](https://www.daraz.pk/) algorithm, both the FAQ and the Agent Intent Classification models. I contributed to the multilingual intelligent customer service system for [AliExpress](https://www.aliexpress.com/). I also proposed an improved code-mixing strategy and achieved better results in some languages of [LAZADA](https://www.lazada.com/en/) with an average score of 4 points. I also presented some approaches for the pre-training part and achieved remarkably better results for the whole DARAZ system with 13 points (offline tests) and 9 points (online tests).
 
 * Research Intern, [Language Technology Lab](https://damo.alibaba.com/labs/language-technology), [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/), 07/2020-10/2020
   * Base: Hangzhou, Zhejiang, China
-  <!--- * Directors: Ji Zhang &rarr; Haiqing Chen -->
   * Project: Urdu-Roman Transliteration for Smart Customer Service System of International E-commerce Platform
   * Contribution: Contribution: I presented a hybrid model that can solve the main challenges (many-to-one mapping and inconsistent mapping) in this task. Moreover, the proposed approach is embedded in the dialog system of the international e-commerce platform [DARAZ](https://www.daraz.pk/).
   
@@ -70,7 +68,6 @@ redirect_from:
 
 * Social Practice Intern, Information Team, [Xinjiang Tourism Investment Management Co. Ltd](http://www.xinhuanet.com/travel/2019-09/06/c_1124969030.htm), 06/2016-08/2016
   * Base: Urumqi, Xinjiang, China
-  <!--- * Director: Nan Zhu -->
   * Project: THU College Summer Social Practice Activities
   * Contribution: In this project, I had submitted a technical report for the provision of the multilingual service. I also designed the main architectures for spoken translation by combining ASR, TTS and NMT for the Smart Tourism project.
 
@@ -99,7 +96,6 @@ redirect_from:
 
 * Social Practice Intern, Information Team, Government office, 07/2010-08/2010
   * Base: Kashgar, Xinjiang, China
-  <!--- * Mentor: Hayrulla -->
   * Project: XJU College Summer Social Practice Activities
   * Contribution: In this project, we taught local farmers commonly used techniques and current preferential policies for farmers.
 
@@ -108,7 +104,7 @@ redirect_from:
   * Mentor: [Prof. Wushouer Silamu](https://ysg.ckcest.cn/html/details/3943/index.html)
   * Project: Operation System (Localization), Software Development
   * Contribution: I had taken part in the Win7 Operation System localization task. Besides, I had developed desktop applications (Education Systems) and Network applications (Government and Company multilingual Websites). Meanwhile, in the last year of my undergraduate, I designed Android APPs for learning Chinese.
-
+-->
   
 
 🏅Honors
