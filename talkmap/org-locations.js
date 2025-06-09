@@ -1,4 +1,4 @@
-/*
+
 var addressPoints = [
   [
     "Berkeley CA, USA",
@@ -21,8 +21,9 @@ var addressPoints = [
     -118.2439408
   ]
 ];
-*/
 
+
+/*
 var addressPoints = [
   // 杭州，浙江，中国
   [
@@ -101,3 +102,4 @@ var addressPoints = [
     87.60387
   ] 
 ];
+*/
