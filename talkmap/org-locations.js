@@ -1,4 +1,4 @@
-
+/*
 var addressPoints = [
   [
     "Los Angeles, CA",
@@ -11,15 +11,16 @@ var addressPoints = [
     120.0933259
   ]
 ];
+*/
 
 
-/*
+
 var addressPoints = [
   // 杭州，浙江，中国
   [
     "Westlake University, Hangzhou (AI for Medicine)",
-    30.17727,
-    120.09332
+    30.1772714,
+    120.0933259
   ],
 
   // 昌吉，新疆，中国
@@ -92,4 +93,3 @@ var addressPoints = [
     87.60387
   ] 
 ];
-*/
