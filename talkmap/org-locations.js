@@ -1,16 +1,6 @@
 
 var addressPoints = [
   [
-    "Changji University, Changji",
-    44.018556,
-    87.254485‌‌
-  ],
-  [
-    "Westlake University, Hangzhou",
-    30.17727,
-    120.09332
-  ],
-  [
     "Los Angeles, CA",
     34.0543942,
     -118.2439408
