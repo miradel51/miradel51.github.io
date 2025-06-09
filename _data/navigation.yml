@@ -5,16 +5,7 @@ main:
     
   - title: "Talks & Presentation"
     url: /talks/
-    
-  - title: "Academic Service"
-    url: /service/
-
-  - title: "Projects"
-    url: /projects/
-
-  - title: "Work Experience"
-    url: /experience/
-
+   
   - title: "CV & Others"
     url: /cv/
     
