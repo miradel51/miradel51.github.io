@@ -1,17 +1,12 @@
 
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
-  ],
-  [
-    "Changji University, Changji (LLM+Tool Learning)",
+    "Changji University, Changji",
     44.018556,
     87.254485‌‌
   ],
   [
-    "Westlake University, Hangzhou (AI for Medicine)",
+    "Westlake University, Hangzhou",
     30.17727,
     120.09332
   ],
