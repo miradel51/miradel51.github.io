@@ -6,14 +6,14 @@ var addressPoints = [
     -122.2728638
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "Changji University, Changji (LLM+Tool Learning)",
+    44.018556,
+    87.254485‌‌
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
+    "Westlake University, Hangzhou (AI for Medicine)",
+    30.17727,
+    120.09332
   ],
   [
     "Los Angeles, CA",
