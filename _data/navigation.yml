@@ -1,12 +1,21 @@
 # main links links
 main:
-  - title: "Publications"
+   - title: "Publications"
     url: /publications/
     
   - title: "Talks & Presentation"
     url: /talks/
+    
+  - title: "Academic Service"
+    url: /service/
 
-  - title: "Others"
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Work Experience"
+    url: /experience/
+
+  - title: "CV & Others"
     url: /cv/
     
 #  - title: "Honors"
