@@ -3,6 +3,16 @@ var addressPoints = [
     "Westlake University, Hangzhou (AI for Medicine)",
     30.1772714,
     120.0933259
+  ],
+  [
+    "Changji University, Changji (LLM+Tool Learning)",
+    44.018556,
+    120.0933259
+  ],
+  [
+    "Yili Normal University, Yili (LLM+MT)",
+    43.937285,
+    81.305231
   ]
 ];
 
