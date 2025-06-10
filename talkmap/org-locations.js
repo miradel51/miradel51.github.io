@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Westlake University, Hangzhou",
+    "Westlake University, Hangzhou (AI for Medicine)",
     30.1772714,
     120.0933259
   ]
