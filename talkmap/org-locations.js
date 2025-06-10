@@ -13,6 +13,46 @@ var addressPoints = [
     "Yili Normal University, Yili (LLM+MT)",
     43.937285,
     81.305231
+  ],
+  [
+    "CAS (Xinjiang Branch), Urumqi (CCL2023 Feelings)",
+    43.84039,
+    87.57307
+  ],
+  [
+    "Seattle, WA, USA (NAACL2022)",
+    47.60621,
+    -122.33207
+  ],
+  [
+    "Damo Academy, Alibaba Group,Hangzhou (EMNLP2021 Feelings)",
+    30.29400,
+    120.01530
+  ],
+  [
+    "Punta Cana, Dominican Republic (EMNLP2021 Oral)",
+    18.58182,
+    -68.40431
+  ],
+  [
+    "Tsinghua University, Beijing (Ph.D. Forum)",
+    40.00229,
+    116.32099
+  ],
+  [
+    "Minzu University of China, Beijing (LRLs+NMT)",
+    39.91667,
+    116.38333
+  ],
+  [
+    "Peking University, Beijing (ICIS2018)",
+    39.91667,
+    116.38333
+  ],
+  [
+    "Xinjiang University, Urumqi (Domain Adaptation)",
+    43.79840,
+    87.60387
   ]
 ];
 
