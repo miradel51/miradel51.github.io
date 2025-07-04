@@ -31,4 +31,4 @@ author_profile: true
     AISS2023-2024, AICCC2023, CMCM2024, IEEE MLNLP2024
 
 - International Journals（Reviewer）: 
-  - International Journal of Intelligent Systems (IJIS) 2021-2022, ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP) 2022-2023, International Journal of Computer Science Review (JCSR) 2024
+  - International Journal of Intelligent Systems (IJIS) 2021-2022, ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP) 2022-2023,2025, International Journal of Computer Science Review (JCSR) 2024
