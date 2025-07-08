@@ -28,4 +28,4 @@ Besides, we introduce the novel code-switched continual pre-training instead of 
 The experimental results show that our proposed approach consistently outperforms the previous SOTA methods on SR and semantic textual similarity (STS) tasks 
 with three business corpora and four open datasets in 20+ languages.
 
-\[[PDF](https://arxiv.org/pdf/2403.01364.pdf)\]\[[Code](https://github.com/miradel51/codemix_ptm)\]
+\[[PDF](https://www.sciencedirect.com/science/article/pii/S0950705125009645?dgcid=author)\]\[[Code](https://github.com/miradel51/codemix_ptm)\]
