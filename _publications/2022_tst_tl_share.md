@@ -25,4 +25,4 @@ Most state-of-the-art (SOTA) neural machine translation (NMT) systems today achi
 In this work, we aim to address this issue by proposing the mixed transfer learning (MTL) method for LRLs via shared vocabulary between parent and child languages without leveraging back translation or manually injecting noises. First, we trained the HRLs as the parent model with its vocabularies. Then, we combined the parent and child language pairs using the oversampling method to trained the mixed model initialized by the previous parent model. Finally, we fine-tuned the morphologically rich child model using a mixed model. Besides, we explored some exciting discoveries on the original TL approach. Experimental results showed that our model consistently outperforms four SOTA methods on two MRLs - Azerbaijani (Az) and Uzbek (Uz). Meanwhile, our approach is practical and significantly better, achieving improvements of up to 4.94 and 4.84 BLEU points for the  two 
 child languages Az - Ch and Uz - Ch, respectively.
 
-\[[PDF](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=5971803)\]  
+\[[PDF](https://ieeexplore.ieee.org/document/9515788)\]  
