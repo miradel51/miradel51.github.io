@@ -60,8 +60,9 @@ redirect_from:
   * Yifei Li, Master, 08/2023-08/2024, Xinjiang Agricultural University (co-advised with Assoc. Prof. Xi Chen)
   * Wentao Xiao, Master, 06/2023-06/2024, Xinjiang University (co-advised with Prof. Hao Huang)
   * Dawulie Jinensibieke, Master, 08/2023-12/2023, University of Chinese Academy of Sciences (co-advised with Assoc. Prof. Xiaobo Wang)
-<!--
-### Supervised Students
+
+
+<!-- ### Supervised Students
 #### 🎓 Doctoral Students
 - [Name] (2023-present, co-advised with Prof. X)  
 - [Name] (2021-2025)  
@@ -83,7 +84,5 @@ redirect_from:
 #### 🏻 Industry  
 - [Name] → Senior Engineer @Huawei  
 #### 🎒 Further Studies  
-- [Name] → Postdoc @ETH Zurich 
--->
+- [Name] → Postdoc @ETH Zurich -->
 
-  
