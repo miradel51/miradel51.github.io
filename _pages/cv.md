@@ -130,17 +130,16 @@ redirect_from:
 #### 🎓 Doctoral Students
 - [Name] (2023-present, co-advised with Prof. X)  
 - [Name] (2021-2025)  
-
 #### 🎓 Master's Students 
 - [Name] (2022-2024)  
-- [Name] (2023-present)  -->
-<!--
+- [Name] (2023-present) 
 * 🏛️ Visiting Scholars
 * 🔬 Visiting Scholars
 * 📚 Visiting Scholars
 * 👨‍🏫 Visiting Scholars
 * 👋 Visiting Scholars
-* 🌍 International Visitors-->
+* 🌍 International Visitors 
+-->
 * 👩‍💻 Research Interns
   * Hongbin Na, Master, 06/2023-08/2023, The University of New South Wales (UNSW), Sydney, Australia
   <!-- * Bifei Hao, Master, 06/2023-Present, Northwestern University, Evanston, United States -->
@@ -155,33 +154,13 @@ redirect_from:
 <!--
 * 🌟 Alumni
   * Shaokun Liu, Master,05/2025-06/2026, Xinjiang University, Urumqi, Xinjiang, China (co-advised with Prof. Wushouer Silamu)
-  * Sen Zhang, Master, 05/2025-06/2026, Xinjiang University, Urumqi, Xinjiang, China (co-advised with Prof. Wushouer Silamu)-->
-<!--  
+  * Sen Zhang, Master, 05/2025-06/2026, Xinjiang University, Urumqi, Xinjiang, China (co-advised with Prof. Wushouer Silamu)
 ### 🌍 Alumni Trajectories  
 #### 🏛️ Academia  
 - [Name] → Assoc. Prof. @Stanford  
 #### 🏻 Industry  
 - [Name] → Senior Engineer @Huawei  
 #### 🎒 Further Studies  
-- [Name] → Postdoc @ETH Zurich  -->
+- [Name] → Postdoc @ETH Zurich -->
 
-<!-- Academic Service
-======
-* Conference reviewer & Technical Program Committee (TPC): ACL2016, ACL2023, AAAI2018, COLING2018, NAACL2019, PACLIC2021, IJCNN2022, NLPAI2022, ADMIT2022-2023, AMLIT2023, ACDP2023, IEEE CEC2023, CVIPPR2023, AIMLR2023, CSSE2023, AISS2023，AACIP2023, MLAMDA2023
-* Journal reviewer: International Journal of Intelligent System (IJIS) 2021-2022, ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP) 2022 -->
-
-<!-- Selected Talks
-======
-* [Domain Adaptation for Machine Translation](https://miradel51.github.io/files/report_da4mt_xju_v1.0.pdf), XJU, Urumqi, Xinjiang, China, 10/26/2017
-* [Discussion on Bilingual Cognition in International Exchange Activities](https://miradel51.github.io/files/icis2018_v1.0.pdf), ICIS2018, Beijing, China, 11/01/2018
-* [Ph.D. Forum in Department of Computer Science at THU](https://miradel51.github.io/files/PhD_Forum_2019.03.16.pdf), Tsinghua University, Beijing, China, 03/16/2019
-* [Low-Resource Neural Machine Translation](https://miradel51.github.io/files/minda_report_20191112.pdf), Minzu University of China, Beijing, China, 11/12/2019
-* [Ph.D. Experience Sharing Report](https://miradel51.github.io/files/phd_experience_sharing.pdf), Tsinghua University, Beijing, China, 06/08/2021
-* [EMNLP2021 Paper Sharing Report](https://miradel51.github.io/files/emnlp2021_damo3.pdf), Alibaba Damo Academy, Hangzhou, Zhejiang, China, 11/18/2021 -->
-
-<!-- Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
   
