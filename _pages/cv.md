@@ -132,8 +132,10 @@ redirect_from:
   * Dawulie Jinensibieke, Master, 08/2023-12/2023, University of Chinese Academy of Sciences, Beijing, China
   * Wentao Xiao, Master, 06/2023-06/2024, Xinjiang University, Urumqi, Xinjiang, China
   * Yifei Li, Master, 08/2023-08/2024, Xinjiang Agricultural University, Urumqi, Xinjiang, China
-  * Shaokun Liu, Master,05/2025-06/2026, Xinjiang University, Urumqi, Xinjiang, China
-  * Sen Zhang, Master, 05/2025-06/2026, Xinjiang University, Urumqi, Xinjiang, China
+  * Shaokun Liu, Master,05/2025-present, Xinjiang University, Urumqi, Xinjiang, China
+  * Sen Zhang, Master, 05/2025-present, Xinjiang University, Urumqi, Xinjiang, China
+  * Shibo Zhang, Master, 07/2025-present, Xinjiang University, Urumqi, Xinjiang, China
+  * Dezhi Wang, Master, 07/2025-present, Xinjiang University, Urumqi, Xinjiang, China
 
 
 <!-- Academic Service
