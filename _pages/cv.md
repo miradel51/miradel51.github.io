@@ -125,6 +125,17 @@ redirect_from:
 
 🎓Students
 =======
+* 👩‍💻 Research Interns
+  * Hongbin Na, Master, 06/2023-08/2023, The University of New South Wales (UNSW), Sydney, Australia
+  <!-- * Bifei Hao, Master, 06/2023-Present, Northwestern University, Evanston, United States -->
+* 🤝 Co-advised Students
+  * Shibo Zhang, Master, 07/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
+  * Dezhi Wang, Master, 07/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
+  * Shaokun Liu, Master,05/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
+  * Sen Zhang, Master, 05/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
+  * Yifei Li, Master, 08/2023-08/2024, Xinjiang Agricultural University (co-advised with Assoc. Prof. Xi Chen)
+  * Wentao Xiao, Master, 06/2023-06/2024, Xinjiang University (co-advised with Prof. Hao Huang)
+  * Dawulie Jinensibieke, Master, 08/2023-12/2023, University of Chinese Academy of Sciences (co-advised with Assoc. Prof. Xiaobo Wang)
 <!--
 ### Supervised Students
 #### 🎓 Doctoral Students
@@ -139,19 +150,6 @@ redirect_from:
 * 👨‍🏫 Visiting Scholars
 * 👋 Visiting Scholars
 * 🌍 International Visitors 
--->
-* 👩‍💻 Research Interns
-  * Hongbin Na, Master, 06/2023-08/2023, The University of New South Wales (UNSW), Sydney, Australia
-  <!-- * Bifei Hao, Master, 06/2023-Present, Northwestern University, Evanston, United States -->
-* 🤝 Co-advised Students
-  * Shibo Zhang, Master, 07/2025-present, Xinjiang University, Urumqi, Xinjiang, China (co-advised with Prof. Wushouer Silamu)
-  * Dezhi Wang, Master, 07/2025-present, Xinjiang University, Urumqi, Xinjiang, China (co-advised with Prof. Wushouer Silamu)
-  * Shaokun Liu, Master,05/2025-present, Xinjiang University, Urumqi, Xinjiang, China (co-advised with Prof. Wushouer Silamu)
-  * Sen Zhang, Master, 05/2025-present, Xinjiang University, Urumqi, Xinjiang, China (co-advised with Prof. Wushouer Silamu)
-  * Yifei Li, Master, 08/2023-08/2024, Xinjiang Agricultural University, Urumqi, Xinjiang, China (co-advised with Assoc. Prof. Xi Chen)
-  * Wentao Xiao, Master, 06/2023-06/2024, Xinjiang University, Urumqi, Xinjiang, China (co-advised with Prof. Hao Huang)
-  * Dawulie Jinensibieke, Master, 08/2023-12/2023, University of Chinese Academy of Sciences, Beijing, China (co-advised with Assoc. Prof. Xiaobo Wang)
-<!--
 * 🌟 Alumni
   * Shaokun Liu, Master,05/2025-06/2026, Xinjiang University, Urumqi, Xinjiang, China (co-advised with Prof. Wushouer Silamu)
   * Sen Zhang, Master, 05/2025-06/2026, Xinjiang University, Urumqi, Xinjiang, China (co-advised with Prof. Wushouer Silamu)
