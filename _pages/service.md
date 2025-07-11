@@ -11,7 +11,7 @@ author_profile: true
   - Professional Member of the **C**hinese **I**nformation **P**rocessing **S**ociety (CIPS) of China;
   - Executive Committee Member of the **Multilingual Intelligent Information Processing Specialized Committee** of the CAAI;
   - Executive Committee Member of the **NLP Specialized Committee** of the CCF;
-  - Member of the **<span style="color:red">Youth</span> <span style="color:red">Working</span> <span style="color:red">Committee</span>** of the CIPS;
+  - Member of the **Youth Working Committee** of the CIPS;
   - **Standing Committee** Member and **Executive** Committee Member of the **Ethnic Language and Script Information Specialized Committee** of the CIPS;
   - Member of the **Machine Translation Specialized Committee** of the CIPS;
   - Member of the **NLG and Intelligent Writing Specialized Committee** of the CIPS;
@@ -20,7 +20,7 @@ author_profile: true
   - Conference
     - **Sponsorship Chair** of CCMT 2024 by the Chinese Information Processing Society of China;
     - **Track Co-Chair** of the Low-Resource Languages Information Processing Forum at CCMT 2025
-  - National Research Projects
+  - **National Research Projects**
     - Remote Reviewer for the National Natural Science Foundation of China (NSFC)
 
 - International Conferences:
