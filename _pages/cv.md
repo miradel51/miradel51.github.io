@@ -133,18 +133,14 @@ redirect_from:
 
 #### 🎓 Master's Students 
 - [Name] (2022-2024)  
-- [Name] (2023-present)  
-
--->
+- [Name] (2023-present)  -->
 <!--
 * 🏛️ Visiting Scholars
 * 🔬 Visiting Scholars
 * 📚 Visiting Scholars
 * 👨‍🏫 Visiting Scholars
 * 👋 Visiting Scholars
-* 🌍 International Visitors
-
--->
+* 🌍 International Visitors-->
 * 👩‍💻 Research Interns
   * Hongbin Na, Master, 06/2023-08/2023, The University of New South Wales (UNSW), Sydney, Australia
   <!-- * Bifei Hao, Master, 06/2023-Present, Northwestern University, Evanston, United States -->
@@ -159,19 +155,15 @@ redirect_from:
 <!--
 * 🌟 Alumni
   * Shaokun Liu, Master,05/2025-06/2026, Xinjiang University, Urumqi, Xinjiang, China (co-advised with Prof. Wushouer Silamu)
-  * Sen Zhang, Master, 05/2025-06/2026, Xinjiang University, Urumqi, Xinjiang, China (co-advised with Prof. Wushouer Silamu)
--->
+  * Sen Zhang, Master, 05/2025-06/2026, Xinjiang University, Urumqi, Xinjiang, China (co-advised with Prof. Wushouer Silamu)-->
 <!--  
 ### 🌍 Alumni Trajectories  
 #### 🏛️ Academia  
 - [Name] → Assoc. Prof. @Stanford  
-
 #### 🏻 Industry  
 - [Name] → Senior Engineer @Huawei  
-
 #### 🎒 Further Studies  
-- [Name] → Postdoc @ETH Zurich  
--->
+- [Name] → Postdoc @ETH Zurich  -->
 
 <!-- Academic Service
 ======
