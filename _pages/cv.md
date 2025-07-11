@@ -125,18 +125,53 @@ redirect_from:
 
 🎓Students
 =======
-* Research Intern
+<!--
+### Supervised Students
+#### 🎓 Doctoral Students
+- [Name] (2023-present, co-advised with Prof. X)  
+- [Name] (2021-2025)  
+
+#### 🎓 Master's Students 
+- [Name] (2022-2024)  
+- [Name] (2023-present)  
+
+-->
+<!--
+* 🏛️ Visiting Scholars
+* 🔬 Visiting Scholars
+* 📚 Visiting Scholars
+* 👨‍🏫 Visiting Scholars
+* 👋 Visiting Scholars
+* 🌍 International Visitors
+
+-->
+* 👩‍💻 Research Interns
   * Hongbin Na, Master, 06/2023-08/2023, The University of New South Wales (UNSW), Sydney, Australia
   <!-- * Bifei Hao, Master, 06/2023-Present, Northwestern University, Evanston, United States -->
-* Co-advised
-  * Dawulie Jinensibieke, Master, 08/2023-12/2023, University of Chinese Academy of Sciences, Beijing, China
-  * Wentao Xiao, Master, 06/2023-06/2024, Xinjiang University, Urumqi, Xinjiang, China
-  * Yifei Li, Master, 08/2023-08/2024, Xinjiang Agricultural University, Urumqi, Xinjiang, China
-  * Shaokun Liu, Master,05/2025-present, Xinjiang University, Urumqi, Xinjiang, China
-  * Sen Zhang, Master, 05/2025-present, Xinjiang University, Urumqi, Xinjiang, China
-  * Shibo Zhang, Master, 07/2025-present, Xinjiang University, Urumqi, Xinjiang, China
-  * Dezhi Wang, Master, 07/2025-present, Xinjiang University, Urumqi, Xinjiang, China
+* 🤝 Co-advised Students
+  * Shibo Zhang, Master, 07/2025-present, Xinjiang University, Urumqi, Xinjiang, China (co-advised with Prof. Wushouer Silamu)
+  * Dezhi Wang, Master, 07/2025-present, Xinjiang University, Urumqi, Xinjiang, China (co-advised with Prof. Wushouer Silamu)
+  * Shaokun Liu, Master,05/2025-present, Xinjiang University, Urumqi, Xinjiang, China (co-advised with Prof. Wushouer Silamu)
+  * Sen Zhang, Master, 05/2025-present, Xinjiang University, Urumqi, Xinjiang, China (co-advised with Prof. Wushouer Silamu)
+  * Yifei Li, Master, 08/2023-08/2024, Xinjiang Agricultural University, Urumqi, Xinjiang, China (co-advised with Assoc. Prof. Xi Chen)
+  * Wentao Xiao, Master, 06/2023-06/2024, Xinjiang University, Urumqi, Xinjiang, China (co-advised with Prof. Hao Huang)
+  * Dawulie Jinensibieke, Master, 08/2023-12/2023, University of Chinese Academy of Sciences, Beijing, China (co-advised with Assoc. Prof. Xiaobo Wang)
+<!--
+* 🌟 Alumni
+  * Shaokun Liu, Master,05/2025-06/2026, Xinjiang University, Urumqi, Xinjiang, China (co-advised with Prof. Wushouer Silamu)
+  * Sen Zhang, Master, 05/2025-06/2026, Xinjiang University, Urumqi, Xinjiang, China (co-advised with Prof. Wushouer Silamu)
+-->
+<!--  
+### 🌍 Alumni Trajectories  
+#### 🏛️ Academia  
+- [Name] → Assoc. Prof. @Stanford  
 
+#### 🏻 Industry  
+- [Name] → Senior Engineer @Huawei  
+
+#### 🎒 Further Studies  
+- [Name] → Postdoc @ETH Zurich  
+-->
 
 <!-- Academic Service
 ======
