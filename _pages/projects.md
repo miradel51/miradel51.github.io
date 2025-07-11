@@ -10,9 +10,9 @@ author_profile: true
     **NSFC Young Scientists Fund**  (2025.01 - 2027.12)  
     "Research on Machine Translation Methods for Resource-Scarce Languages Based on Large Models"
     - Level: National
-    - Institution:  Chinese Academy of Sciences (Xinjiang Branch)
+    - Institution:  Xinjiang University
     - Funding: 300,000 RMB
-    - Status: Not Started Yet
+    - Status: Ongoing
 
   - 
     **Xinjiang Tianchi Talents Program (Youth Doctoral Program)**  (2024.01 - 2027.01)  
