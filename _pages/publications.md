@@ -25,7 +25,9 @@ author_profile: true
 ======
 * __Mieradilijiang Maimaiti__,Wentao Xiao, Xi Zhou, Yupeng Ma and Yating Yang, "The Method for Semantic Understanding based on Cross-Lingual Representation Learning", __Computer Patent for Invention__; China Patent Application No: **2024**10332204.9, __Under Review__；
 * __Mieradilijiang Maimaiti__,Xiaobo Wang and Dawulie Jinensibieke, "A Method for Relation Extraction Corpus Construction under Low-Resource Scenarios using Multi-lingual Machine Translation", __Computer Patent for Invention__; China Patent Application No: **2024**11148768.3, __Under Review__；
-* __Mieradilijiang Maimaiti__, Yifei Li, Yating Yang, Xi Zhou, "A Method for Machine Translation on Low-Resource Languages using Active Learning", __Computer Patent for Invention__; China Patent Application No: **2024**11782239.9, __Under Review__；
+* __Mieradilijiang Maimaiti__, Yifei Li, Yating Yang and Xi Zhou, "A Method for Machine Translation on Low-Resource Languages using Active Learning", __Computer Patent for Invention__; China Patent Application No: **2024**11782239.9, __Under Review__；
+* __Mieradilijiang Maimaiti__, Shaokun Liu, Nuermaimaiti Youluwasi, Miaomiao Xu, Sen Zhang and Wushouer Silamu, "Aspect-Level Sentiment Analysis Method and Apparatus Based on Dual-Phase Dependency-Enhanced Graph Transformer", __Computer Patent for Invention__; China Patent Application No: **2025**10957292.6, __Under Review__；
+* __Mieradilijiang Maimaiti__, Sen Zhang, Nuermaimaiti Youluwasi, Shaokun Liu and Wushouer Silamu, "Method for Text Classification Based on Multi-Expert Fusion Gated Graph Neural Network with Contrastive Learning", __Computer Patent for Invention__; China Patent Application No: **2025**10988886.3, __Under Review__；
 
 <!--
 🧑‍⚖️ Academic Service
