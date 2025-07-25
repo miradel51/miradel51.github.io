@@ -18,7 +18,7 @@ author_profile: true
     **Xinjiang Tianchi Talents Program (Youth Doctoral Program)**  (2024.01 - 2027.01)  
     "Research on Low-Resource Neural Machine Translation Methods Based on LLM"
     - Level: Provincial
-    - Institution:  Chinese Academy of Sciences (Xinjiang Branch)
+    - Institution:  Xinjiang University
     - Funding: 750,000 RMB (with a specified maximum of 900,000 RMB)
     - Status: Ongoing
 
