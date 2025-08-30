@@ -3,7 +3,7 @@ title: "RAST: Residual-Attentive and Scale-aware Transformer for Robust Scene Te
 collection: 
 permalink: /publication/2025_prcv_rast
 excerpt: ''
-date: 2024-07-28
+date: 2025-08-23
 author: Wenkai Li, Yongbin Mu, Miaomiao Xu*, <b>Mieradilijiang Maimaiti</b>, Yanbing Li, and Wushour Silamu*
 conference: In Chinese Conference on Pattern Recognition and Computer Vision <b>(PRCV, 2025)</b> (*=corresponding author) (Long paper, poster)
 venue: ''
