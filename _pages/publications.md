@@ -1,4 +1,4 @@
----
+<img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/1c80fbd8-b3ad-42ff-a0f8-6c4e259be640" />---
 layout: archive
 title: "📚Publications"
 permalink: /publications/
@@ -28,6 +28,8 @@ author_profile: true
 * __Mieradilijiang Maimaiti__, Yifei Li, Yating Yang and Xi Zhou, "A Method for Machine Translation on Low-Resource Languages using Active Learning", __Computer Patent for Invention__; China Patent Application No: **2024**11782239.9, __Under Review__；
 * __Mieradilijiang Maimaiti__, Shaokun Liu, Nuermaimaiti Youluwasi, Miaomiao Xu, Sen Zhang and Wushouer Silamu, "Aspect-Level Sentiment Analysis Method and Apparatus Based on Dual-Phase Dependency-Enhanced Graph Transformer", __Computer Patent for Invention__; China Patent Application No: **2025**10957292.6, __Under Review__；
 * __Mieradilijiang Maimaiti__, Sen Zhang, Nuermaimaiti Youluwasi, Shaokun Liu and Wushouer Silamu, "Method for Text Classification Based on Multi-Expert Fusion Gated Graph Neural Network with Contrastive Learning", __Computer Patent for Invention__; China Patent Application No: **2025**10988886.3, __Under Review__；
+* Miaomiao Xu, Yongbin Mu, __Mieradilijiang Maimaiti__ and Wushouer Silamu, "A Method for Scene Text Recognition Based on Encoder-Decoder Interactive Modeling", __Computer Patent for Invention__; China Patent Application No:**2025**1181074.4, __Under Review__；
+* Miaomiao Xu, Wenkai Li, __Mieradilijiang Maimaiti__ and Wushouer Silamu, "A Scale-Aware Scene Text Recognition Method with Residual Attention", __Computer Patent for Invention__; China Patent Application No:**2025**11180973.2, __Under Review__；
 
 <!--
 🧑‍⚖️ Academic Service
