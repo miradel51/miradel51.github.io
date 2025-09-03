@@ -1,4 +1,3 @@
-<img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/1c80fbd8-b3ad-42ff-a0f8-6c4e259be640" />---
 layout: archive
 title: "📚Publications"
 permalink: /publications/
