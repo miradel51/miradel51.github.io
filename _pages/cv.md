@@ -33,36 +33,40 @@ redirect_from:
 
 🏅Honors
 ======
-* Outstanding student cadre of XJU, 2007-2008
-* National Encouragement Scholarship, 2008-2009
-* Excellent league member of XJU, 2008-2009
-* National Encouragement Scholarship, 2009-2010
-* Advanced Individual in Social Practice Intern of XJU, 10/2010
-* Second prize in the program design competition of XJU, 06/2011
-* National Scholarship (Undergraduate), 2010-2011
-* Outstanding Student, 2010-2011
-* Outstanding Graduates (Undergraduate), 06/2012
-* Second-class scholarship for postgraduate, 09/2012, 09/2013, 09/2014
-* National Scholarship (Postgraduate), 12/2014
-* Third-class Social Practice Scholarship for Postgraduates of THU, 12/2016
 * Second Prize of Science and Technology of Chinese Institute of Electronics, 01/2022
+* Contribution Award for Graduate Forum on "Computing Future" at THU (Oral Presentation), 07/2020
+* Contribution Award for Workshop on "Frontier and Applications of AI" at THU (Oral Presentation), 03/2019
+* Third-class Social Practice Scholarship for Postgraduates of THU, 12/2016
+* National Scholarship (Postgraduate), 12/2014
+* Second-class scholarship for postgraduate, 09/2012, 09/2013, 09/2014
+* Outstanding Graduates (Undergraduate), 06/2012
+* Outstanding Student, 2010-2011
+* National Scholarship (Undergraduate), 2010-2011
+* Second prize in the program design competition of XJU, 06/2011
+* Advanced Individual in Social Practice Intern of XJU, 10/2010
+* National Encouragement Scholarship, 2009-2010
+* Excellent league member of XJU, 2008-2009
+* National Encouragement Scholarship, 2008-2009
+* Outstanding student cadre of XJU, 2007-2008
+
+
+
 
 🎓Students
 =======
 * 🧑‍🎓 Supervised Students
   * Zhengyi Guo, Master, 09/2025-present, Xinjiang University
-  * Jiabo Chen, Master, 09/2025-present, Xinjiang University
+  * Zhexin Li, Master, 09/2025-present, Xinjiang University
 
 * 🤝 Co-advised Students
   * Shuoshuo Hou, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
-  * Liying Zhao, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
-  * ZHexin Li, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
+  * Jiaxin Wang, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
   * Shibo Zhang, Master, 07/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
   * Dezhi Wang, Master, 07/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
   * Shaokun Liu, Master, 05/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
   * Sen Zhang, Master, 05/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
   * Yifei Li, Master, 08/2023-08/2024, Xinjiang Agricultural University (co-advised with Assoc. Prof. Xi Chen)
-  * Wentao Xiao, Master, 06/2023-06/2024, Xinjiang University (co-advised with Prof. Hao Huang)
+  * Wentao Xiao, Master, 06/2023-10/2023, Xinjiang University (co-advised with Prof. Hao Huang)
   * Dawulie Jinensibieke, Master, 08/2023-12/2023, University of CAS (co-advised with Assoc. Prof. Xiaobo Wang)
 
 * 👩‍💻 Research Interns
