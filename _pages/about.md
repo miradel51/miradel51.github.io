@@ -79,11 +79,13 @@ News
 ## 🗞️ Latest News
 <!-- 最近5条 -->
 <ul>
+  <li>23/10/2025  <a href="https://openreview.net/forum?id=ncT0OvZeL6">ALTA2025</a> One paper has been accepted by ALTA2025.</li>
+  <li>03/10/2025  <a href="https://github.com/Lzjt-ZhangXuejun/2025-ACM-/blob/main/2025%E5%B9%B4%E5%BA%A6ACM%E5%85%B0%E5%B7%9E%E5%88%86%E4%BC%9A%E6%96%B0%E6%98%9F%E5%A5%96%E5%92%8C%E4%B8%AD%E5%9B%BD%E4%BC%98%E5%8D%9A%E5%A5%96%E8%AF%84%E9%80%89%E7%BB%93%E6%9E%9C%E5%85%AC%E7%A4%BA.md">Rising Star Award</a> I was honored with the 2025 ACM China Lanzhou Chapter Rising Star Award.</li>
+  
   <li>08/23/2025  <a href="https://www.prcv.cn/">PRCV2025</a> Three papers have been accepted by PRCV2025.</li>
   <li>06/03/2025  <a href="https://www.sciencedirect.com/science/article/pii/S0950705125009645?dgcid=author">KBS2025</a> One paper has been accepted by KBS2025.</li>
   <li>04/03/2025  <a href="https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_i-was-invited-to-give-an-academic-presentation-activity-7289130863366152192-ifvd?utm_source=share&utm_medium=member_desktop">AI for Medicine</a> I was invited to give an academic talk at Westlake University on the power of AI for Medicine.</li>
-  <li>10/23/2024  <a href="https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_thank-you-for-having-me-the-primary-difference-activity-7254709222435704833-f1IW?utm_source=share&utm_medium=member_desktop">LLM+Tool Learning</a> I was invited to give an academic talk at Xinjiang Changji University on Tool Learning for LLM.</li>
-  <li>09/19/2024  <a href="https://www.researchgate.net/publication/384156771_Visual_Pivoting_Unsupervised_Multimodal_Machine_Translation_in_Low-Resource_Distant_Language_Pairs">EMNLP2024</a> One paper has been accepted by EMNLP2024 findings.</li>
+  
 </ul>
 
 <!-- 其余历史消息折叠 -->
@@ -94,15 +96,17 @@ News
 <summary style="cursor: pointer; color: #2d78ad;">More</summary>
 
 <ul>
-  <li>08/16/2024  <a href="https://www.nsfc.gov.cn/english/site_1/index.html">Youth Science Foundation</a> The 'Youth Science Foundation' <strong>project</strong> has been approved by NSFC.</li>
+  <li>10/23/2024  <a href="https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_thank-you-for-having-me-the-primary-difference-activity-7254709222435704833-f1IW?utm_source=share&utm_medium=member_desktop">LLM+Tool Learning</a> I was invited to give an academic talk at Xinjiang Changji University on Tool Learning for LLM.</li>
+  <li>09/19/2024  <a href="https://www.researchgate.net/publication/384156771_Visual_Pivoting_Unsupervised_Multimodal_Machine_Translation_in_Low-Resource_Distant_Language_Pairs">EMNLP2024</a> One paper has been accepted by EMNLP2024 findings.</li>
+  <li>08/16/2024  <a href="https://www.nsfc.gov.cn/english/site_1/index.html">Youth Science Foundation2024</a> The 'Youth Science Foundation' <strong>project</strong> has been approved by NSFC.</li>
   <li>07/28/2024  <a href="https://www.researchgate.net/publication/382625405_Low-resource_Machine_Translation_with_Different_Granularity_Image_Features">PRCV2024</a> One paper has been accepted by PRCV2024.</li>
   <li>06/25/2024  <a href="https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_we-have-tried-to-construct-a-multilingual-activity-7211344229963325440-H1dO?utm_source=share&utm_medium=member_desktop">Arxiv2024</a> We have constructed a multi-lingual RE corpus for LLMs.</li>
   <li>05/15/2024  <a href="https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_thank-you-for-the-interview-opportunity-activity-7197222210950864899-4UWV?utm_source=share&utm_medium=member_desktop">FM104.6</a> I have received an invitation from the broadcasting and TV station of Urumqi. <a href="https://lcache.qtfm.cn/cache/20240515/1923/1923_20240515_170000_180000_24_0.aac">Full Version</a>, <a href="https://miradel51.github.io/files/20240515.qr_code.png">WeChat QR</a>, <a href="https://miradel51.github.io/20240515.prevue.mp4">Prevue</a>, <a href="https://miradel51.github.io/20240515.post.mp4">Final</a>, <a href="https://miradel51.github.io/20240515.social_practice.mp4">Social Practice</a>, <a href="https://miradel51.github.io/20240515.suggestions_4_college_stu.mp4">Suggestions</a></li>
   <li>03/03/2024  <a href="https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_we-have-attempted-to-incorporate-code-switching-activity-7171065732649218048-aHO1?utm_source=share&utm_medium=member_desktop">Arxiv2024</a> We have optimized cross-lingual PTM for SR.</li>
   <li>02/16/2024  <a href="https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_we-have-introduced-a-novel-but-straightforward-activity-7168825423408132096-X5gu?utm_source=share&utm_medium=member_desktop">Arxiv2024</a> We have introduced a new method for LLM-based MT.</li>
-  <li>11/22/2023  <a href="https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_thank-you-for-having-me-the-primary-difference-activity-7254709222435704833-f1IW?utm_source=share&utm_medium=member_desktop">LLM+MT</a> Talk at Xinjiang Yili Normal University.</li>
-  <li>11/05/2023  <a href="https://english.cas.cn/">RA Funding</a> 'Special Research Assistant Funding' <strong>project</strong> approved by CAS.</li>
-  <li>08/15/2023  <a href="https://rst.xinjiang.gov.cn/">TC Project</a> 'Tianchi Talent' <strong>project</strong> approved by Xinjiang HRSS.</li>
+  <li>11/22/2023  <a href="https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_thank-you-for-having-me-the-primary-difference-activity-7254709222435704833-f1IW?utm_source=share&utm_medium=member_desktop">LLM+MT</a> I was invited to give an academic talk at Xinjiang Yili Normal University on LLM for MT.</li>
+  <li>11/05/2023  <a href="https://english.cas.cn/">RA Funding2023</a> The 'Special Research Assistant Funding' <strong>project</strong> approved by CAS.</li>
+  <li>08/15/2023  <a href="https://rst.xinjiang.gov.cn/">TC Project2023</a> The 'Tianchi Talent' <strong>project</strong> approved by Xinjiang HRSS.</li>
   <li>08/13/2022  <a href="https://dl.acm.org/doi/10.1145/3511808.3557122">CIKM2022</a> One paper accepted.</li>
   <li>06/10/2022  <a href="https://miradel51.github.io/files/naacl22_video_small.mp4">Poster Presentation</a> for NAACL2022 uploaded.</li>
   <li>04/10/2022  <a href="https://openreview.net/forum?id=rnfgk3iZrbc&referrer=[Tasks](/tasks)">NAACL2022</a> One paper accepted.</li>
