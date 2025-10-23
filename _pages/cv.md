@@ -33,6 +33,7 @@ redirect_from:
 
 🏅Honors
 ======
+* Rising Star Award, ACM China Lanzhou Chapter, 10/2025
 * Second Prize of Science and Technology of Chinese Institute of Electronics, 01/2022
 * Contribution Award for Graduate Forum on "Computing Future" at THU (Oral Presentation), 07/2020
 * Contribution Award for Workshop on "Frontier and Applications of AI" at THU (Oral Presentation), 03/2019
@@ -55,10 +56,12 @@ redirect_from:
 🎓Students
 =======
 * 🧑‍🎓 Supervised Students
-  * Zhengyi Guo, Master, 09/2025-present, Xinjiang University
-  * Zhexin Li, Master, 09/2025-present, Xinjiang University
+  * Yi Chen, Master, 10/2025-present, Xinjiang University
+  * Yu Pei, Master, 10/2025-present, Xinjiang University
 
 * 🤝 Co-advised Students
+  * Zhengyi Guo, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
+  * Zhexin Li, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
   * Shuoshuo Hou, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
   * Jiaxin Wang, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
   * Shibo Zhang, Master, 07/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
