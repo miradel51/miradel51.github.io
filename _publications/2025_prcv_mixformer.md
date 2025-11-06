@@ -3,7 +3,7 @@ title: "MixFormer: A Cross-Modal Transformer for Arbitrary-Shaped Scene Text Det
 collection: 
 permalink: /publication/22025_prcv_mixformer
 excerpt: ''
-date: 2028-08-23
+date: 2025-08-23
 author: Yaolin Weng, Chuanlong Liu, Miaomiao Xu*, <b>Mieradilijiang Maimaiti</b>, and Wushour Silamu*
 conference: In Chinese Conference on Pattern Recognition and Computer Vision <b>(PRCV, 2025)</b> (*=corresponding author) (Long paper, poster)
 venue: ''
