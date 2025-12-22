@@ -4,8 +4,8 @@ collection:
 permalink: /publication/2025_sensors
 excerpt: ''
 date: 2025-12-19
-author: Yongbing Mu, <b>Mieradilijiang Maimaiti</b>, , Miaomiao Xu*, Wenkai Li, and Wushour Silamu*
-conference: Sensors <b>(PRCV, 2025)</b> (*=corresponding author) 
+author: Yongbing Mu, <b>Mieradilijiang Maimaiti</b>, Miaomiao Xu*, Wenkai Li, and Wushour Silamu*
+conference: In Sensors <b>2025</b> (*=corresponding author) 
 venue: ''
 paperurl: 'https://www.mdpi.com/1424-8220/25/24/7684'
 citation: '<br>
