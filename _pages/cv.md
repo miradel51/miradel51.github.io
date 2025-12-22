@@ -76,8 +76,9 @@ redirect_from:
   * Hongbin Na, Master, 06/2023-08/2023, The University of New South Wales (UNSW), Sydney, Australia
 
 * 📚 Visiting Students
-  * Qianyu Zhao,Undergraduate, 09/2025-present, Xinjiang University (College of Mathematics and System Science)
-  * Ruihan Yin, Undergraduate, 09/2025-present, Xinjiang University (College of Mathematics and System Science)
+  * Ruihan Yin, Undergraduate, 09/2025-present, Xinjiang University (College of Mathematics)
+  * Qianyu Zhao,Undergraduate, 09/2025-present, Xinjiang University (College of Mathematics)
+  
 
     
 <!-- ### Supervised Students
