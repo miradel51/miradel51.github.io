@@ -75,7 +75,11 @@ redirect_from:
 * 👩‍💻 Research Interns
   * Hongbin Na, Master, 06/2023-08/2023, The University of New South Wales (UNSW), Sydney, Australia
 
+* 📚 Visiting Students
+  * Qianyu Zhao,Undergraduate, 09/2025-present, Xinjiang University (College of Mathematics and System Science)
+  * Ruihan Yin, Undergraduate, 09/2025-present, Xinjiang University (College of Mathematics and System Science)
 
+    
 <!-- ### Supervised Students
 #### 🎓 Doctoral Students  or 👥 Supervised Students
 - [Name] (2023-present, co-advised with Prof. X)  
