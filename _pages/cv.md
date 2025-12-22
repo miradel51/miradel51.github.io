@@ -77,7 +77,7 @@ redirect_from:
 
 * 📚 Visiting Students
   * Ruihan Yin, Undergraduate, 09/2025-present, Xinjiang University (College of Mathematics)
-  * Qianyu Zhao,Undergraduate, 09/2025-present, Xinjiang University (College of Mathematics)
+  * Qianyu Zhao, Undergraduate, 09/2025-present, Xinjiang University (College of Mathematics)
   
 
     
