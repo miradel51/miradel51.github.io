@@ -56,8 +56,11 @@ redirect_from:
 🎓Students
 =======
 * 🧑‍🎓 Supervised Students
-  * Yi Chen, Master, 10/2025-present, Xinjiang University
-  * Yu Pei, Master, 10/2025-present, Xinjiang University
+  * Chinese Students
+    * Yi Chen, Master, 10/2025-present, Xinjiang University
+    * Yu Pei, Master, 10/2025-present, Xinjiang University
+  * International Students
+    * Ahmad Hassan, Master, 01/2026-present, Xinjiang University
 
 * 🤝 Co-advised Students
   * Zhengyi Guo, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
