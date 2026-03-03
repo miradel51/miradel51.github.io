@@ -11,7 +11,7 @@ redirect_from:
 🧑‍🎓 Biography
 ---------
 
-Dr. Mieradilijiang Maimaiti is currently an Assistant Professor (Tenure-Track) at the [School of Computer Science](http://it.xju.edu.cn/), [Xinjiang University (XJU)](https://english.xju.edu.cn/). <!-- Research Assistant of the [Laboratory of Multilingual Information Technology](http://www.xjipc.cas.cn/XJMITL/) in [Xinjiang Technical Institute of Physics and Chemistry, Chinese Academy of Sciences](http://english.xjipc.cas.cn/). -->
+Dr. Mieradilijiang Maimaiti is currently an Associate Professor at the [School of Computer Science](http://it.xju.edu.cn/), [Xinjiang University (XJU)](https://english.xju.edu.cn/). <!-- Research Assistant of the [Laboratory of Multilingual Information Technology](http://www.xjipc.cas.cn/XJMITL/) in [Xinjiang Technical Institute of Physics and Chemistry, Chinese Academy of Sciences](http://english.xjipc.cas.cn/). -->
 Before that, he worked as Senior Algorithm Engineer for Natural Language Processing (NLP) at the [Language Technology Lab](https://damo.alibaba.com/labs/language-technology) in [ALIBABA DAMO ACADEMY](https://damo.alibaba.com/). 
 Previously, Mieradilijiang received his Ph.D. from the [Department of Computer Science](https://www.cs.tsinghua.edu.cn/csen/) at [Tsinghua University (THU)](https://www.tsinghua.edu.cn/en/) under the supervision of [Prof. Maosong Sun](https://nlp.csai.tsinghua.edu.cn/staff/sms/) and is also co-advised by [Prof. Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/) in the [THUNLP Lab](https://nlp.csai.tsinghua.edu.cn/).
 His work focuses on NLP, machine translation (MT), and machine learning (ML). Mieradilijiang has been involved in MT-related work since September 2016, specifically concentrating on neural machine translation (NMT) involving low-resource languages (LRLs) and morphologically rich languages (MRLs), which include minority languages. Additionally, he has researched the domain adaptation problem in NMT and delved into transfer learning and data augmentation for LRLs in NMT. Concurrently, he has dedicated attention to morphological analysis in agglutinated and inflected languages.
@@ -81,11 +81,9 @@ News
 <ul>
   <li>23/10/2025  <a href="https://openreview.net/forum?id=ncT0OvZeL6">ALTA2025</a> One paper has been accepted by ALTA2025.</li>
   <li>03/10/2025  <a href="https://github.com/Lzjt-ZhangXuejun/2025-ACM-/blob/main/2025%E5%B9%B4%E5%BA%A6ACM%E5%85%B0%E5%B7%9E%E5%88%86%E4%BC%9A%E6%96%B0%E6%98%9F%E5%A5%96%E5%92%8C%E4%B8%AD%E5%9B%BD%E4%BC%98%E5%8D%9A%E5%A5%96%E8%AF%84%E9%80%89%E7%BB%93%E6%9E%9C%E5%85%AC%E7%A4%BA.md">Rising Star Award</a> I was honored with the 2025 ACM China Lanzhou Chapter Rising Star Award.</li>
-  
   <li>08/23/2025  <a href="https://www.prcv.cn/">PRCV2025</a> Three papers have been accepted by PRCV2025.</li>
   <li>06/03/2025  <a href="https://www.sciencedirect.com/science/article/pii/S0950705125009645?dgcid=author">KBS2025</a> One paper has been accepted by KBS2025.</li>
   <li>04/03/2025  <a href="https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_i-was-invited-to-give-an-academic-presentation-activity-7289130863366152192-ifvd?utm_source=share&utm_medium=member_desktop">AI for Medicine</a> I was invited to give an academic talk at Westlake University on the power of AI for Medicine.</li>
-  
 </ul>
 
 <!-- 其余历史消息折叠 -->
@@ -107,11 +105,11 @@ News
   <li>11/22/2023  <a href="https://www.linkedin.com/posts/mieradilijiang-maimaiti-a1037a3b_thank-you-for-having-me-the-primary-difference-activity-7254709222435704833-f1IW?utm_source=share&utm_medium=member_desktop">LLM+MT</a> I was invited to give an academic talk at Xinjiang Yili Normal University on LLM for MT.</li>
   <li>11/05/2023  <a href="https://english.cas.cn/">RA Funding2023</a> The 'Special Research Assistant Funding' <strong>project</strong> approved by CAS.</li>
   <li>08/15/2023  <a href="https://rst.xinjiang.gov.cn/">TC Project2023</a> The 'Tianchi Talent' <strong>project</strong> approved by Xinjiang HRSS.</li>
-  <li>08/13/2022  <a href="https://dl.acm.org/doi/10.1145/3511808.3557122">CIKM2022</a> One paper accepted.</li>
+  <li>08/13/2022  <a href="https://dl.acm.org/doi/10.1145/3511808.3557122">CIKM2022</a> One paper has been accepted by CIKM2022.</li>
   <li>06/10/2022  <a href="https://miradel51.github.io/files/naacl22_video_small.mp4">Poster Presentation</a> for NAACL2022 uploaded.</li>
-  <li>04/10/2022  <a href="https://openreview.net/forum?id=rnfgk3iZrbc&referrer=[Tasks](/tasks)">NAACL2022</a> One paper accepted.</li>
+  <li>04/10/2022  <a href="https://openreview.net/forum?id=rnfgk3iZrbc&referrer=[Tasks](/tasks)">NAACL2022</a> One paper has been accepted by NAACL2022.</li>
   <li>11/08/2021  <a href="https://miradel51.github.io/files/emnlp2021_me_video.mp4">Oral Presentation</a> for EMNLP2021 uploaded.</li>
-  <li>08/26/2021  <a href="https://www.linkedin.com/feed/update/urn:li:activity:6836672943502835712/">EMNLP2021</a> Two papers accepted.</li>
+  <li>08/26/2021  <a href="https://www.linkedin.com/feed/update/urn:li:activity:6836672943502835712/">EMNLP2021</a> Two papers accepted have been accepted by EMNLP2021.</li>
   <li>05/24/2021  <a href="https://www.linkedin.com/feed/update/urn:li:activity:6803196850481463296/">PhD Defense</a> Completed!</li>
 </ul>
 
