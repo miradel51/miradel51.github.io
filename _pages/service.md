@@ -14,22 +14,23 @@ author_profile: true
   - Member of the **Youth Working Committee** of the CIPS;
   - **Standing Committee** Member and **Executive** Committee Member of the **Ethnic Language and Script Information Specialized Committee** of the CIPS;
   - Member of the **Machine Translation Specialized Committee** of the CIPS;
-  - Member of the **NLG and Intelligent Writing Specialized Committee** of the CIPS;
+  - Member of the **National Large Model and Generation Committee** of the CIPS;
 
 - **Domestic Academic Services**
   - Conference
     - **Sponsorship Chair** of CCMT 2024 by the Chinese Information Processing Society of China;
-    - **Track Co-Chair** of the Low-Resource Languages Information Processing Forum at CCMT 2025
+    - **Track Co-Chair** of the Low-Resource Languages Information Processing Forum at CCMT 2025;
+    - **Invited Panelist** for the LLM and Minority Languages Sub-Track, CLM 2025.
   - **National Research Projects**
     - Remote Reviewer for the National Natural Science Foundation of China (NSFC)
 
 - International Conferences:
   - **Reviewer**:  
-    ACL2016,2023-2025, AAAI2018,2026, ACM MM2024, EMNLP2024-2025, COLING2018,2025, NAACL2019,2024, EACL2024, IJCNN2022, NLP2024, PACLIC2021, NLPAI2022, CCMT2023-2025, MLIP2022-2025, IEEE CAI2024, Fuzzy2024, LREC2026
-  - Area Chair (AC): IJCNN2025, ICASSP2026, ACL2025 ARR October cycle
+    ACL2016,2023-2026, AAAI2018,2026, ACM MM2024, EMNLP2024-2025, COLING2018,2025, NAACL2019,2024, EACL2024, IJCNN2022,2025-2026, NLP2024, PACLIC2021, NLPAI2022, CCMT2023-2025, MLIP2022-2025, IEEE CAI2024, Fuzzy2024, LREC2026
+  - Area Chair (AC): IJCNN2025-2026, ICASSP2026, ACL2025,2026 ARR October cycle
   - **Technical Program Committee (TPC) member**:  
     CMCM2024, IEEE MLNLP2024
 
 - International Journals（Reviewer）: 
-  - International Journal of Intelligent Systems (IJIS) 2021-2022; ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP) 2022-2023,2025; Knowledge-Based Systems 2025; Scientific Reports 2025; Artificial Intelligence Review 2025;
+  - International Journal of Intelligent Systems (IJIS) 2021-2022; ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP) 2022-2023,2025; Knowledge-Based Systems (KBS) 2025; Scientific Reports 2025; Artificial Intelligence Review 2025; Engineering Applications of Artificial Intelligence (EAAI) 2026;
 
