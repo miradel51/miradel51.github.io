@@ -10,7 +10,10 @@ author_profile: true
 ……
 -->
 
-* Assistant Professor (Tenure-Track), [School of Computer Science](http://it.xju.edu.cn/), [Xinjiang University (XJU)](https://english.xju.edu.cn/), 04/2025-Present
+* Associate Professor, [School of Computer Science](http://it.xju.edu.cn/), [Xinjiang University (XJU)](https://english.xju.edu.cn/), 03/2026-Present
+  * Base: Urumqi, Xinjiang, China
+  * Project: Multi-Modal Large Language Model Translation for Low-Resource Languages
+* Assistant Professor (Tenure-Track), [School of Computer Science](http://it.xju.edu.cn/), [Xinjiang University (XJU)](https://english.xju.edu.cn/), 04/2025-03/2026
   * Base: Urumqi, Xinjiang, China
   * Project: Towards Multimodal Large Language Model Translation for Low-Resource Languages along the Belt and Road Initiative
 * Research Assistant, [Xinjiang Technical Institute of Physics and Chemistry, Chinese Academy of Sciences](http://english.xjipc.cas.cn/), 04/2023-04/2025
