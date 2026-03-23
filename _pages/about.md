@@ -79,7 +79,7 @@ News
 ## 🗞️ Latest News
 <!-- 最近5条 -->
 <ul>
-  <li>03/21/2026  <a href="https://www.icnlp.net/is.html">ICNLP2026</a> I've enjoyed being an 'invited speaker' and 'session chair' in ICNLP2026.</li>
+  <li>03/21/2026  <a href="https://www.icnlp.net/is.html">ICNLP2026</a> I was Invited as a speaker and session chair at ICNLP2026.</li>
   <li>03/20/2026  <a href="https://attend.ieee.org/wcci-2026/">IJCNN2026</a> Four papers have been accepted by IJCNN2026.</li>
   <li>10/23/2025  <a href="https://openreview.net/forum?id=ncT0OvZeL6">ALTA2025</a> One paper has been accepted by ALTA2025.</li>
   <li>10/03/2025  <a href="https://github.com/Lzjt-ZhangXuejun/2025-ACM-/blob/main/2025%E5%B9%B4%E5%BA%A6ACM%E5%85%B0%E5%B7%9E%E5%88%86%E4%BC%9A%E6%96%B0%E6%98%9F%E5%A5%96%E5%92%8C%E4%B8%AD%E5%9B%BD%E4%BC%98%E5%8D%9A%E5%A5%96%E8%AF%84%E9%80%89%E7%BB%93%E6%9E%9C%E5%85%AC%E7%A4%BA.md">Rising Star Award</a> I was honored with the 2025 ACM China Lanzhou Chapter Rising Star Award.</li>
