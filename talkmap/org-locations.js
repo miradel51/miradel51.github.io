@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Xi'An (ICNLP2026)",
+    34.3416,
+    108.9398
+  ],
+  [
     "Westlake University, Hangzhou (AI for Medicine)",
     30.1772714,
     120.0933259
