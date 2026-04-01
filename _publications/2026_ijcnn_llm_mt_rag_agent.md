@@ -4,7 +4,7 @@ collection:
 permalink: /publication/2026_ijcnn_llm_mt_rag_agent
 excerpt: ''
 date: 2026-03-20
-author: Shibo Zhang, Mieradilijiang Maimaiti*, Zhengyi Guo, Dezhi Wang, Wu Le, Zhuofei Xie, Jiawei Chen, and Wushour Silamu
+author: Shibo Zhang, <b>Mieradilijiang Maimaiti</b>*, Zhengyi Guo, Dezhi Wang, Wu Le, Zhuofei Xie, Jiawei Chen, and Wushour Silamu
 conference: In International Joint Conference on Neural Networks <b>(IJCNN, 2026)</b> (*=corresponding author) (Main track, Long paper)
 venue: ''
 paperurl: 'https://www.researchgate.net/publication/403332692_Retrieve_Refine_and_Translate_LLM-Based_Translation_for_Low-Resource_Languages'
