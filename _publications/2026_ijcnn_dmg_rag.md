@@ -9,7 +9,7 @@ conference: In International Joint Conference on Neural Networks <b>(IJCNN, 2026
 venue: ''
 paperurl: 'https://www.researchgate.net/publication/403332946_DMG-RAG_Dynamic_Multi-Grained_Retrieval_Augmented_Generation_for_Multi-Hop_QA'
 citation: '<br>
-@inproceedings{shibo2026_llm_mt_rag_agent,<br>
+@inproceedings{yupei2026_dmg_rag,<br>
   title={DMG-RAG: Dynamic Multi-Grained Retrieval Augmented Generation for Multi-Hop QA},<br>
   author={Yu Pei, Mieradilijiang Maimaiti, Yi Chen, Wu Le, Zhuofei Xie,  and Jiawei Chen},<br>
   journal={International Joint Conference on Neural Networks (IJCNN)},<br>
