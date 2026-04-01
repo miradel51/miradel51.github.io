@@ -4,8 +4,8 @@ collection:
 permalink: /publication/2025_alta_thinker_ddm
 excerpt: ''
 date: 2025-10-23
-author: Hongbin Na, Zimu Wang, <b>Mieradilijiang Maimaiti</b>†, Tong Chen, Wei Wang, Tao Shen, and Ling Chen
-conference: In Australasian Language Technology Association Workshop (ALTA) <b>(2025)</b> (†=corresponding author)
+author: Hongbin Na, Zimu Wang, <b>Mieradilijiang Maimaiti</b>*, Tong Chen, Wei Wang, Tao Shen, and Ling Chen
+conference: In Australasian Language Technology Association Workshop (ALTA) <b>(2025)</b> (*=corresponding author)
 venue: ''
 paperurl: 'https://openreview.net/forum?id=ncT0OvZeL6'
 citation: '<br>
