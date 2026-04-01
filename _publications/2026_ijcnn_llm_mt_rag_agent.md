@@ -11,7 +11,7 @@ paperurl: 'https://www.researchgate.net/publication/403332692_Retrieve_Refine_an
 citation: '<br>
 @inproceedings{shibo2026_llm_mt_rag_agent,<br>
   title={Retrieve, Refine, and Translate: LLM-Based Translation for Low-Resource Languages},<br>
-  author={Shibo Zhang, Mieradilijiang Maimaiti*, Zhengyi Guo, Dezhi Wang, Wu Le, Zhuofei Xie, Jiawei Chen, and Wushour Silamu},<br>
+  author={Shibo Zhang, Mieradilijiang Maimaiti, Zhengyi Guo, Dezhi Wang, Wu Le, Zhuofei Xie, Jiawei Chen, and Wushour Silamu},<br>
   journal={International Joint Conference on Neural Networks (IJCNN)},<br>
   year={2026},<br>
 }'
