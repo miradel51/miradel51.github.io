@@ -3,7 +3,7 @@ title: "DMG-RAG: Dynamic Multi-Grained Retrieval Augmented Generation for Multi-
 collection: 
 permalink: /publication/2026_ijcnn_dmg_rag
 excerpt: ''
-date: 2026-03-21
+date: 2026-03-20
 author: Yu Pei, <b>Mieradilijiang Maimaiti</b>*, Yi Chen, Wu Le, Zhuofei Xie,  and Jiawei Chen
 conference: In International Joint Conference on Neural Networks <b>(IJCNN, 2026)</b> (*=corresponding author) (Main track, Long paper)
 venue: ''
