@@ -4,7 +4,7 @@ collection:
 permalink: /publication/2026_eswa_dsdgt
 excerpt: ''
 date: 2026-03-30
-author: <b>Shaokun Liu, Mieradilijiang Maimaiti</b>*, Nuermaimaiti Youliwasi, Nilufar Abdurakhmonova, Wu Le, Zhoufei Xie, Jiawei Chen, and Wushour Silamu
+author: Shaokun Liu, <b>Mieradilijiang Maimaiti</b>*, Nuermaimaiti Youliwasi, Nilufar Abdurakhmonova, Wu Le, Zhoufei Xie, Jiawei Chen, and Wushour Silamu
 conference: In Expert Systems with Applications  <b>(ESWA, 2026)</b>  (*=corresponding author)
 venue: ''
 paperurl: 'https://www.researchgate.net/publication/403486305_Dependency-Aware_Graph_Transformer_with_Hierarchical_Syntax_Encoding_for_Aspect-Level_Sentiment_Classification'
