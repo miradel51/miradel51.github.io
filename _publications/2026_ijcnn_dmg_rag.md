@@ -26,7 +26,7 @@ Given the candidate pool, a \emph{Budgeter} performs budget-constrained evidence
 Experiments on HotpotQA, 2WikiMultiHopQA, and MuSiQue demonstrate that DMG-RAG consistently outperforms strong baselines under EM and F1, yielding substantial average gains (up to 7--8 points). The code is publicly available
 The code is publicly available at \[[GitHub](https://github.com/zza-zaa/DMG-RAG)\].
 
-\[[PDF](https://www.researchgate.net/publication/403332946_DMG-RAG_Dynamic_Multi-Grained_Retrieval_Augmented_Generation_for_Multi-Hop_QA)\] \[[Code](https://github.com/zza-zaa/DMG-RAG)\]
+\[[PDF](https://www.researchgate.net/publication/403332946_DMG-RAG_Dynamic_Multi-Grained_Retrieval_Augmented_Generation_for_Multi-Hop_QA)\] \[[Code](https://github.com/zza-zaa/DMG-RAG)\] \[[Poster](https://miradel51.github.io/files/ijcnn2026_poster_py.pdf)\]
 
 
 
