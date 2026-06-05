@@ -28,7 +28,7 @@ Additionally, a dual-attention strategy combines a frequency-domain module using
 Extensive experiments on benchmark datasets demonstrate that FCD-GCN consistently outperforms strong baselines, validating the effectiveness of dynamic graph refinement with frequency and channel-level modeling. 
 The code is publicly available at \[[GitHub](https://github.com/xjulsk/FCDGCN)\].
 
-\[[PDF](https://www.researchgate.net/publication/403329458_A_Frequency-Channel_Enhanced_Dynamic_GCN_for_Aspect-Based_Sentiment_Analysis)\]
+\[[PDF](https://www.researchgate.net/publication/403329458_A_Frequency-Channel_Enhanced_Dynamic_GCN_for_Aspect-Based_Sentiment_Analysis)\] \[[Code](https://github.com/xjulsk/FCDGCN)\]
 
 
 
