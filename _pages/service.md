@@ -21,6 +21,7 @@ author_profile: true
     - **Sponsorship Chair** of CCMT 2024 by the Chinese Information Processing Society of China;
     - **Track Co-Chair** of the Low-Resource Languages Information Processing Forum at CCMT 2025;
     - **Invited Panelist** for the LLM and Minority Languages Sub-Track, CLM 2025.
+    - **Vice Chair** of the Young Researchers Forum at MNLP 2026.
   - **National Research Projects**
     - Remote Reviewer for the National Natural Science Foundation of China (NSFC)
 
