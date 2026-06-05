@@ -27,7 +27,7 @@ By integrating implicit correction with explicit feedback, the proposed framewor
 Extensive experiments on three benchmarks (FLORES-200, NTREX-128, and TICO-19) covering 8 low-resource languages demonstrate the effectiveness of our framework, showing that our introduced approach achieves highly competitive performance against strong baseline systems with XCOMET and BLEURT. 
 The code is publicly available at \[[GitHub](https://github.com/qaza200/2stagerefine)\].
 
-\[[PDF](https://www.researchgate.net/publication/403332692_Retrieve_Refine_and_Translate_LLM-Based_Translation_for_Low-Resource_Languages)\] \[[Code](https://github.com/qaza200/2stagerefine)\]
+\[[PDF](https://www.researchgate.net/publication/403332692_Retrieve_Refine_and_Translate_LLM-Based_Translation_for_Low-Resource_Languages)\] \[[Code](https://github.com/qaza200/2stagerefine)\] \[[Poster](https://miradel51.github.io/files/ijcnn2026_poster_zsb.pdf)\]
 
 
 
