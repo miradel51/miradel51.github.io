@@ -32,4 +32,4 @@ The results show that strong baselines (e.g., Qwen3-VL-8B and LLaVA-v1.6-7B), wh
 such as Visual Genome and Multi30K, with average gains of +7.67, +8.50, and +9.67 on COMET-Kiwi, CLIP, and BERTScore, respectively. The corresponding code and constructed high-quality multimodal low-resource languages benchmark are publicly available 
 The code is publicly available at \[[Huggingface](https://huggingface.co/datasets/yumoya/SilkRoad-VL)\].
 
-\[[PDF](https://www.researchgate.net/publication/403332870_Vision-to-Text_Benchmarking_Multimodal_LLMs_on_Extremely_Low-Resource_Languages)\] \[[Code](https://huggingface.co/datasets/yumoya/SilkRoad-VL)\]
+\[[PDF](https://www.researchgate.net/publication/403332870_Vision-to-Text_Benchmarking_Multimodal_LLMs_on_Extremely_Low-Resource_Languages)\] \[[Code](https://huggingface.co/datasets/yumoya/SilkRoad-VL)\] \[[Poster](https://miradel51.github.io/files/ijcnn2026_poster_hss.pdf)\]
