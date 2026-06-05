@@ -82,6 +82,7 @@ redirect_from:
   * Ruihan Yin, Undergraduate, 09/2025-present, Xinjiang University (College of Mathematics)
   * Qianyu Zhao, Undergraduate, 09/2025-present, Xinjiang University (College of Mathematics)
   * Yang Li, Undergraduate, 03/2026-present, Xinjiang University (School of CS)
+  * Lanlan Ma, Undergraduate, 06/2026-present, Xinjiang University (School of Intelligence Science and Technology)
 
     
 <!-- ### Supervised Students
