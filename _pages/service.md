@@ -29,9 +29,10 @@ author_profile: true
   - **Reviewer**:  
     ACL2016,2023-2026, AAAI2018,2026, ACM MM2024, EMNLP2024-2025, COLING2018,2025, NAACL2019,2024, EACL2024, IJCNN2022,2025-2026, NLP2024, PACLIC2021, NLPAI2022, CCMT2023-2025, MLIP2022-2025, IEEE CAI2024, Fuzzy2024, LREC2026
   - Area Chair (AC): IJCNN2025-2026, ICASSP2026, ACL2025,2026 ARR October cycle
-  - Technical Program Committee (TPC) member:  
-    CMCM2024, IEEE MLNLP2024
-
-- International Journals（Reviewer）: 
-  - International Journal of Intelligent Systems (IJIS) 2021-2022; ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP) 2022-2023,2025; Knowledge-Based Systems (KBS) 2025; Scientific Reports 2025; Artificial Intelligence Review 2025; Engineering Applications of Artificial Intelligence (EAAI) 2026;
+  - Technical Program Committee (TPC) member: CMCM2024, IEEE MLNLP2024
+    
+- International Journals:
+  - **Reviewer**:
+    International Journal of Intelligent Systems (IJIS); ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP); Knowledge-Based Systems (KBS); Scientific Reports; Artificial Intelligence Review; Engineering Applications of Artificial Intelligence (EAAI);
+    
 
