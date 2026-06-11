@@ -26,4 +26,4 @@ We then redefine the Drift-Diffusion process to emulate human translators' dynam
 We conduct extensive experiments under the high-resource, low-resource, and commonsense translation settings using the WMT22 and CommonMT datasets, in which Thinker-DDM outperforms baselines in the first two scenarios. 
 We also perform additional analysis and evaluation on commonsense translation to illustrate the high effectiveness and efficacy of the proposed method.
 
-\[[PDF](https://openreview.net/forum?id=ncT0OvZeL6)\]
+\[[PDF](https://aclanthology.org/2025.alta-main.4/)\]
