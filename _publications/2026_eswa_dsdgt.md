@@ -9,7 +9,7 @@ conference: In Expert Systems with Applications  <b>(ESWA, 2026)</b>  (*=corresp
 venue: ''
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0957417426014879'
 citation: '<br>
-@inproceedings{shaokun_ewsa2026,<br>
+@article{shaokun_ewsa2026,<br>
   title={Dependency-Aware Graph Transformer with Hierarchical Syntax Encoding for Aspect-Level Sentiment Classification},<br>
   author={Shaokun Liu, Mieradilijiang Maimaiti, Nuermaimaiti Youliwasi, Nilufar Abdurakhmonova, Wu Le, Zhoufei Xie, Jiawei Chen, and Wushour Silamu},<br>
   journal={Expert Systems with Applications (ESWA)},<br>
