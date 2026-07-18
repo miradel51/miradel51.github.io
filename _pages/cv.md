@@ -9,9 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-* Chinese [PDF](https://miradel51.github.io/files/my_cv_ch.pdf)
+* Chinese
+  <!-- 最近5条 -->
+  <!-- [PDF](https://miradel51.github.io/files/my_cv_ch.pdf) -->
 
-* English [PDF](https://miradel51.github.io/files/my_cv_en.pdf)
+* English
+  <!--  [PDF](https://miradel51.github.io/files/my_cv_en.pdf) -->
 
 🏫 Education
 ======
@@ -34,7 +37,7 @@ redirect_from:
 🏅Honors
 ======
 * Rising Star Award, ACM China Lanzhou Chapter, 10/2025
-* Second Prize of Science and Technology of Chinese Institute of Electronics, 01/2022
+* Second Prize of Science and Technology of the Chinese Institute of Electronics, 01/2022
 * Contribution Award for Graduate Forum on "Computing Future" at THU (Oral Presentation), 07/2020
 * Contribution Award for Workshop on "Frontier and Applications of AI" at THU (Oral Presentation), 03/2019
 * Third-class Social Practice Scholarship for Postgraduates of THU, 12/2016
@@ -60,7 +63,7 @@ redirect_from:
     * Yi Chen, Master, 10/2025-present, Xinjiang University
     * Yu Pei, Master, 10/2025-present, Xinjiang University
   * International Students
-    * Ahmad Hassan, Master, 01/2026-present, Xinjiang University
+    * Ahmad Hassan (comes from Pakistan), Master, 01/2026-present, Xinjiang University
 
 * 🤝 Co-advised Students
   * Zhengyi Guo, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
