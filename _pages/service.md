@@ -33,6 +33,6 @@ author_profile: true
     
 - International Journals:
   - **Reviewer**:
-    International Journal of Intelligent Systems (IJIS); ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP); Knowledge-Based Systems (KBS); Scientific Reports; Artificial Intelligence Review; Engineering Applications of Artificial Intelligence (EAAI);
+    IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP); ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP); Knowledge-Based Systems (KBS); Engineering Applications of Artificial Intelligence (EAAI); Expert Systems with Application (ESWA); International Journal of Intelligent Systems (IJIS); Scientific Reports; Artificial Intelligence Review;  
     
 
