@@ -5,7 +5,7 @@ permalink: /publication/2026_interspeech_moe
 excerpt: ''
 date: 2026-06-04
 author: Yaxuan Qiu, Zhe Li, <b>Mieradilijiang Maimaiti</b>*, Zunwang Ke, Yanbing Li, and Wushour Silamu
-conference: In International Conference Interspeech <b>(2026)</b> (*=corresponding author)
+conference: In International Conference <b>Interspeech (2026)</b> (*=corresponding author)
 venue: ''
 paperurl: 'https://www.researchgate.net/publication/407042877_Mixture_of_Spectral_Experts_for_Audio_Deepfake_Detection'
 citation: '<br>
