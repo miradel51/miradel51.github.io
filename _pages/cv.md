@@ -73,7 +73,6 @@ redirect_from:
   * Shibo Zhang, Master, 07/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
   * Dezhi Wang, Master, 07/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
   * Shaokun Liu, Master, 05/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
-  * Sen Zhang, Master, 05/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
   * Yifei Li, Master, 08/2023-08/2024, Xinjiang Agricultural University (co-advised with Assoc. Prof. Xi Chen)
   * Wentao Xiao, Master, 06/2023-10/2023, Xinjiang University (co-advised with Prof. Hao Huang)
   * Dawulie Jinensibieke, Master, 08/2023-12/2023, University of CAS (co-advised with Assoc. Prof. Xiaobo Wang)
