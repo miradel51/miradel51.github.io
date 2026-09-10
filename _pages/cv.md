@@ -36,6 +36,7 @@ redirect_from:
 
 🏅Honors
 ======
+* Third Prize, National Undergraduate Computer Design Competition, Advisor, 07/2026
 * Rising Star Award, ACM China Lanzhou Chapter, 10/2025
 * Second Prize of Science and Technology of the Chinese Institute of Electronics, 01/2022
 * Contribution Award for Graduate Forum on "Computing Future" at THU (Oral Presentation), 07/2020
