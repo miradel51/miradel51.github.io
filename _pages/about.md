@@ -56,11 +56,12 @@ Mieradilijiang has a broad research interest in language technology:
 ## 🗞️ Latest News
 <!-- 最近5条 -->
 <ul>
+  <li>09/23/2026  <a href="https://msbc.tech/#speakers">MSBC2026</a> I was invited as a main conference speaker at MSBC2026.</li>
   <li>07/24/2026  <a href="https://mp.weixin.qq.com/s/_uGJdU8tv4fflLYXXZHhSQ">MNLP2026</a> I was invited as a tutorial speaker at MNLP2026.</li>
   <li>06/16/2026  <a href="https://www.ieeesmc2026.org/Important-Dates?waf_answer=9">IEEE SMC2026</a> One paper has been accepted by IEEE SMC2026.</li>
   <li>06/04/2026  <a href="https://interspeech2026.org/en-AU">Interspeech2026</a> One regular paper and one tutorial paper have been accepted by Interspeech2026.</li>
   <li>05/19/2026  <a href="https://www.xiaohongshu.com/explore/6a0d25d50000000007010fbe?app_platform=ios&app_version=9.31.2&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBjPAE6h9EKa0ha4ARRW4SNVx32rjfEt38aiKozzFhBRc=&author_share=1&xhsshare=WeixinSession&shareRedId=ODZFMjZJNzw2NzUyOTgwNjY0OTc9Nj5A&apptime=1779470483&share_id=b794acbfac634efd90aedcd233e1dd76">Academic Seminar</a> We held an academic seminar between XJU & NUU.</li>
-  <li>03/30/2026  <a href="https://weibo.com/1886870501/QyvxIdaeM">ESWA2026</a> One paper has been accepted by ESWA2026.</li>
+  
 </ul>
 
 
@@ -72,6 +73,7 @@ Mieradilijiang has a broad research interest in language technology:
 <summary style="cursor: pointer; color: #2d78ad;">More</summary>
 
 <ul>
+   <li>03/30/2026  <a href="https://weibo.com/1886870501/QyvxIdaeM">ESWA2026</a> One paper has been accepted by ESWA2026.</li>
    <li>03/21/2026  <a href="https://www.icnlp.net/is.html">ICNLP2026</a> I was invited as a speaker and session chair at ICNLP2026.</li>
    <li>03/20/2026  <a href="https://attend.ieee.org/wcci-2026/">IJCNN2026</a> Four papers have been accepted by IJCNN2026.</li>
    <li>10/23/2025  <a href="https://openreview.net/forum?id=ncT0OvZeL6">ALTA2025</a> One paper has been accepted by ALTA2025.</li>
