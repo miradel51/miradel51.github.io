@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+  "Xining, MNLP2026",
+  36.6255,
+  101.7574
+  ],
+  [
     "Xi'An (ICNLP2026)",
     34.3416,
     108.9398
@@ -30,7 +35,7 @@ var addressPoints = [
     -122.33207
   ],
   [
-    "Damo Academy, Alibaba Group,Hangzhou (EMNLP2021 Feelings)",
+    "Damo Academy, Alibaba Group, Hangzhou (EMNLP2021 Feelings)",
     30.29400,
     120.01530
   ],
