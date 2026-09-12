@@ -1,5 +1,5 @@
 ---
-title: "Exploring the Necessity of Tool Learning in the Era of Large Models"
+title: "Exploring the Necessity of Tool Learning in the Era of Large Language Models"
 collection: talks
 type: "Talk"
 permalink: /talks/2024-10-23-llm_toollearning
