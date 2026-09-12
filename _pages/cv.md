@@ -64,7 +64,7 @@ redirect_from:
     * Yi Chen, Master, 10/2025-present, Xinjiang University
     * Yu Pei, Master, 10/2025-present, Xinjiang University
   * International Students
-    * Ahmad Hassan (comes from Pakistan), Master, 01/2026-present, Xinjiang University
+    * Ahmad Hassan (from Pakistan), Master, 01/2026-present, Xinjiang University
 
 * 🤝 Co-advised Students
   * Zhengyi Guo, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
@@ -73,7 +73,7 @@ redirect_from:
   * Jiaxin Wang, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
   * Shibo Zhang, Master, 07/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
   * Dezhi Wang, Master, 07/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
-  * Shaokun Liu, Master, 05/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
+  * Shaokun Liu, Master, 05/2025-06/2026, Xinjiang University (co-advised with Prof. Wushouer Silamu)
   * Yifei Li, Master, 08/2023-08/2024, Xinjiang Agricultural University (co-advised with Assoc. Prof. Xi Chen)
   * Wentao Xiao, Master, 06/2023-10/2023, Xinjiang University (co-advised with Prof. Hao Huang)
   * Dawulie Jinensibieke, Master, 08/2023-12/2023, University of CAS (co-advised with Assoc. Prof. Xiaobo Wang)
