@@ -63,20 +63,31 @@ redirect_from:
   * Chinese Students
     * Yi Chen, Master, 10/2025-present, Xinjiang University
     * Yu Pei, Master, 10/2025-present, Xinjiang University
+    * Jie Tang, Master, 09/2026-present, Xinjiang University
+    * Yixuan Jiang, Master, 09/2026-present, Xinjiang University
   * International Students
     * Ahmad Hassan (from Pakistan), Master, 01/2026-present, Xinjiang University
+    * Asad Naeem (from Pakistan), Master, 10/2026-present, Xinjiang University
+    * Ylyas Yylkybayev (from Turkey), Master, 10/2026-present, Xinjiang University
 
 * 🤝 Co-advised Students
-  * Zhengyi Guo, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
-  * Zhexin Li, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
-  * Shuoshuo Hou, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
-  * Jiaxin Wang, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
-  * Shibo Zhang, Master, 07/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
-  * Dezhi Wang, Master, 07/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
-  * Shaokun Liu, Master, 05/2025-06/2026, Xinjiang University (co-advised with Prof. Wushouer Silamu)
-  * Yifei Li, Master, 08/2023-08/2024, Xinjiang Agricultural University (co-advised with Assoc. Prof. Xi Chen)
-  * Wentao Xiao, Master, 06/2023-10/2023, Xinjiang University (co-advised with Prof. Hao Huang)
-  * Dawulie Jinensibieke, Master, 08/2023-12/2023, University of CAS (co-advised with Assoc. Prof. Xiaobo Wang)
+  * Chinese Students
+    * Haoran Ding, Master, 09/2026-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
+    * Yuhang Sun, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
+    * Yao Tan, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
+    * Chao Chen, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
+    * Zhengyi Guo, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
+    * Zhexin Li, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
+    * Shuoshuo Hou, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
+    * Jiaxin Wang, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
+    * Shibo Zhang, Master, 07/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
+    * Dezhi Wang, Master, 07/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
+    * Shaokun Liu, Master, 05/2025-06/2026, Xinjiang University (co-advised with Prof. Wushouer Silamu)
+    * Yifei Li, Master, 08/2023-08/2024, Xinjiang Agricultural University (co-advised with Assoc. Prof. Xi Chen)
+    * Wentao Xiao, Master, 06/2023-10/2023, Xinjiang University (co-advised with Prof. Hao Huang)
+    * Dawulie Jinensibieke, Master, 08/2023-12/2023, University of CAS (co-advised with Assoc. Prof. Xiaobo Wang)
+  * International Students
+    * Saad Tariq (from Pakistan), Ph.D., 10/2026-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
 
 * 👩‍💻 Research Interns
   * Hongbin Na, Master, 06/2023-08/2023, The University of New South Wales (UNSW), Sydney, Australia
