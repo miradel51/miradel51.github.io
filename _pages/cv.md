@@ -73,9 +73,9 @@ redirect_from:
 * 🤝 Co-advised Students
   * Chinese Students
     * Haoran Ding, Master, 09/2026-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
-    * Yuhang Sun, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
-    * Yao Tan, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
-    * Chao Chen, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
+    * Yuhang Sun, Master, 09/2026-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
+    * Yao Tan, Master, 09/2026-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
+    * Chao Chen, Master, 09/2026-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
     * Zhengyi Guo, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
     * Zhexin Li, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
     * Shuoshuo Hou, Master, 09/2025-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
