@@ -87,7 +87,7 @@ redirect_from:
     * Wentao Xiao, Master, 06/2023-10/2023, Xinjiang University (co-advised with Prof. Hao Huang)
     * Dawulie Jinensibieke, Master, 08/2023-12/2023, University of CAS (co-advised with Assoc. Prof. Xiaobo Wang)
   * International Students
-    * Saad Tariq (from Pakistan), Ph.D., 10/2026-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
+    * Muhammad Tariq Rashid (from Pakistan), Ph.D., 10/2026-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
 
 * 👩‍💻 Research Interns
   * Hongbin Na, Master, 06/2023-08/2023, The University of New South Wales (UNSW), Sydney, Australia
