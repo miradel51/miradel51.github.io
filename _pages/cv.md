@@ -38,7 +38,7 @@ redirect_from:
 ======
 * Third Prize, National Undergraduate Computer Design Competition, Advisor, 07/2026
 * Rising Star Award, ACM China Lanzhou Chapter, 10/2025
-* Second Prize of Science and Technology of the Chinese Institute of Electronics, 01/2022
+* Second Prize in Science and Technology, Chinese Institute of Electronics, 01/2022
 * Contribution Award for Graduate Forum on "Computing Future" at THU (Oral Presentation), 07/2020
 * Contribution Award for Workshop on "Frontier and Applications of AI" at THU (Oral Presentation), 03/2019
 * Third-class Social Practice Scholarship for Postgraduates of THU, 12/2016
@@ -68,7 +68,7 @@ redirect_from:
   * International Students
     * Ahmad Hassan (from Pakistan), Master, 01/2026-present, Xinjiang University
     * Asad Naeem (from Pakistan), Master, 10/2026-present, Xinjiang University
-    * Ylyas Yylkybayev (from Turkey), Master, 10/2026-present, Xinjiang University
+    * Ylyas Yylkybayev (from Turkmenistan), Master, 10/2026-present, Xinjiang University
 
 * 🤝 Co-advised Students
   * Chinese Students
@@ -94,7 +94,6 @@ redirect_from:
 
 * 📚 Visiting Students
   * Ruihan Yin, Undergraduate, 09/2025-present, Xinjiang University (College of Mathematics)
-  * Qianyu Zhao, Undergraduate, 09/2025-present, Xinjiang University (College of Mathematics)
   * Yang Li, Undergraduate, 03/2026-present, Xinjiang University (School of CS)
   * Lanlan Ma, Undergraduate, 06/2026-present, Xinjiang University (School of Intelligence Science and Technology)
 
