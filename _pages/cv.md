@@ -93,6 +93,7 @@ redirect_from:
   * Hongbin Na, Master, 06/2023-08/2023, The University of New South Wales (UNSW), Sydney, Australia
 
 * 📚 Visiting Students
+  * Qianyu Zhao, Undergraduate, 09/2025-05/2026, Xinjiang University (College of Mathematics)
   * Ruihan Yin, Undergraduate, 09/2025-present, Xinjiang University (College of Mathematics)
   * Yang Li, Undergraduate, 03/2026-present, Xinjiang University (School of CS)
   * Lanlan Ma, Undergraduate, 06/2026-present, Xinjiang University (School of Intelligence Science and Technology)
