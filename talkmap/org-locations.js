@@ -1,6 +1,11 @@
 var addressPoints = [
   [
-  "Xining, MNLP2026",
+  "Tashkent, Uzbekistan (MSBC2026)",
+  41.3111,
+  69.2406
+  ],
+  [
+  "Xining, Qinghai (MNLP2026)",
   36.6255,
   101.7574
   ],
