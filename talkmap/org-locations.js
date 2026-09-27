@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+  "Sydney, Australia (InterSpeech2026)",
+  -33.8678,
+  151.2073
+  ],
+  [
   "Tashkent, Uzbekistan (MSBC2026)",
   41.3111,
   69.2406
