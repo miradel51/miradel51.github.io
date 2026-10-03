@@ -88,6 +88,7 @@ redirect_from:
     * Dawulie Jinensibieke, Master, 08/2023-12/2023, University of CAS (co-advised with Assoc. Prof. Xiaobo Wang)
   * International Students
     * Muhammad Tariq Rashid (from Pakistan), Ph.D., 10/2026-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
+    * Saad Tariq (from Pakistan), Ph.D., 10/2026-present, Xinjiang University (co-advised with Prof. Wushouer Silamu)
 
 * 👩‍💻 Research Interns
   * Hongbin Na, Master, 06/2023-08/2023, The University of New South Wales (UNSW), Sydney, Australia
