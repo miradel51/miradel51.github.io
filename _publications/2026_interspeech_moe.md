@@ -25,4 +25,4 @@ The FAE explicitly models magnitude and phase cues, while the proposed Mixture o
 By applying low-rank updates in the singular value decomposition (SVD) domain while keeping the singular bases frozen, MoSE facilitates task-specific adaptation to spoofing-related spectral artifacts. 
 Evaluations on ASVspoof 2019 LA, ASVspoof 2021 LA/DF, and In-the-Wild benchmarks demonstrate the effectiveness of our approach and its strong generalization to unseen channel variations and real-world spoofing attacks.
 
-\[[PDF](https://www.researchgate.net/publication/407042877_Mixture_of_Spectral_Experts_for_Audio_Deepfake_Detection)\]
+\[[PDF](https://www.isca-archive.org/interspeech_2026/qiu26_interspeech.html)\]
