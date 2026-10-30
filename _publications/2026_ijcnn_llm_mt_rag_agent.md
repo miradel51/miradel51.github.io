@@ -7,14 +7,19 @@ date: 2026-03-20
 author: Shibo Zhang, <b>Mieradilijiang Maimaiti</b>*, Zhengyi Guo, Dezhi Wang, Wu Le, Zhuofei Xie, Jiawei Chen, and Wushour Silamu
 conference: In International Joint Conference on Neural Networks <b>(IJCNN, 2026)</b> (*=corresponding author) (Main track, Long paper)
 venue: ''
-paperurl: 'https://www.researchgate.net/publication/403332692_Retrieve_Refine_and_Translate_LLM-Based_Translation_for_Low-Resource_Languages'
+paperurl: 'https://ieeexplore.ieee.org/document/11728949'
 citation: '<br>
-@inproceedings{shibo2026_llm_mt_rag_agent,<br>
+@INPROCEEDINGS{11728949,<br>
+  author={Zhang, Shibo and Maimaiti, Mieradilijiang and Guo, Zhengyi and Wang, Dezhi and Le, Wu and Xie, Zhuofei and Chen, Jiawei and Silamu, Wushouer},<br>
+  booktitle={2026 International Joint Conference on Neural Networks (IJCNN)},<br>
   title={Retrieve, Refine, and Translate: LLM-Based Translation for Low-Resource Languages},<br>
-  author={Shibo Zhang, Mieradilijiang Maimaiti, Zhengyi Guo, Dezhi Wang, Wu Le, Zhuofei Xie, Jiawei Chen, and Wushour Silamu},<br>
-  journal={International Joint Conference on Neural Networks (IJCNN)},<br>
   year={2026},<br>
-}'
+  volume={},<br>
+  number={},<br>
+  pages={1-8},<br>
+  keywords={Modeling;Translation;Printing;Large language models;Machining;Machine translation;Retrieval augmented generation;Multilingual;Feedback;Conferences;Large Language Models;Low-Resource Languages;Machine Translation;Retrieval-Augmented Generation;Translation Refinement},<br>
+  doi={10.1109/IJCNN69854.2026.11728949},<br>
+  }'
 
 ---
 <h2><strong>Abstract</strong></h2>
@@ -27,7 +32,7 @@ By integrating implicit correction with explicit feedback, the proposed framewor
 Extensive experiments on three benchmarks (FLORES-200, NTREX-128, and TICO-19) covering 8 low-resource languages demonstrate the effectiveness of our framework, showing that our introduced approach achieves highly competitive performance against strong baseline systems with XCOMET and BLEURT. 
 The code is publicly available at \[[GitHub](https://github.com/qaza200/2stagerefine)\].
 
-\[[PDF](https://www.researchgate.net/publication/403332692_Retrieve_Refine_and_Translate_LLM-Based_Translation_for_Low-Resource_Languages)\] \[[Code](https://github.com/qaza200/2stagerefine)\] \[[Poster](https://miradel51.github.io/files/ijcnn2026_poster_zsb.pdf)\] \[[Slides](https://miradel51.github.io/files/IJCNN26_self-refine_mt.pdf)\]
+\[[PDF](https://ieeexplore.ieee.org/document/11728949)\] \[[Code](https://github.com/qaza200/2stagerefine)\] \[[Poster](https://miradel51.github.io/files/ijcnn2026_poster_zsb.pdf)\] \[[Slides](https://miradel51.github.io/files/IJCNN26_self-refine_mt.pdf)\]
 
 
 
