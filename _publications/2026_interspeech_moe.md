@@ -6,14 +6,17 @@ excerpt: ''
 date: 2026-06-04
 author: Yaxuan Qiu, Zhe Li, <b>Mieradilijiang Maimaiti</b>*, Zunwang Ke, Yanbing Li, and Wushour Silamu
 conference: In International Conference <b>Interspeech (2026)</b> (*=corresponding author)
-venue: ''
+venue: 'Sydney, Australia'
 paperurl: 'https://www.researchgate.net/publication/407042877_Mixture_of_Spectral_Experts_for_Audio_Deepfake_Detection'
 citation: '<br>
-@inproceedings{yaxuan2026_moe,<br>
-  title={Mixture of Spectral Experts for Audio Deepfake Detection},<br>
-  author={Yaxuan Qiu, Zhe Li, Mieradilijiang Maimaiti, Zunwang Ke, Yanbing Li, and Wushour Silamu},<br>
-  journal={Interspeech},<br>
-  year={2026},<br>
+@inproceedings{qiu26_interspeech,<br>
+  title     = {{Mixture of Spectral Experts for Audio Deepfake Detection}},<br>
+  author    = {Yaxuan Qiu and Zhe Li and Mieradilijiang Maimaiti and Zunwang Ke and Wushour Silamu},<br>
+  year      = {2026},<br>
+  booktitle = {{Interspeech 2026}},<br>
+  pages     = {1053--1057},<br>
+  doi       = {10.21437/Interspeech.2026-661},<br>
+  issn      = {2958-1796},<br>
 }'
 
 ---
