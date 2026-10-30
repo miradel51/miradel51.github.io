@@ -7,14 +7,19 @@ date: 2026-03-20
 author: Yu Pei, <b>Mieradilijiang Maimaiti</b>*, Yi Chen, Wu Le, Zhuofei Xie,  and Jiawei Chen
 conference: In International Joint Conference on Neural Networks <b>(IJCNN, 2026)</b> (*=corresponding author) (Main track, Long paper)
 venue: ''
-paperurl: 'https://www.researchgate.net/publication/403332946_DMG-RAG_Dynamic_Multi-Grained_Retrieval_Augmented_Generation_for_Multi-Hop_QA'
+paperurl: 'https://ieeexplore.ieee.org/document/11729924'
 citation: '<br>
-@inproceedings{yupei2026_dmg_rag,<br>
+@INPROCEEDINGS{11729924,<br>
+  author={Pei, Yu and Maimaiti, Mieradilijiang and Chen, Yi and Le, Wu and Xie, Zhuofei and Chen, Jiawei},<br>
+  booktitle={2026 International Joint Conference on Neural Networks (IJCNN)},<br>
   title={DMG-RAG: Dynamic Multi-Grained Retrieval Augmented Generation for Multi-Hop QA},<br>
-  author={Yu Pei, Mieradilijiang Maimaiti, Yi Chen, Wu Le, Zhuofei Xie,  and Jiawei Chen},<br>
-  journal={International Joint Conference on Neural Networks (IJCNN)},<br>
   year={2026},<br>
-}'
+  volume={},<br>
+  number={},<br>
+  pages={1-8},<br>
+  keywords={Retrieval augmented generation;Training;Printing;Spread spectrum communication;Computational linguistics;Context;Indexing;Indexes;Modeling;Conferences;multi-grained RAG;evidence set selection;multi-hop QA},<br>
+  doi={10.1109/IJCNN69854.2026.11729924},<br>
+  }'
 
 ---
 <h2><strong>Abstract</strong></h2>
@@ -26,7 +31,7 @@ Given the candidate pool, a \emph{Budgeter} performs budget-constrained evidence
 Experiments on HotpotQA, 2WikiMultiHopQA, and MuSiQue demonstrate that DMG-RAG consistently outperforms strong baselines under EM and F1, yielding substantial average gains (up to 7--8 points). The code is publicly available
 The code is publicly available at \[[GitHub](https://github.com/zza-zaa/DMG-RAG)\].
 
-\[[PDF](https://www.researchgate.net/publication/403332946_DMG-RAG_Dynamic_Multi-Grained_Retrieval_Augmented_Generation_for_Multi-Hop_QA)\] \[[Code](https://github.com/zza-zaa/DMG-RAG)\] \[[Poster](https://miradel51.github.io/files/ijcnn2026_poster_py.pdf)\] \[[Slides](https://miradel51.github.io/files/IJCNN2026_dmg_rag.pdf)\]
+\[[PDF](https://ieeexplore.ieee.org/document/11729924)\] \[[Code](https://github.com/zza-zaa/DMG-RAG)\] \[[Poster](https://miradel51.github.io/files/ijcnn2026_poster_py.pdf)\] \[[Slides](https://miradel51.github.io/files/IJCNN2026_dmg_rag.pdf)\]
 
 
 
