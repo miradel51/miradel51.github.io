@@ -56,7 +56,7 @@ Mieradilijiang has a broad research interest in language technology:
 ## 🗞️ Latest News
 <!-- 最近5条 -->
 <ul>
-  <li>10/19/2026  <a href="http://sc.cipsc.org.cn/mt/conference/2026/docs/accepted-papers">CCMT2026</a> Two papers have been accepted by CCMT2026.</li>
+  <li>10/19/2026  <a href="http://sc.cipsc.org.cn/mt/conference/2026/docs/accepted-papers">CCMT2026</a> Two papers have been accepted, receiving the <a href="https://miradel51.github.io/files/ccmt2026_betpaper_wdzs.pdf">Best Paper Award</a> and <a href="https://miradel51.github.io/files/ccmt2026_bestposter_cy.pdf">Best Poster Award</a>, respectively.</li>
   <li>09/27/2026  <a href="https://www.xiaohongshu.com/explore/6ab87e0a000000001802ac9d?xsec_token=ABSVfcjHg1pSCqOGOvXrHXm1clVFjvc2BcA2pP3_dOKbo=&xsec_source=pc_user">Interspeech2026 Tutorial</a> We gave a tutorial at Interspeech 2026.</li>
   <li>09/23/2026  <a href="https://msbc.tech/#speakers">MSBC2026</a> I was invited as a plenary speaker at MSBC2026.</li>
   <li>07/24/2026  <a href="https://mp.weixin.qq.com/s/_uGJdU8tv4fflLYXXZHhSQ">MNLP2026</a> I was invited as a tutorial speaker at MNLP2026.</li>
