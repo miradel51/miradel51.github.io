@@ -30,7 +30,7 @@ Multiple candidates are generated, with the best selected via a reference-free q
 Experiments on FLORES-200, IWSLT, and CCMatrix, among others, show consistent improvements over strong baselines on common translation metrics such as XCOMET-XL and BLEURT-20, demonstrating that reasoning over extracted linguistic knowledge effectively improves low-resource translation. 
 The code and data are publicly available. https://github.com/kyriezhizhi-ops/knt
 
-\[[PDF](http://sc.cipsc.org.cn/mt/conference/2026/files/accepted-papers/paper-023.pdf)\] \[[Code](https://github.com/kyriezhizhi-ops/knt)\] \[[Poster](https://miradel51.github.io/files/ccmt2026_poster_wdz.pdf)\] \[[Slides](https://miradel51.github.io/files/ccmt2026_slides_wdz.pdf)\] \[[Best Paper](https://miradel51.github.io/files/ccmt2026_betpaper_wdzs.pdf)\]
+\[[PDF](http://sc.cipsc.org.cn/mt/conference/2026/files/accepted-papers/paper-023.pdf)\] \[[Code](https://github.com/kyriezhizhi-ops/knt)\] \[[Poster](https://miradel51.github.io/files/ccmt2026_poster_wdz.pdf)\] \[[Slides](https://miradel51.github.io/files/ccmt2026_slides_wdz.pdf)\] \[[Best Paper Award](https://miradel51.github.io/files/ccmt2026_betpaper_wdzs.pdf)\]
 
 
 
