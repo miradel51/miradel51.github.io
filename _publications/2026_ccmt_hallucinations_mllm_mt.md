@@ -5,7 +5,7 @@ permalink: /publication/2026_ccmt_hallucinations_mllm_mt
 excerpt: ''
 date: 2026-11-13
 author: Yi Chen, <b>Mieradilijiang Maimaiti</b>*, Yu Pei, Jiaxin Wang, Shuoshuo Hou, Zhexin Li, Zhengyi Guo, and Wushour Silamu
-conference: The 22nd China Conference on Machine Translation and Multilingual Technology <b>(CCMT, 2026)</b> (*=corresponding author) (**Best poster paper**)
+conference: The 22nd China Conference on Machine Translation and Multilingual Technology <b>(CCMT, 2026)</b> (*=corresponding author) (<b>Best poster paper</b>)
 venue: ''
 paperurl: 'http://sc.cipsc.org.cn/mt/conference/2026/files/accepted-papers/paper-071.pdf'
 citation: '<br>
