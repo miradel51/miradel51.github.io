@@ -5,7 +5,7 @@ permalink: /publication/2026_ccmt_hallucinations_mllm_mt
 excerpt: ''
 date: 2026-11-13
 author: Yi Chen, <b>Mieradilijiang Maimaiti</b>*, Yu Pei, Jiaxin Wang, Shuoshuo Hou, Zhexin Li, Zhengyi Guo, and Wushour Silamu
-conference: The 22nd China Conference on Machine Translation and Multilingual Technology <b>(CCMT, 2026)</b> (*=corresponding author) (<b>Best poster paper</b>)
+conference: The 22nd China Conference on Machine Translation and Multilingual Technology <b>(CCMT, 2026)</b> (*=corresponding author) (<b>Best poster</b>)
 venue: ''
 paperurl: 'http://sc.cipsc.org.cn/mt/conference/2026/files/accepted-papers/paper-071.pdf'
 citation: '<br>
@@ -31,7 +31,7 @@ Experiments on VG and Multi30K with five LVLM backbones spanning three model fam
 Entity-level analyses further indicate reduced source-unsupported hallucinations in multiple settings.
 The corresponding source code is available at \footnote{\url{https://github.com/chenyi240226-oss/Text-Driven-Decoding}}.
 
-\[[PDF](http://sc.cipsc.org.cn/mt/conference/2026/files/accepted-papers/paper-071.pdf)\] \[[Code](https://github.com/chenyi240226-oss/Text-Driven-Decoding)\] \[[Poster](https://miradel51.github.io/files/ccmt2026_poster_cy.pdf)\] \[[Slides](https://miradel51.github.io/files/ccmt2026_slides_cy.pdf)\] \[[Best Poster Paper](https://miradel51.github.io/files/ccmt2026_bestposter_cy.pdf)\]
+\[[PDF](http://sc.cipsc.org.cn/mt/conference/2026/files/accepted-papers/paper-071.pdf)\] \[[Code](https://github.com/chenyi240226-oss/Text-Driven-Decoding)\] \[[Poster](https://miradel51.github.io/files/ccmt2026_poster_cy.pdf)\] \[[Slides](https://miradel51.github.io/files/ccmt2026_slides_cy.pdf)\] \[[Best Poster Award](https://miradel51.github.io/files/ccmt2026_bestposter_cy.pdf)\]
 
 
 
