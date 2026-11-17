@@ -26,4 +26,4 @@ Compared with graph-based STC methods, GRAPHPROMPT does not require document-lev
 Experiments on six datasets under a unified 20-shot protocol (20 training and 20 validation instances per class) over five random splits show that GRAPHPROMPT consistently outperforms a graph-only WORDGCN baseline and standard soft prompt tuning, and yields additional gains over strong BERT-only tuning on sparse domains, 
 while incurring only modest overhead relative to vanilla soft prompts.
 
-\[[PDF](https://www.researchgate.net/publication/412045419_GASP_Graph-Augmented_Soft_Prompt_Tuning_for_Few-Shot_Text_Classification)\]
+\[[PDF](https://www.researchgate.net/publication/412045419_GASP_Graph-Augmented_Soft_Prompt_Tuning_for_Few-Shot_Text_Classification)\] \[[Slides](https://miradel51.github.io/files/smc2026_zhangsen_slides.pdf)\]
